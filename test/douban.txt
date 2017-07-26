@@ -1,0 +1,1370 @@
+id^title^pubdate^publisher^pages^price^rating
+24133123^Python Visual QuickStart Guide^2013-7-15^Peachpit Press^224^USD 34.99^0.0
+26917066^Python An Introduction to Programming^2016-11-30^Mercury Learning & Information^600^USD 64.95^0.0
+26697627^Python Crash Course - The Ultimate Beginner's Course to Learning Python Programming in Under 12 Hours^2015-12-3^CreateSpace Independent Publishing Platform^134^USD 9.99^0.0
+25789709^Python Visual QuickStart Guide^2013-7-1^Peachpit Press Publications^^^0.0
+27036778^Python Data Analytics and Visualization^2017-4-11^Packt Publishing^866^USD 99.99^0.0
+27080305^Python A Study of the Delphic Myth and Its Origin^1980-5^Univ of California Pr^637^USD 14.00^0.0
+3117898^Python源码剖析 深度探索动态语言核心技术^2008-6^电子工业出版社^480^69.80元^8.7
+4866934^Python基础教程 ^2010年7月^人民邮电出版社^471^69.00元^7.9
+25779298^利用Python进行数据分析 ^2013-11-18^机械工业出版社^464^89.00^8.5
+3112503^Python核心编程（第二版） ^2008-06^人民邮电出版社^654^89.00元^7.7
+1440658^Dive Into Python ^19 July, 2004^Apress^414^$39.99^8.2
+3948354^Python学习手册 （第3版）^2009-8^机械工业出版社^656^89.00元^8.1
+3884108^可爱的Python ^2009-9^电子工业出版社^484^55.00元^7.4
+26264642^"笨办法"学Python ^2014-11-1^人民邮电出版社^249^CNY 49.00^8.0
+5948760^A Byte of Python 简明 Python 教程^2008-10-1^Lulu Marketplace^149^USD 27.98^8.8
+10561367^Head First Python（中文版） ^2012-3-1^中国电力出版社^457^68.00元^7.9
+7175280^Python科学计算 ^2012-1^清华大学出版社^621^98.00元^8.0
+6025284^Python灰帽子 黑客与逆向工程师的Python编程之道^2011-3^电子工业出版社^216^39.00元^7.5
+4828875^Python Cookbook （第2版）中文版^2010-5-1^人民邮电出版社^756^99.00元^8.6
+26274202^Flask Web开发：基于Python的Web应用开发实战 ^2014-12^人民邮电出版社^224^59.00元^8.7
+1239501^Python语言入门 ^2001-4^中国电力出版社^393^55.00元^7.4
+6049132^Python学习手册（第4版） ^2011-4^机械工业出版社^889^119.00元^7.8
+4212921^Python高级编程 ^2010-1^人民邮电出版社^306^45.00元^7.7
+1418172^Python Cookbook ^2005-3-18^O'Reilly Media^848^USD 49.95^8.4
+10760444^Python for Data Analysis Data Wrangling with Pandas, NumPy, and IPython^2012-11-1^O'Reilly Media^466^USD 39.99^8.2
+25910544^编写高质量代码：改善Python程序的91个建议 ^2014-6^机械工业出版社^272^59.00元^7.6
+5336893^Python自然语言处理 ^2010-6^东南大学出版社^479^64.00元^8.2
+5363753^Learn Python The Hard Way, 1st Edition ^2010^Lulu.com^163^$29.99^8.1
+1915868^Python编程（第三版·英文影印版） ^2006^东南大学出版社^1596^138.00元^8.3
+26829016^Python编程：从入门到实践 从入门到实践^2016-7-1^人民邮电出版社^459^CNY 89.00^8.8
+26740503^Python网络数据采集 ^2016-3-1^人民邮电出版社^200^CNY 59.00^7.8
+3696989^Natural Language Processing with Python Analyzing Text with the Natural Language Toolkit^2009-7-10^O'Reilly Media^504^USD 44.99^8.2
+11941213^Learn Python the Hard Way A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code^2013-10-11^Addison-Wesley Professional^320^USD 39.99^8.4
+26278021^Fluent Python ^2015-8-20^O'Reilly Media^768^USD 39.99^9.5
+10773324^Python标准库 ^2012-6-15^机械工业出版社华章公司^1040^139.00元^8.5
+4031965^Python UNIX 和Linux 系统管理指南 ^2009-9^机械工业出版社^417^65.00元^7.6
+3142908^Python Tutorial ^April 2000^Iuniverse Inc^140^USD 12.95^8.6
+1481058^How to Think Like a Computer Scientist: Learning with Python ^2002-1-4^Green Tea Press^288^USD 24.95^8.5
+4915945^Python Algorithms Mastering Basic Algorithms in the Python Language^2010-11-24^Apress^336^USD 49.99^8.8
+3988517^Learning Python Powerful Object-Oriented Programming^2009-10-9^O'Reilly Media^1216^USD 54.99^8.2
+10779534^Think Python How to Think Like a Computer Scientist^2012-6^O'Reilly Media^300^$39.99^8.3
+25728189^像计算机科学家一样思考Python ^2013-8^人民邮电出版社^328^49^8.1
+26852057^Python Web开发实战 ^2016-9-15^电子工业出版社^504^105^6.9
+2295097^Learning Python, 3rd Edition ^2007-10-22^O'Reilly Media, Inc.^620^USD 39.99^8.3
+26919485^从Python开始学编程 ^2016-11-24^电子工业出版社^208^CNY 49.00^8.5
+26836700^Python编程快速上手 让繁琐工作自动化^2016-7-1^人民邮电出版社^390^CNY 69.00^9.2
+5401851^Python参考手册（第4版） ^2010-12^人民邮电出版社^540^89.00元^7.5
+1426816^学习Python Learning Python, Second Edition^2005年6月^东南大学出版社^624^68.00元^8.1
+24669811^Building Machine Learning Systems with Python ^2013-7-26^Packt Publishing^290^USD 49.99^8.3
+5310233^Head First Python ^2010-11-30^O'Reilly Media^496^USD 49.99^8.0
+26284925^Web Scraping with Python Collecting Data from the Modern Web^2015-7-24^O'Reilly Media^256^USD 31.99^8.5
+3628911^Dive Into Python 3 ^2009-11-6^Apress^360^USD 44.99^8.5
+3285148^Expert Python Programming Best practices for designing, coding, and distributing your Python software^2008.9^Packt^350^45^8.2
+26702570^python绝技：运用python成为顶级黑客 运用Python成为顶级黑客^2016-1^电子工业出版社^264^79.00元^6.9
+1874839^Core Python Programming 2nd Edition, Core Series^2006-09-18^Prentice Hall PTR^1136^USD 49.99^8.1
+11610789^Python入门经典 以解决计算问题为导向的Python编程实践^2012-8-1^机械工业出版社^452^79.00元^8.1
+26670241^Python金融大数据分析 ^2015-12^人民邮电出版社^511^CNY 99.00^8.4
+25955274^Python编程实战 运用设计模式、并发和程序库创建高质量程序^2014-8^机械工业出版社^252^69.00元^7.7
+26590145^python黑帽子 黑客与渗透测试编程之道^2015-8-1^电子工业出版社^205^55^7.7
+1214355^Python 编程金典 ^2003-6^清华大学出版社^596^88.00元^8.0
+20491078^Python Cookbook ^2013-5-29^O'Reilly Media^706^USD 49.99^9.4
+2005622^PYTHON技术手册 ^2006-11^东南大学出版社^695^78.00元^7.7
+1797513^Programming Python 3rd edition^2006-8-30^O'Reilly Media^1552^USD 59.99^8.0
+3327994^High Performance Python ^2010-09-15^O'Reilly Media, Inc.^^USD 34.99^0.0
+26389274^Python高手之路 ^2015-5^人民邮电出版社^202^49.00元^7.7
+7059900^Python编程实践 ^2011-12-31^机械工业出版社华章公司^309^49.00元^7.2
+26258735^Python自动化运维 技术与最佳实践^2014-11-1^机械工业出版社^312^69.00^5.9
+20773481^真实世界的Python仪器监控 数据采集与控制系统自动化^2013-1^电子工业出版社^571^89.00元^7.5
+25717197^Python for Data Analysis Python大数据分析基础教程^2013-6-16^O'Reilly Media^450^^7.9
+10486432^Learn Python The Hard Way, 2nd Edition ^2011^^183^^8.3
+1845309^Python in a Nutshell, Second Edition in a Nutshell^2006-7-24^O'Reilly Media^738^USD 39.99^8.3
+24641620^High Performance Python Practical Performant Programming for Humans^2014-9-10^O'Reilly Media^380^USD 39.99^7.6
+25837145^趣学Python编程 ^2014-3^人民邮电出版社^268^45.00元^8.2
+26675127^Python语言及其应用 Python语言及其应用^2015-12^人民邮电出版社^383^79.00元^8.5
+1748395^Text Processing in Python ^2003-6-12^Addison-Wesley Professional^544^USD 54.99^7.5
+22139956^Learning Python ^2013-7-6^O'Reilly Media^1600^USD 64.99^9.0
+2240226^征服Python 语言基础与典型应用^2007年9月^人民邮电出版社^471^59.0^6.4
+26709315^Effective Python 编写高质量Python代码的59个有效方法^2016-1^机械工业出版社^^59^8.7
+25892709^Python for Informatics Exploring Information^2013-9-2^CreateSpace Independent Publishing Platform^244^USD 9.99^8.8
+26869992^用Python写网络爬虫 ^2016-8-1^人民邮电出版社^157^CNY 45.00^7.4
+26312313^Effective Python 59 Specific Ways to Write Better Python^2015-3-8^Addison-Wesley Professional^256^USD 39.99^8.1
+25921015^Python for Finance Analyze Big Financial Data^2014-12-27^O'Reilly Media^606^USD 44.99^7.8
+26381341^Python Cookbook 中文版，第 3 版 ^2015-5-1^人民邮电出版社^684^108.00元^8.9
+3273420^Python Essential Reference 4th Edition. Developer's Library^2009-07-19^Addison-Wesley Professional^648^USD 49.99^8.5
+3053232^Rapid GUI Programming with Python and Qt The Definitive Guide to PyQt Programming (Prentice Hall Open Source Software Development)^2007-10-18^Prentice Hall^648^GBP 39.99^8.4
+25906843^Python计算机视觉编程 ^2014-6-10^人民邮电出版社^284^69.00^7.6
+26677686^Python数据分析与挖掘实战 ^2016-1^机械工业出版社^335^69.00元^7.4
+3033853^Python for Unix and Linux System Administration ^2008-08-22^O'Reilly Media^458^USD 49.99^7.6
+6892016^深入浅出Python（影印版） ^2011-5^东南大学出版社^457^88.00元^8.6
+1482162^Beginning Python From Novice to Professional (Beginning: From Novice to Professional)^2005-09-26^Apress^610^USD 44.99^8.8
+25773122^Python编程入门（第3版） ^2013-11^人民邮电出版社^212^39.00^7.3
+25916599^Python自然语言处理 ^2014-6-25^人民邮电出版社^508^89.00^6.7
+26284938^Automate the Boring Stuff with Python Practical Programming for Total Beginners^2015-2-25^No Starch Press^448^USD 29.95^9.1
+25880219^Python开发实战 ^2014-6^人民邮电出版社^378^79.00元^6.6
+3889005^Python开发技术详解 ^2009^机械工业出版社^532^69.00元^6.7
+26699412^Python算法教程 ^2016-1-1^人民邮电出版社^318^69.00元^7.8
+3243372^学习PYTHON 第三版(英文影印版) LEARNING PYTHON， 3RD EDITION^2008-8-1^东南大学出版社^700 页^88.00元^8.5
+2152386^Python网络编程基础 使用Python构建网络程序的综合指南^2007^电子工业出版社^512 页^68.00元^7.5
+27028517^流畅的Python ^2017-5-15^人民邮电出版社^628^139元^9.4
+26801374^Python核心编程（第3版） ^2016-5^人民邮电出版社^660^CNY 99.00^7.5
+2044249^Python Programming An Introduction to Computer Science^2003-12^Franklin Beedle & Assoc^517^USD 40.00^8.0
+4249385^Pro Python ^2010-06-15^Apress^368^USD 49.99^8.5
+21325184^Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION ^2011-8-22^Franklin, Beedle & Associates^438^USD 45.00^9.1
+3434307^Gray Hat Python Python Programming for Hackers and Reverse Engineers^2009-4-23^No Starch Press^232^USD 39.95^7.7
+3205338^Beginning Python From Novice to Professional, Second Edition^2008^Apress^688^$45^8.5
+26640135^Python Web开发：测试驱动方法 测试驱动方法^2015-10^人民邮电出版社^444^99^7.6
+5924860^Python 3程序开发指南 ^2011-2-1^人民邮电出版社^618^69.00元^7.0
+2123546^Beginning Game Development with Python and Pygame From Novice to Professional^August 20, 2007^Apress^300^$26.39^7.9
+6789516^Data Structures and Algorithms Using Python ^2010-12-21^Wiley^520^730.00元^7.6
+26702568^数据结构与算法：Python语言描述 Python语言描述^2016-1^机械工业出版社^343^CNY 45.00^7.6
+24089005^Test-Driven Development with Python Obey the Testing Goat: Using Django, Selenium, and JavaScript^2014-6-29^O'Reilly Media^480^USD 44.99^8.3
+25798462^Python数据分析基础教程（第2版） NumPy学习指南^2014-1-1^人民邮电出版社^226^49.00元^6.1
+26230343^Python网络编程攻略 ^2014-12-1^人民邮电出版社^170^45.00元^6.3
+22925199^Introduction to Computation and Programming Using Python Revised and expanded edition^2013-7^The MIT Press^320^USD 25.00^8.7
+3814402^The Quick Python Book, Second Edition ^2010-1-15^Manning Publications^400^USD 39.99^7.7
+26886337^Python机器学习及实践 从零开始通往Kaggle竞赛之路^2016-10-1^清华大学出版社^^49元^8.0
+5363255^Invent Your Own Computer Games with Python, 2nd Edition ^May 1, 2010^Albert\Sweigart^438^$ 28.26^8.7
+26629312^Python Machine Learning ^2015-9^Packt Publishing - ebooks Account^454^USD 44.99^8.0
+10829316^Python计算与编程实践 Python计算与编程实践·多媒体方法^2012-7^机械工业出版社^312^69.00元^7.2
+26378430^Python数据可视化编程实战 ^2015-5-1^人民邮电出版社^242^49.00元^7.5
+4082016^Learning Python, 4th Edition, Ebook Powerful Object-Oriented Programming^2009-9^O'Reilly Media^1216^^8.1
+6846632^Python编程入门经典 ^2011-7^清华大学出版社^533^68.00元^6.6
+3767034^Python在Unix和Linux系统管理中的应用 ^2009-4^开明出版社^433^64.00元^7.3
+10607365^Data Structures and Algorithms in Python ^2013-3-18^Wiley^768^$ 176.00^8.5
+3098386^Problem Solving with Algorithms and Data Structures Using Python ^2005-9-1^Franklin Beedle & Associates^357^USD 45.00^9.2
+26327820^树莓派Python编程指南 ^2015-1-16^机械工业出版社^221^59^0.0
+6540551^The Python Standard Library by Example ^2011-6-11^Addison-Wesley Professional^1344^USD 59.99^7.8
+5407267^Python Programming An Introduction to Computer Science 2nd Edition^2010-5-18^Franklin, Beedle & Associates Inc^528^USD 45.00^7.4
+4793807^Foundations of Python Network Programming The comprehensive guide to building network applications with Python^2010-12-20^Apress^368^USD 54.99^7.1
+1240831^Python技术参考大全 ^2002-4^清华大学出版社^0^54.00^7.0
+24178620^Hacking Secret Ciphers with Python A beginner's guide to cryptography and computer programming with Python^2013-4-14^CreateSpace Independent Publishing Platform^436^USD 25.01^0.0
+26826540^Python数据挖掘入门与实践 ^2016-7^人民邮电出版社^252^59.00元^8.5
+4893005^Programming Python 4th edition^2011-1-10^O'Reilly Media^1632^$64.99^7.9
+1240249^Python核心编程 ^2001-8-1^机械工业出版社^496^75.00元^7.4
+25804112^Learning scikit-learn: Machine Learning in Python ^2013-11-25^Packt Publishing^118^USD 29.99^7.3
+6851222^MongoDB and Python Patterns and processes for the popular document-oriented database^2011-9-30^O'Reilly Media^68^USD 19.99^6.9
+3666230^Think Python An Introduction to Software Design: How To Think Like A Computer Scientist^2009-02-27^CreateSpace^240^USD 22.95^8.7
+25858277^Python for Finance ^2014-5-11^Packt Publishing - ebooks Account^408^USD 44.99^0.0
+6862113^Python Web开发学习实录 Python Web开发学习实录^2011-10^清华大学出版社^513^66.00元^5.8
+10574101^Programming Computer Vision with Python Tools and algorithms for analyzing images^2012-6-22^O'Reilly Media^256^USD 39.99^7.8
+20437815^Introduction to Computation and Programming Using Python ^2013-1-18^The MIT Press^280^USD 25.00^8.1
+3618928^Beginning Python Visualization Crafting Visual Transformation Scripts^2009^Apress^384^42.99^7.2
+4863526^Python技术手册(第2版) ^2010-6^人民邮电出版社^615^89.00元^7.1
+3010430^Python Web Development with Django ^2008-11-03^Addison-Wesley Professional^408^USD 49.99^7.4
+26468916^Python 3面向对象编程 ^2015-6^电子工业出版社^380^79.00元^8.4
+5360347^Python Text Processing with NLTK 2.0 Cookbook ^2010-11-11^Packt Publishing^272^USD 39.99^7.4
+4309422^Dive Into Python 3 ^2010-1-31^CreateSpace Independent Publishing Platform^500^USD 34.95^8.3
+26807339^爱上Python 一日精通Python编程^2016-6^人民邮电出版社^100^39.00元^7.2
+24878044^Learning Python, 5th Edition ^2013-6-26^O'Reilly Media^1600^$47.99^7.4
+26743627^跟老齐学Python 从入门到精通^2016-2^电子工业出版社^400^69.00元^7.1
+25812006^Raspberry Pi Python编程入门 ^2014-1-2^科学出版社^^38.00^7.1
+1725963^Python Standard Library ^2001-05^O'Reilly Media, Inc.^300^USD 29.95^7.6
+3236656^Python for Software Design How to Think Like a Computer Scientist^2009^Cambridge University Press^270^$39.99^8.0
+25894758^Black Hat Python Python Programming for Hackers and Pentesters^2014-12-14^No Starch Press^192^USD 34.95^0.0
+1241135^Python与Tkinter编程 ^2002-09-01^国防工业出版社^553^66.00元^7.0
+11605108^Violent Python A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers^2012-11-22^Syngress^288^USD 49.95^6.8
+1748392^Python Programming on WIN32 Help for Windows Programmers^2000-01^O'Reilly Media^674^USD 59.99^0.0
+4823621^Python 3 Object Oriented Programming ^2010^Packt^430^£21.99^8.1
+26279609^Introduction to Machine Learning with Python ^2016-5-25^O'Reilly Media^400^USD 49.99^0.0
+4214349^Invent Your Own Computer Games With Python ^2009-03-20^CreateSpace^334^USD 32.95^0.0
+24807528^Introducing Python Modern Computing in Simple Packages^2014-11-7^O'Reilly Media, Inc.^476^USD 39.99^6.5
+6525767^Python Testing Cookbook ^2011-5-17^Packt Publishing^364^USD 44.99^0.0
+26287445^Python编程初学者指 ^2014-10-1^人民邮电出版社^392^^8.3
+4074478^Python Pocket Reference Python in Your Pocket^2009-10-15^O'Reilly Media^210^USD 14.99^8.2
+26784317^Python科学计算(第2版) ^2016-4-29^清华大学出版社^716^118^8.0
+26284936^Python Playground Geeky Projects for the Curious Programmer^2015-11-7^No Starch Press^352^USD 29.95^0.0
+3320732^Programming in Python 3 A Complete Introduction to the Python Language^2008-12-26^Addison-Wesley Professional^552^USD 44.99^7.6
+24390228^Python in Practice Create Better Programs Using Concurrency, Libraries, and Patterns^2013-8-29^Addison-Wesley Professional^336^USD 39.99^7.2
+7069379^Core Python Applications Programming ^2012-3-19^Prentice Hall^888^GBP 33.99^7.8
+4246969^Matplotlib for Python Developers ^2009-11-12^Packt Publishing^308^USD 44.99^7.3
+25891146^The Hacker's Guide to Python ^2014-3-27^^288^^0.0
+26791779^The Hitchhiker's Guide to Python Best Practices for Development^2016-8-25^O'Reilly Media^300^USD 24.99^7.9
+26869212^Python网络编程（第3版） ^2016-9^人民邮电出版社^360^79.00元^8.5
+1240608^Python 2.1宝典 ^2002-01-01^电子工业出版社^600^59.00^7.6
+4136888^Python Testing: Beginner's Guide An easy and convenient approach to testing your powerful Python projects^2009^packt^230^USD 39.99^6.7
+26931280^Python机器学习 预测分析核心算法 Python语言编程教程书籍^2016-12^人民邮电出版社^320^69.00元^0.0
+26945535^量化投资：以Python为工具 ^2017-2^电子工业出版社^620^99^0.0
+4884974^Real World Instrumentation with Python Automated Data Acquisition and Control Systems^2010-11-29^O'Reilly Media^624^USD 54.99^0.0
+25863608^学习Python(第5版)(影印版) ^2014-1^东南大学出版社^1540^CNY 148.00^0.0
+26902158^Python高效开发实战 ^2016-10^电子工业出版社^516^89^5.1
+6962113^Python for Kids A Playful Introduction to Programming^2012-12-22^No Starch Press^344^USD 34.95^8.2
+26945534^零起点Python大数据与量化交易 ^2017-2^电子工业出版社^444^99^0.0
+26819420^Python性能分析与优化 ^2016-6-1^人民邮电出版社^178^45.00元^0.0
+6710638^Python编程 第4版 影印版 上下册 Python编程^2011-5^东南大学出版社^1584^148.00元^7.5
+26311697^Python游戏编程入门 ^2015-1-1^^292^^6.3
+1750202^Game Programming with Python, Lua, and Ruby (Game Development) ^2003-12-01^Course Technology PTR^^USD 39.99^0.0
+25796877^Python Data Visualization Cookbook ^2013-11-25^Packt Publishing^280^USD 39.99^0.0
+25812801^Python High Performance Programming Boost the performance of your Python programs using advanced techniques^2013-12-23^Packt Publishing^108^USD 26.99^0.0
+26314833^Python编程 ^2015-1-1^中国电力出版社^1487^CNY 198.00^7.6
+26290313^面向ArcGIS的Python脚本编程 ^2014-10-1^人民邮电出版社^296^CNY 49.00^0.0
+4231737^Financial Modeling in Python ^2009-8^^236^940.00元^0.0
+26590884^学习PYTHON—做个有编程能力的设计师 面向设计师的编程设计知识系统(PADKS)^2015-1-1^江苏凤凰科学技术出版社^288^138^7.4
+2085477^Python Cookbook ^2002^O'Reilly^606^^7.9
+1110414^Python编程基础 ^2003-6-1^清华大学出版社^288^25.00^0.0
+3628910^Dive Into Python ^2009-3-20^CreateSpace Independent Publishing Platform^330^USD 34.95^7.5
+21622482^Python语言程序设计 （英文版）^2013-3^机械工业出版社^557^79.00元^7.6
+26284937^Python Crash Course A Hands-On, Project-Based Introduction to Programming^2015-12-3^No Starch Press^560^USD 39.95^7.7
+3838189^Bioinformatics Programming Using Python Practical Programming for Biological Data^2009^O'Reilly Media, Inc.^528^USD 59.99^0.0
+26600459^Python Data Science Handbook Tools and Techniques for Developers^2016-6-25^O'Reilly Media^500^USD 59.99^0.0
+26816975^OpenCV 3计算机视觉：Python语言实现（原书第2版） Python语言实现^2016-6^机械工业出版社^181^49^7.6
+1905897^Python & XML ^2001-12-15^O'Reilly Media, Inc.^360^USD 39.95^0.0
+3118306^Foundations of Agile Python Development ^2008-06-23^Apress^393^USD 42.99^0.0
+26829015^精通Python设计模式 ^2016-7^人民邮电出版社^144^45.00元^6.6
+1452522^Python in a Nutshell ^2003-03^O'Reilly Media, Inc.^^USD 34.95^7.7
+1208996^XML与Perl、Python和PHP编程指南 ^2002-4-1^电子工业出版社^316^30.00^0.0
+6787931^Pro Android Python with SL4A Writing Android Native Apps Using Python, Lua, and Beanshell^2011-6-27^APRESS ACADEMIC^296^GBP 35.99^7.2
+6791897^Python语言在Abaqus中的应用 ^2011-8-1^机械工业出版社^339^48.00元^7.7
+24669825^Opencv Computer Vision with Python ^^^122^^6.2
+4741921^Pro Python System Administration ^2010-7-27^Apress^416^USD 49.99^0.0
+4936875^Maya Python for Games and Film A Complete Reference for Maya Python and the Maya Python API^2011-11-1^CRC Press^408^GBP 36.99^0.0
+10518867^Making Games with Python & Pygame ^2012-1-12^CreateSpace Independent Publishing Platform^366^USD 25.01^8.0
+26643233^Numerical Python: A Practical Techniques Approach for Industry A Practical Techniques Approach for Industry^2015-10-2^Apress^487^USD 42.85^0.0
+26731446^Python数据分析 Python Data Analysis^2016-2^人民邮电出版社^308^59^0.0
+1206755^Python程序员指南 ^2001-8-1^中国青年出版社^300^29.00^6.6
+1482163^Foundations of Python Network Programming ^2004-8-17^Apress^512^USD 44.99^7.6
+25915739^Building probabilistic graphical models with Python ^2014-5-25^Packt Publishing - ebooks Account^112^USD 27.99^0.0
+26999123^精通Python网络爬虫：核心技术、框架与项目实战 ^2017-3^机械工业出版社^^69^5.2
+1926529^Python Scripting for Computational Science ^^Springer^726 pages^$60.16^0.0
+26634682^Data Visualization with Python and JavaScript ^2016-6-25^O'Reilly Media^500^USD 44.99^0.0
+26414709^零基础学Python ^2015-2^机械工业出版社^462^CNY 79.00^6.9
+25910720^Mastering Python Regular Expressions ^2014-2-26^Packt Publishing - ebooks Account^110^USD 24.99^7.3
+6960524^Python and AWS Cookbook ^2011-11-2^O'Reilly Media^76^USD 25.99^0.0
+1774156^Python Web Programming ^2002-01-18^Sams^720^USD 49.99^0.0
+1240165^深入学习：Python程序开发 ^2001-8-1^电子工业出版社^600^58.00^0.0
+26284929^Machine Learning in Python Essential Techniques for Predictive Analysis^2015-4-27^Wiley^360^USD 50.00^0.0
+26987890^Python大战机器学习 数据科学家的第一个小目标^2017-3^电子工业出版社^452^69^0.0
+1100899^用Python学编程 ^2002-9^清华大学出版社^228^32.00元^7.5
+5359505^MySQL for Python Database Access Made Easy^2010-09-21^Packt Publishing^440^USD 49.99^0.0
+26870407^像计算机科学家一样思考Python (第2版) ^2016-7^人民邮电出版社^226^49.00^0.0
+26386962^Web Scraping with Python ^2015-10-28^Packt Publishing - ebooks Account^174^GBP 16.99^0.0
+25860740^Python Network Programming Cookbook ^2014-3-26^Packt Publishing - ebooks Account^270^USD 44.99^0.0
+25850261^易学Python ^2014-4^人民邮电出版社^298^45.00元^6.8
+5406058^Python Geospatial Development ^2010-12-14^Packt Publishing^508^USD 49.99^0.0
+26274624^Python数据分析 ^2013-5-1^东南大学出版社^452^CNY 74.00^0.0
+26759971^Python面向对象编程指南 Mastering Object-oriented Python^2016-3^人民邮电出版社^432^79元^0.0
+26854249^Python数据分析实战 ^2016-8-1^人民邮电出版社^290^CNY 59.00^0.0
+5976569^Python 2.6 Text Processing Beginners Guide^2010-12-14^Packt Publishing^380^USD 44.99^0.0
+1787768^Web Programming in Python Techniques for Integrating Linux, Apache and MySQL^2001-10-15^Prentice Hall PTR^^USD 44.99^0.0
+4298371^Python Programming for the Absolute Beginner, 3rd Edition ^2010-1-1^Cengage Learning PTR^480^GBP 19.99^0.0
+1510217^Game Programming With Python (Game Development Series) ^2003-10-24^Charles River Media^470^USD 49.95^0.0
+2123551^Professional Python Frameworks Web 2.0 Programming with Django and Turbogears^October 22, 2007^Wrox^400^$26.39^0.0
+2208819^Python For Dummies (For Dummies (Computer/Tech)) ^2006^For Dummies^410^$29.99^0.0
+1453163^Learning Python, Second Edition ^2003-12^O'Reilly Media^591^USD 39.99^0.0
+4018697^Programming in Python 3 A Complete Introduction to the Python Language (2nd Edition)^2009-11-22^Addison-Wesley Professional^648^USD 44.99^0.0
+26083656^Python Algorithms Mastering Basic Algorithms in the Python Language^2014-9-4^Apress^320^USD 54.99^0.0
+26931434^Python项目开发实战（第2版） ^2016-12^人民邮电出版社^424^79.00元^0.0
+26600885^Thoughtful Machine Learning with Python A Test-Driven Approach^2017-1-27^O'Reilly Media^216^USD 42.99^0.0
+26320899^Python硬件编程实战 ^2015-2^机械工业出版社^^49^6.3
+26600460^Data Wrangling With Python Tips and Tools to Make Your Life Easier^2016-2-28^O'Reilly Media^508^USD 39.99^0.0
+26643589^Python语言程序设计 ^2015-4^机械工业出版社^448^79.00元^6.4
+26634683^Think Python How to Think Like a Computer Scientist^2015-12-28^O'Reilly Media^292^USD 44.99^7.6
+26314843^Python袖珍指南 ^2015-1^中国电力出版社^189^38.00元^0.0
+25839870^计算机编程导论—Python程序设计 ^2013-10^人民邮电^270^49.80^0.0
+1461768^Programming Python, Second Edition with CD ^2001-03^O'Reilly Media, Inc.^1255^USD 59.99^0.0
+4122449^Python for Bioinformatics (Chapman & Hall/Crc Mathematical & Computational Biology) ^2009-09-30^Chapman & Hall/CRC^584^USD 69.95^0.0
+3922632^Python 3 技術手冊 ^2009年05月06日^碁峰^^^0.0
+26673270^Spark for Python Developers ^2016-2-4^Packt Publishing - ebooks Account^146^USD 34.99^0.0
+26773319^Python核心编程 第3版 英文版 ^2016-3-1^人民邮电出版社^822^^0.0
+26378143^python入门经典 ^2014-10-1^人民邮电出版社^235^39^0.0
+26359180^Building Machine Learning Systems with Python - Second Edition ^2015-3-31^Packt Publishing^326^GBP 32.99^0.0
+26791781^Expert Python Programming - Second Edition ^2016-8-4^Packt Publishing - ebooks Account^460^USD 49.99^0.0
+22154042^Writing Idiomatic Python 2.7.3 ^^^72^^0.0
+11232098^A Primer on Scientific Programming with Python ^2012-7^^830^$ 90.34^0.0
+6918976^Introduction to Python Programming and Developing GUI Applications with PyQT ^2011-12-1^Course Technology PTR^416^USD 29.99^0.0
+4724367^Hello! Python ^2012-2-23^Manning Publications^424^USD 34.99^0.0
+26869300^Python密码学编程 ^2016-8-1^人民邮电出版社^324^56.00 元^0.0
+26335525^Functional Python Programming ^2015-1-31^Packt Publishing^360^USD 49.99^0.0
+25953479^Testing Python Applying Unit Testing, TDD, BDD and Acceptance Testing^2014-8-11^Wiley^240^USD 44.99^0.0
+26668430^Python项目开发实战 ^2015-10-1^清华大学出版社^340^59.80元^0.0
+1873171^Essential Python for Corpus Linguistics ^2007-10^Blackwell Publishers^208^USD 39.95^0.0
+1421063^Python Programming Patterns ^2001-10-23^Prentice Hall PTR^^USD 44.99^0.0
+4116081^A Primer on Scientific Programming with Python ^2009^Springer-Verlag Berlin^693^USD 59.95^0.0
+26383194^Mastering Python for Finance ^2015-5-29^Packt Publishing - ebooks Account^292^USD 49.99^0.0
+26284922^Python Data Analysis ^2014-10-27^Packt Publishing - ebooks Account^348^USD 49.99^0.0
+25887457^Python宝典 ^2014-5^电子工业出版社^504^79.80元^0.0
+25868100^Parallel Programming with Python ^2014-7-14^Packt Publishing - ebooks Account^107^USD 22.99^0.0
+26689173^21天学通Python ^2016-1^电子工业出版社^344^59.80元^0.0
+25788847^Learning Python Design Patterns ^2013-11-25^Packt Publishing^100^USD 22.49^0.0
+11714416^The Practice of Computing Using Python ^2012-2-25^Addison-Wesley^792^USD 115.20^0.0
+2333545^Mobile Python Rapid prototyping of applications on the mobile platform (Symbian Press)^2007-12-14^Wiley^348^USD 45.00^0.0
+4021399^Introduction to Computing and Programming in Python, A Multimedia Approach (2nd Edition) ^2009-07-11^Prentice Hall^432^USD 107.00^0.0
+26430013^高性能Python ^2015-2^东南大学出版社^351^^0.0
+26336439^Mastering Python Design Patterns ^2015-2-12^Packt Publishing - ebooks Account^199^USD 44.99^0.0
+25830670^Python Pocket Reference ^2014-2-10^O'Reilly Media^264^USD 14.99^0.0
+1886782^Python and Tkinter Programming ^2000-01^Manning Publications^658^USD 49.95^0.0
+2376958^Python Scripting for Computational Science Texts in Computational Science and Engineering^2008^Springer^756^$69.95^0.0
+26383192^Python Data Science Essentials ^2015-4-30^Packt Publishing - ebooks Account^216^USD 39.99^0.0
+25782783^Python and HDF5 ^2013-11-8^O'Reilly Media^152^USD 29.99^0.0
+1840672^Learning Python ^1999-4-14^O'Reilly Media^384^USD 34.95^0.0
+1240563^Python 编程指南 ^2002-1^中国水利水电出版社^313^40.00元^0.0
+26604879^趣学Python 教孩子学编程^2015-2^人民邮电出版社^280^59^0.0
+26361065^Derivatives Analytics with Python Data Analysis, Models, Simulation, Calibration and Hedging^2015-7-13^Wiley^328^USD 100.00^0.0
+26683588^Building Python Real-Time Applications with Storm ^2015-12-2^Packt Publishing^122^USD 29.99^0.0
+26899714^Python科学计算基础教程 ^2016-11^人民邮电出版社^200^49.00元^0.0
+11403010^Python Scripting for ArcGIS ^2013-1-9^Esri Press^368^USD 79.95^0.0
+1949295^Python Pocket Reference Pocket Reference^2005^O'Reilly^148^$9.95^0.0
+1806696^Practical Python ^2002-8-6^Apress^619^USD 49.95^0.0
+3643977^Beginning Python Using Python 2.6 and Python 3.1 (Wrox Programmer to Programmer)^2010-02-02^Wrox^588^USD 39.99^0.0
+26261907^Foundations of Python Network Programming ^2014-10-20^Apress^388^USD 49.99^0.0
+26582041^Introduction to Programming in Python An Interdisciplinary Approach^2015-6-12^Addison-Wesley Professional^792^USD 69.99^0.0
+26610859^Python Parallel Programming Cookbook ^2015-9-1^Packt Publishing - ebooks Account^262^USD 49.99^0.0
+26607568^零基础学python图文版 ^2015-7-1^^188^^0.0
+26340738^Data Structure and Algorithmic Thinking with Python Data Structure and Algorithmic Puzzles^2015-1-29^CareerMonk Publications^470^USD 39.99^0.0
+26868640^Python游戏编程快速上手 ^2016-8-1^人民邮电出版社^335^59^0.0
+26759991^Python 语言构建机器学习系统 第2版（影印版） ^2016-1-1^东南大学出版社^301^68.00元^0.0
+26702574^Python和Pygame游戏开发指南 ^^^^^0.0
+7962975^Introduction to Computing Using Python An Application Development Focus^2011-12-20^Wiley^512^694.00元^0.0
+6525823^Python 3 Web Development Beginner's Guide ^2011-5-12^Packt Publishing^336^USD 44.99^0.0
+1461211^Python Programming for the Absolute Beginner (Absolute Beginner) ^2003-08-11^Course Technology PTR^^USD 29.99^0.0
+4220424^Python For Bioinformatics ^2009-6-16^Jones & Bartlett Publishers^417^USD 105.95^0.0
+4606883^The Practice of Computing using Python ^2010-03-07^Addison Wesley^696^USD 105.00^0.0
+26782172^Distributed Computing with Python ^2016-5-5^Packt Publishing^156^USD 34.99^0.0
+25879746^Mastering Object-Oriented Python ^2014-4-22^Packt Publishing^634^USD 45^0.0
+26966433^零基础入门学习Python ^2016-11-1^清华大学出版社^350^CNY 49.50^0.0
+25726415^Python for UNIX and Linux System Administration Python UNIX 和Linux 系统管理指南^^^418^^0.0
+10438000^Starting Out with Python ^2011-3^Addison-Wesley^648^703.00元^0.0
+1758560^Python Essential Reference (3rd Edition) (Developer's Library) ^2006-02-20^Sams^625^USD 34.99^0.0
+3643978^Python 3 for Absolute Beginners ^2009-08-24^Apress^316^USD 32.99^0.0
+26635148^Mastering Python High Performance Measure, optimize, and improve the performance of your Python code with this easy-to-follow guide^2015-9-9^Packt Publishing^260^USD 35.99^0.0
+26422580^Mastering Probabilistic Graphical Models using Python ^2015-8-3^Packt Publishing - ebooks Account^287^USD 44.99^0.0
+26590934^ArcGIS下的Python编程 面向设计师的编程设计知识系统(PADKS)^2015-6^江苏凤凰科学技术出版社^288^128^0.0
+25962876^Python Cookbook ^2014-1-1^东南大学出版社^687^CNY 98.00^0.0
+26904580^Python Qt GUI快速编程 PyQt编程指南^2016-9-1^电子工业出版社^460^79.00^0.0
+11230354^The Monty Python's Flying Circus: Complete and Annotated...All the Bits ^2012-11^lack Dog & Leventhal Publishers^880^$ 56.50^0.0
+6120545^Porting to Python 3 An in-depth guide^2011-3-2^CreateSpace^138^USD 29.99^0.0
+3004928^Next-Generation Web Frameworks in Python ^April 09, 2007^O'Reilly^43^^0.0
+26920856^Python数据科学指南 ^2016-11-1^人民邮电出版社^380^CNY 79.00^0.0
+26899427^An Introduction to Statistics with Python With Applications in the Life Sciences^^^^^0.0
+22165817^Programming ArcGIS 10.1 with Python Cookbook ^2013-2-22^Packt Publishing^304^USD 44.99^0.0
+22154058^Writing Idiomatic Python 3.3 ^^^72^^0.0
+5363254^Python Programming Fundamentals ^2010年10月^^241^$ 45.14^0.0
+11714119^Introduction to Programming Using Python ^2012-1^^576^$ 118.88^0.0
+3241928^Python Create - Modify - Reuse^2008-07-08^Wrox^262^USD 39.99^0.0
+3095306^An Introduction to Python The Python Tutorial (version 2.5)^November 2006^Network Theory Limited^164^$19.95^0.0
+1897383^Monty Python Speaks ^1999-6^Harper Paperbacks^352^USD 13.95^0.0
+1868776^Beginning Python (Programmer to Programmer) ^2005-08-05^Wrox^696^USD 34.99^0.0
+1458409^The Python Language Reference Manual ^2003-9-1^Network Theory Ltd.^144^USD 19.95^0.0
+3607846^Exploring Python ^2009-02-17^McGraw-Hill Science/Engineering/Math^288^$ 90.40^0.0
+26630632^Learning Robotics using Python Design, simulate, program, and prototype an interactive autonomous mobile robot from scratch with the help of Python, ROS, and Open-CV!^2015-5-29^Packt Publishing^385^USD 40.49^0.0
+26630181^Python Data Science Cookbook ^2015-11^Packt Publishing - ebooks Account^347^USD 49.99^0.0
+26632638^Understanding Network Hacks: Attack and Defense with Python ^2015-1-20^Springer^178^USD 42.14^0.0
+26422579^Learning Data Mining with Python ^2015-7-31^Packt Publishing - ebooks Account^369^USD 44.99^0.0
+26428434^Python Requests Essentials ^2015-6-30^Packt Publishing - ebooks Account^122^USD 39.99^0.0
+26299640^Learning Selenium Testing Tools with Python ^2014-12-29^Packt Publishing - ebooks Account^219^USD 44.99^0.0
+25923357^Python 3 Text Processing with NLTK 3 Cookbook ^2014-9-1^Packt Publishing - ebooks Account^310^USD 44.99^0.0
+26333403^Modeling Techniques in Predictive Analytics with Python and R A Guide to Data Science^2014-10-11^Pearson FT Press^448^USD 79.99^0.0
+26304858^Pro Python ^2014-12-24^Apress^384^USD 49.99^0.0
+25978198^Python for Secret Agents ^2014-8-22^Packt Publishing - ebooks Account^159^USD 27.99^0.0
+27000110^python机器学习 ^2017-3-15^机械工业出版社^259^79^0.0
+5392529^Fundamentals of Python ^2009-7^^944^^0.0
+1864417^Monty Python's Spamalot ^2005-09-01^Hal Leonard Corporation^88^USD 17.95^0.0
+1475843^Python 2.1 Bible ^2001-06-29^Wiley^731^USD 60.00^0.0
+4090035^PYTHON 2.6 and C or C++ Extending and Embedding Python^2009-4-13^CreateSpace Independent Publishing Platform^110^USD 13.95^0.0
+3842893^Python Programming In Context ^2008-9-5^Jones & Bartlett Learning^492^USD 154.95^0.0
+3842895^The Complete Ball Python A Comprehensive Guide to Care, Breeding and Genetic Mutations^2005^ECO & Serpent's Tale Nat Hist Books^^^0.0
+26767788^Maya Python游戏与影视编程指南 A Complete Reference for Maya Python and the Maya Python API^2016-2^人民邮电出版社^290^79.00元^0.0
+26594408^Data Structures and Algorithms with Python ^2015-1-22^Springer^363^EUR 50.84^0.0
+26338431^算法与程序设计基础（Python版） ^2015-2-1^清华大学出版社^^39^0.0
+26649758^Learning OpenCV 3 Computer Vision with Python - Second Edition Unleash the power of computer vision with Python using OpenCV^2015-11-2^Packt Publishing^246^USD 42.84^0.0
+24833377^Python Geospatial Development - Second Edition ^2013-5-24^Packt Publishing^508^USD 49.99^0.0
+10316075^A Primer on Scientific Programming with Python ^^^736^$ 67.74^0.0
+7920125^Exploring Python ^2009-5^^^$ 96.90^0.0
+11502547^A Python Primer for ArcGIS® ^2011-12-5^CreateSpace^462^USD 43.00^0.0
+1886640^The Complete Monty Python's Flying Circus All the Words, Volume 2^1989-11-12^Pantheon^384^USD 16.00^0.0
+2379220^Numerical Methods in Engineering with Python ^2005-07-25^Cambridge University Press^432^USD 91.00^0.0
+2557602^Monty Python and Philosophy Nudge Nudge, Think Think! (Popular Culture and Philosophy)^2006-03-30^Open Court^288^USD 17.95^0.0
+1774155^Internet Programming with Python ^1996-09-30^M & T Books^^USD 34.95^0.0
+1467937^Python The Complete Reference^2001-09-21^Osborne/McGraw-Hill^724^USD 49.99^0.0
+26760498^Python for Probability, Statistics, and Machine Learning ^2016-4-12^Springer^276^USD 112.55^0.0
+26931892^Python数据抓取技术与实战 ^2016-8-1^电子工业出版社^247^CNY 49.00^0.0
+26931889^Python高级编程 ^2016-11-1^清华大学出版社^249^CNY 49.80^0.0
+26916700^Python参考手册 第4版 修订版 ^2016-10^人民邮电出版社^523^89.00^0.0
+26773326^ABAQUS Python二次开发攻略 ^2016-4-1^人民邮电出版社^316^CNY 59.80^0.0
+26610141^Python 3 Object-Oriented Programming - Second Edition ^2015-9-1^Packt Publishing - ebooks Account^504^USD 49.99^0.0
+26428436^Learning Python Network Programming ^2015-6-30^Packt Publishing - ebooks Account^277^USD 49.99^0.0
+26284932^Doing Math with Python Use Programming to Explore Algebra, Geometry, Calculus, and More!^2015-3-25^No Starch Press^304^USD 29.95^0.0
+25982524^Practical Maya Programming with Python ^2014-6-24^Packt Publishing - ebooks Account^321^USD 44.99^0.0
+26729167^Designing Machine Learning Systems with Python ^2016-4-6^Packt Publishing - ebooks Account^252^GBP 28.99^0.0
+26799844^python 程序设计 ^2016-2^机械工业出版社^369^79.00 元^0.0
+26905855^Introduction to Computation and Programming Using Python With Application to Understanding Data^2016-8-12^The MIT Press^472^USD 45.00^0.0
+25804127^Learning Geospatial Analysis with Python ^2013-10-25^Packt Publishing^364^USD 49.99^0.0
+20876206^Head First Python ^^^550^^0.0
+21749843^Python for Everyone ^2013-3^John Wiley & Sons^634^$ 133.62^0.0
+2607791^Python Power! The Comprehensive Guide^2007-07-24^Course Technology PTR^528^USD 34.99^0.0
+4528649^Fundamentals of Python From First Programs through Data Structures^2009-1-8^Course Technology^915^USD 144.95^0.0
+26284792^Geoprocessing with Python ^2015-12-31^Manning Publications^400^USD 49.99^0.0
+26994394^流利的Python语言 (影印版) ^2017-1-1^东南大学出版社^743^118.00^0.0
+26731481^Python和HDF 5大数据应用 ^2016-2^人民邮电出版社^115^39.00元^0.0
+26886708^Data Science Essentials in Python Collect - Organize - Explore - Predict - Value^2016-8-20^Pragmatic Bookshelf^200^USD 29.00^0.0
+24640101^Managing Your Biological Data with Python ^2014-3-18^Chapman and Hall/CRC^560^USD 69.95^0.0
+7962762^Introduction to Computer Science Using Python ^2012-12^^580^$ 133.62^0.0
+5904091^Python 2.6 Graphics Cookbook Over 100 great recipes for creating and animating graphics using Python^^^260^^0.0
+3010787^Bioinformatics Programming in Python ^2008-4^^428^701.00元^0.0
+2695871^The Quick Python Book ^2000-01-01^Manning Publications^422^USD 39.95^0.0
+1787770^Sams Teach Yourself Python in 24 Hours (Teach Yourself -- 24 Hours) ^2000-05-15^Sams^^USD 24.99^0.0
+3566598^Python How to Program, 1/e ^2002-02-14^Prentice Hall^1376^USD 122.00^0.0
+26674733^Effective Python 中文版 寫出良好 Python 程式的 59 個具體做法^2015-8-27^碁峰资讯股份有限公司^276^^0.0
+26052907^Python for Scientists ^2014-8^Cambridge University Press^220^£27.95^0.0
+26960682^python生物信息数据管理 ^2017-1^电子工业出版社^318^69.00元^0.0
+26928955^Modern Python Cookbook ^2016-12-6^Packt Publishing - ebooks Account^583^GBP 31.99^0.0
+26768792^How to Make Mistakes in Python ^2015-9-25^O'Reilly Media, Inc.^68^^0.0
+26630168^Foundations for Analytics with Python ^2016-6-25^O'Reilly Media^300^USD 44.99^0.0
+25911236^Annotated Algorithms in Python with Applications in Physics, Biology, and Finance^2013-11-26^Experts4Solutions^388^USD 40.00^0.0
+25872904^Everything I Ever Needed to Know About _____* I Learned from Monty Python: *History, Art, Poetry, Communism, Philosophy, the Media, Birth, Death, ... Mythology, Fish Slapping, and Many More! ^2014-3-18^Thomas Dunne Books^336^USD 18.15^0.0
+26729166^Mastering Natural Language Processing with Python ^2016-6-10^Packt Publishing - ebooks Account^238^USD 49.99^0.0
+26688076^Python Data Visualization Cookbook - Second Edition ^2015-11-30^Packt Publishing - ebooks Account^302^USD 44.99^0.0
+26703643^Python Unlocked ^2015-12-30^Packt Publishing^172^USD 39.99^0.0
+25820268^Python for Signal Processing Featuring IPython Notebooks^2013-10-10^Springer^130^USD 119.00^0.0
+25830840^Python for Biologists A complete programming course for beginners^2013^^^^0.0
+25853198^Python Scripts for Abaqus Learn by Example^2011^^725^^0.0
+4864148^Spring Python 1.1 ^2010-05-25^Packt Publishing^264^USD 44.99^0.0
+10316675^Python Scripting for Computational Science ^2013-7^^786^$ 101.64^0.0
+11392791^Pyomo - Optimization Modeling in Python ^2012-2-9^Springer^256^USD 59.95^0.0
+3296913^Python Guia De Referencia/ Reference Guide (Spanish Edition)^2008-01-02^Anaya Multimedia^^USD 90.95^0.0
+1507233^Core Python Programming (Prentice Hall Ptr Core Series) ^2000-12-15^Prentice Hall PTR^^USD 44.99^0.0
+4058740^Python 3 Distributing Modules:^2009-3-20^CreateSpace^114^USD 15.95^0.0
+3666839^Learning with PYTHON How to Think Like a Computer Scientist^2009-2-27^CreateSpace^278^USD 21.95^0.0
+4409686^Monty Python's Flying Circus ^2008-6^^576^$ 73.45^0.0
+26741448^Études for Python Exercises for Programmers^2016-8-25^O'Reilly Media^250^USD 24.99^0.0
+26927370^Text Analytics with Python A Practical Real-World Approach to Gaining Actionable Insights from your Data^2016-12-29^Apress^385^USD 44.99^0.0
+26932642^Python高手之路 第3版 ^2016-11^人民邮电出版社^^^0.0
+26604940^Python Data Analytics ^2015-8-21^Apress^364^USD 49.99^0.0
+26422582^Python Geospatial Development Essentials ^2015-6-30^Packt Publishing - ebooks Account^143^USD 29.99^0.0
+26857652^Large Scale Machine Learning with Python ^2016-8-4^Packt Publishing - ebooks Account^439^USD 49.99^0.0
+26883039^树莓派Python编程入门与实践 ^^^^^0.0
+26331856^Advanced Python for Biologists ^2014-1-17^CreateSpace Independent Publishing Platform^284^USD 39.00^0.0
+26729164^Mastering Social Media Mining with Python ^2016-8-4^Packt Publishing - ebooks Account^361^GBP 38.99^0.0
+26719916^Python for Data Visualization ^2016-12-25^O'Reilly Media^300^USD 34.99^0.0
+25842997^Treading on Python Volume 2 Intermediate Python^2013-6-26^CreateSpace Independent Publishing Platform^162^USD 15.97^0.0
+26958126^Python网络爬虫实战 ^2016-12^清华大学出版社^294^59.00^0.0
+27074608^Python数据处理 ^2017-6-1^人民邮电出版社^378^CNY 99.00^0.0
+17555596^Think Python ^^^236^^0.0
+5410436^Python on Symbian Mobile app development made easy^2010-11-18^CreateSpace^618^USD 29.99^0.0
+1886641^Monty Python Holy Grail Screenplay ^2002-10-25^Methuen Publishing Ltd^96^USD 14.95^0.0
+1888293^Learn to Program Using Python A Tutorial for Hobbyists, Self-Starters, and All  Who Want to Learn  the Art of Computer Programming^2000-12-18^Addison-Wesley Professional^288^USD 32.95^0.0
+2574339^Object-Oriented Programming in Python ^2007-10^Prentice Hall^688^$ 165.43^0.0
+4058743^Python/C Api Manual - Python 3 ^2009-3-20^CreateSpace Independent Publishing Platform^294^USD 22.95^0.0
+4251445^PYTHON和QT快速GUI编程 ^^^^59.00^0.0
+3781523^Perl To Python Migration ^2001^Addison Wesley^400^USD 44.99^0.0
+3729847^Making Use of Python ^2002-06-15^Wiley^^USD 35.00^0.0
+4606878^Numerical Methods in Engineering with Python ^2010-01-29^Cambridge University Press^432^USD 99.00^0.0
+26582245^Mastering Python for Data Science ^2015-8-31^Packt Publishing^294^USD 54.99^0.0
+26630169^Professional Python ^2015-10-19^Wrox^288^USD 50.00^0.0
+26385728^Learn Python in One Day and Learn It Well Python for Beginners with Hands-on Project. The only book you need to start coding in Python immediately^2015-1-7^CreateSpace Independent Publishing Platform^124^USD 11.67^0.0
+26268437^Pro Python System Administration ^2014-11-27^Apress^428^USD 59.99^0.0
+25923360^Learning Python Data Visualization ^2014-10-15^Packt Publishing - ebooks Account^238^USD 47.99^0.0
+26729172^Learning Python Design Patterns - Second Edition ^2016-2-15^Packt Publishing^130^GBP 25.99^0.0
+26729169^Advanced Machine Learning with Python ^2016-7-28^Packt Publishing - ebooks Account^278^USD 44.99^0.0
+26729165^Mastering Python Data Analysis ^2016-7-6^Packt Publishing - ebooks Account^246^USD 49.99^0.0
+26796829^A Student's Guide to Python for Physical Modeling ^2015-9-22^Princeton University Press^160^USD 22.81^0.0
+26909688^The Python 3 Standard Library by Example ^2017-3-11^Imprint unknown^1400^^0.0
+12646504^Numerical Methods in Engineering with Python ^2013-1^^432^$ 124.30^0.0
+3397302^Python Library Reference (Open Source Library) ^2000-11^Iuniverse Inc^^USD 40.95^0.0
+3267074^Starting Out with Python (Starting Out With...) ^2008-03-07^Addison Wesley^504^USD 93.60^0.0
+2142030^精通python ^2001.08^文魁資訊股份有限公司^^680台幣^0.0
+2266854^Monty Python's Big Red Book ^1984^Methuen Publishing, Ltd.^68^USD 16.95^0.0
+1920623^Python Phrasebook: Essential Code and Commands ^2006-11^Macmillan Computer Pub^288^$ 28.24^0.0
+2751235^Guide to Programming with Python ^2007-3^Course Technology Ptr^480^841.00 元^0.0
+4374390^Monty Python From the Flying Circus to Spamalot^2010-3^^208^85.00 元^0.0
+4774067^Gui Programming With Python Using the Qt Toolkit^2002-01^Opendocs Llc^^USD 49.95^0.0
+26733296^Learning Predictive Analytics with Python ^2016-2-11^Packt Publishing^354^USD 49.99^0.0
+26758289^Regression Analysis with Python ^2016-2-29^Packt Publishing - ebooks Account^312^USD 44.99^0.0
+26842137^Mastering Python Master the art of writing beautiful and powerful Python by using all of the features that Python 3.5 offers^2016-4-29^Packt Publishing^486^USD 39.99^0.0
+26928959^Bayesian Analysis with Python ^2016-11-25^Packt Publishing^282^GBP 34.99^0.0
+26921709^Head First Python A Brain-Friendly Guide^2016-11-28^O'Reilly Media^624^USD 49.99^0.0
+26773324^Raspberry Pi机器人制作实例:用Python、Linux和传感器搭建智能小车 ^^^^^0.0
+26773320^教孩子学编程 python语言版 ^^^^^0.0
+26438254^Python GeoSpatial Analysis Essentials ^2015-6-30^Packt Publishing - ebooks Account^180^USD 34.99^0.0
+26630629^Learning Python Testing ^2014-11-25^Packt Publishing^200^USD 39.99^0.0
+26630176^OpenCV with Python Blueprints ^2015-10^Packt Publishing - ebooks Account^230^USD 37.49^0.0
+26630174^Python Game Programming by Example ^2015-10-1^Packt Publishing - ebooks Account^231^USD 49.99^0.0
+26629319^Learning Scientific Programming with Python ^2016-2-29^Cambridge University Press^482^USD 44.99^0.0
+26600969^Building Web Applications with Python and Neo4j ^2015-8-3^Packt Publishing - ebooks Account^168^USD 34.99^0.0
+26610151^Python GUI Programming Cookbook ^2016-1-1^Packt Publishing - ebooks Account^317^USD 49.99^0.0
+26631893^Test- Driven Python Development Develop high-quality and maintainable Python applications using the principles of test-driven development^2015-3-31^Packt Publishing^300^USD 49.99^0.0
+26379343^Learn Python Visually ^2015-2-25^CreateSpace Independent Publishing Platform^136^USD 25.93^0.0
+26349033^Parallel Programming with Python ^2014-12-12^CreateSpace Independent Publishing Platform^122^USD 19.86^0.0
+26865845^Python Machine Learning Cookbook ^2016-9-6^Packt Publishing - ebooks Account^392^USD 59.99^0.0
+26284933^Mathematics and Python Programming ^2014-9-13^lulu.com^266^USD 21.42^0.0
+25867188^The Python Quick Syntax Reference ^2013-12-17^Apress^152^USD 24.99^0.0
+25882995^Kivy: Interactive Applications in Python ^2013-9-25^Packt Publishing^138^$31.49^0.0
+26336446^Python Penetration Testing Essentials ^2015-2-27^Packt Publishing - ebooks Account^175^USD 29.99^0.0
+26943256^Applied Text Analysis with Python Enabling Language Aware Data Products with Machine Learning^2017-5-25^O'Reilly Media^250^USD 39.99^0.0
+26671097^OpenCV with Python By Example Build real-world computer vision applications and develop cool demos using OpenCV for Python^2015-9-1^Packt Publishing^296^USD 49.99^0.0
+24317574^Learning Python with Raspberry Pi ^2013-9^^250^$ 33.89^0.0
+25850246^Python In A Day Learn The Basics, Learn It Quick, Start Coding Fast^2013-3-27^CreateSpace Independent Publishing Platform^78^^0.0
+21364934^精通Python 3程式設計 ^2010-11^碁峰^^^0.0
+21750256^A Functional Start to Computing with Python ^2013-8^^427^$ 90.34^0.0
+20113004^Python Programming In Context ^2013-1-24^Jones & Bartlett Learning^498^USD 136.95^0.0
+17203820^Monty Python's Life of Brian ^^^^^0.0
+14105551^Python Libraries Rdflib, Pyqt, Ironpython, Twisted, Python-Ogre, Numpy, Rpyc, Sqlalchemy, Matplotlib, Vpython, Wxpython, Pygame, Scipy,^2011-9^Books LLC, Wiki Series^30^$ 15.98^0.0
+7017027^If You Like Monty Python...Here are Over 200 Movies, Tv Shows and Other Oddities That You Will Love ^2011-12^^156^$ 16.94^0.0
+6688824^Python Cookbook ^2011-7^O'REILLY & ASSOC INC^800^$ 56.49^0.0
+6912863^More Python Programming for the Absolute Beginner ^2011-9^^432^$ 34.99^0.0
+10205832^Pro Python Data Wrangling ^^^400^$ 56.49^0.0
+10515160^MongoDB and Python Patterns and processes for the popular document-oriented database^2011-9^O'Reilly^^^0.0
+11715011^Introduction to Computing and Programming in Python A Multimedia Approach^2012-4-2^Prentice Hall^448^USD 133.00^0.0
+6076905^Python Essential Reference ^2001-6-7^Sams^416^USD 34.99^0.0
+3217044^Python Programming An Introduction to Computer Science, Preliminary Edition^2003^Franklin, Beedle & Associates^^^0.0
+3180243^Life of Python ^1984-05^Little Brown & Co (P)^^USD 12.95^0.0
+2144241^Monty Python's The Meaning of Life ^1991^Mandarin Paperbacks, London^^^0.0
+2266852^The Complete Monty Python's Flying Circus; All the Words Volume One ^1989-11-12^Pantheon^325^USD 17.95^0.0
+1849937^Monty Python and the Holy Grail ^2004-07-31^BMG SPECIAL PRODUCTS^^USD 6.99^0.0
+2457738^The  Brand New Monty Python Papperbok (Methuen Humour) ^2007-09-01^Methuen Publishing Ltd^96^USD 24.95^0.0
+1774157^The Complete Python Training Course ^2002-06-26^Prentice Hall PTR^^USD 109.99^0.0
+4756862^XML Processing with Perl, Python, and PHP ^2001-11-21^Sybex Inc^432^USD 49.99^0.0
+3842894^Python Visual QuickStart Guide^2008-12-14^Peachpit Press^192^USD 24.99^0.0
+3842896^Python 3 And C Or C++ Extending And Embedding Python^2009-3-20^CreateSpace^120^USD 15.95^0.0
+3999415^The Greedy Python ^2009-7^^24^72.00元^0.0
+4479288^Python for Software Design ^2009-3^^270^$ 125.43^0.0
+26840216^Python Programming Blueprints ^2017-2-6^Packt Publishing - ebooks Account^450^USD 49.99^0.0
+26934054^Effective Python 编写高质量Python代码的59个有效方法^2016-4-1^电子工业出版社^227^CNY 65.00^0.0
+26914378^Python for Everybody Exploring Data in Python 3^2016-4-9^CreateSpace Independent Publishing Platform^242^USD 9.99^0.0
+26931662^Apress.Python.Descriptors ^^^^103^0.0
+26762365^Python Business Intelligence Cookbook ^2015-12-22^Packt Publishing - ebooks Account^202^USD 39.99^0.0
+26763882^Python For ArcGIS ^2016-1-18^Springer^538^USD 99.00^0.0
+26468594^Python for Google App Engine ^2015-1^Packt Publishing Ltd.^184^USD 29.99^0.0
+26610832^Beginning Programming with Python For Dummies ^2014-9-22^For Dummies^408^USD 34.99^0.0
+26630591^Kivy: Interactive Applications in Python - Second Edition Create responsive cross-platform UI/UX applications and games in Python using the open source Kivy library^2015-6-30^Packt Publishing^157^USD 44.99^0.0
+26684449^Mastering Python Forensics ^2015-10-30^Packt Publishing - ebooks Account^192^USD 39.99^0.0
+26632092^Python Web Penetration Testing Cookbook Over 60 indispensable Python recipes to ensure you always have the right code on hand for web application testing^2015-6-30^Packt Publishing^228^USD 44.99^0.0
+26632091^Python Hacking Essentials ^2015-4-1^CreateSpace Independent Publishing Platform^214^USD 18.00^0.0
+26631892^QGIS Python Programming Cookbook Over 140 recipes to help you turn QGIS from a desktop GIS tool into a powerful automated geospatial framework^2015-3-30^Packt Publishing^343^USD 49.99^0.0
+26364375^Python Programming for Biology Bioinformatics and Beyond^2015-4-6^Cambridge University Press^711^USD 69.99^0.0
+26348296^Python 3程序开发指南 ^2015-2^^518^^0.0
+26863703^Python与数据科学 ^2016-3-1^华东师范大学出版社^352^45.00元^0.0
+26278739^Programming Google App Engine with Python Build and Run Scalable Python Apps on Google's Infrastructure^2015-5-5^O'Reilly Media^350^USD 36.66^0.0
+25881710^A Hands-On Introduction to Using Python in the Atmospheric and Oceanic Sciences ^2012-8-17^^^^0.0
+26318535^The Python Workbook A Brief Introduction with Exercises and Solutions^2015-1-23^Springer^165^USD 49.99^0.0
+26318533^A Python Primer for ArcGIS® Workbook I^2015-1-20^CreateSpace Independent Publishing Platform^116^USD 25.00^0.0
+26335894^GIS Tutorial for Python Scripting ^2014-7-24^Esri Press^265^USD 69.99^0.0
+26958121^Python程序设计入门到实战 ^^^^^0.0
+26972190^A Whirlwind Tour of Python ^2016-8-15^O'Reilly^98^^0.0
+26701133^Learning Geospatial Analysis with Python - Second Edition ^2015-12-31^Packt Publishing^394^USD 49.99^0.0
+26690816^Python for Secret Agents - Second Edition Gather, analyze, and decode data to reveal hidden facts using Python, the perfect tool for all aspiring secret agents^2016-1-6^Packt Publishing^130^USD 24.99^0.0
+26690770^Starting Out with Python (3rd Edition) ^2014-2-2^Pearson^640^USD 106.34^0.0
+26699284^Learning Python ^2016-2-1^Packt Publishing - ebooks Account^399^USD 49.99^0.0
+26655219^Beginning Python Games Development, Second Edition With PyGame^2015-6-21^Apress^308^GBP 23.50^0.0
+26791753^Modular Programming with Python ^2016-8-4^Packt Publishing - ebooks Account^253^USD 39.99^0.0
+26808016^Internet of Things with Python Interact with the world and rapidly prototype IoT applications using Python^2016-6-6^Packt Publishing^373^USD 49.99^0.0
+26884225^Mastering Data Mining with Python ^2016-8-29^Packt Publishing - ebooks Account^268^USD 49.99^0.0
+24882893^python基础教程 ^^^^^0.0
+24682459^Comparison Between Python and Lua in Gaming Industry ^^LAP Lambert Academic Publishing^88^^0.0
+24779203^Fundamentals of Python Data Structures^^Cengage Learning^496^^0.0
+26871760^Python Machine Learning Blueprints Intuitive data projects you can relate to^2016-7-29^Packt Publishing - ebooks Account^332^USD 49.99^0.0
+26958123^基于ArcGIS的Python编程秘笈 ^2017-1-1^人民邮电出版社^316^CNY 69.00^0.0
+19186545^Python Server Pages ^^^148^^0.0
+19188436^Stackless Python ^^^156^^0.0
+19229579^Mod_python ^^^70^^0.0
+18205662^Python Service Objects ^^Book on Demand Ltd.^^^0.0
+17555561^Python Programming ^^^170^^0.0
+17381192^A Concise Introduction to Programming in Python ^^^217^^0.0
+17802458^Python Multimedia Beginner's Guide ^^^292^^0.0
+17802563^Python Text Processing with NLTK 2.0 Cookbook ^2011-4^^92^$ 22.59^0.0
+16144969^3-D Numerical Simulation and Analysis of Complex Fiber Geometry Rafc Materials with High Volume Fraction and High Aspect Ratio Based on Abaqus Python. ^^^64^^0.0
+15398667^The Implementation of a Python Class for Structuring Network Data Collected in a Test Bed ^^^32^^0.0
+14263115^Python International Mathematics and Statistics Library, Bazaar, Karrigell, Buzhug, Pypy, Wxpython, Pygame, Cpython, Moinmoin^^^22^^0.0
+6527337^Fundamentals of Python ^2011-3^^496^672.00元^0.0
+11497508^Learn Python A Primer on Python Learning Tools^2012-5-2^CreateSpace^48^USD 5.99^0.0
+11438144^Python ^^^736^$ 55.31^0.0
+10207275^Python ^^^24^$ 7.91^0.0
+10473169^Python Programming Language, including Python , List Of Python Software, Pydev^2011-8-31^Hephaestus Books^114^USD 19.75^0.0
+10110719^Python ^^^24^$ 25.54^0.0
+7912763^Monty Python's Tunisian Holiday ^^^^$ 73.44^0.0
+7908398^Python First ^2007-3^^512^$ 29.32^0.0
+11930683^Python Visual Quickstart Guide ^^^472^^0.0
+12011703^Grey Hat Python Python Programming for Hackers ^^^540^^0.0
+11975936^Monty Python The Case Against ^^^96^^0.0
+11723012^Python Swallowed Whole Core Developers Define Python ^^^576^^0.0
+5333005^Python UNIX 和Linux 系统管理指南 ^2009^机械工业出版社^^65.00^0.0
+4881348^White Python ^2003-6^^324^$ 34.97^0.0
+7072378^Numerical Methods in Engineering with Python 3 ^2013-1-21^Cambridge University Press^432^USD 109.99^0.0
+11573898^Introduction to Programming Concepts with Case Studies in Python ^2012-11^^252^$ 56.44^0.0
+11443961^Ball Python Manual ^1997-10-1^Advanced Vivarium Systems^78^USD 9.95^0.0
+3426302^Python Fundamentals (Video Training) (LiveLessons) ^2009-01-02^Prentice Hall PTR^112^USD 69.99^0.0
+3263956^Monty Python's Tunisian Holiday My Life with Brian^2008-10-28^Thomas Dunne Books^320^USD 25.95^0.0
+1748391^Python Developer's Handbook ^2000-12-12^Sams^960^USD 44.99^0.0
+2384717^Python ^^Biblo-Moser^616^32^0.0
+2748456^Monty Python's Flying Circus ^2005-2^Wayne State Univ Pr^112^$ 18.02^0.0
+2552663^The Ball Python (Herpetocultural Library) ^2005-02^Advanced Vivarium Systems^76^USD 8.95^0.0
+2519016^Monty Python's Spamalot 2005 Tony  Award Winner for Best Musical (Easy Piano Vocal Selections)^2006-05-01^Hal Leonard Corporation^72^USD 14.95^0.0
+2522579^The Guide to Owning a Ball Python ^2003-3^TFH Publications^64^USD 9.95^0.0
+2509288^The Very Best of Monty Python ^^Consortium Book Sales & Dist^328^16.95^0.0
+4388712^The Book of Python ^^^648^59.95^0.0
+4058726^Python 3 Reference Manual ^2009-3-20^CreateSpace Independent Publishing Platform^242^USD 21.95^0.0
+3796495^Monty Python Live! ^2009-09-22^Hyperion^240^USD 24.99^0.0
+4082027^Pythonチュートリアル ^^^^^0.0
+4128722^Monty Python. Über den Sinn des Lebens. ^1997-06-01^Heyne^^^0.0
+4239919^Scientific Scripting with Python ^2009-11-13^lulu.com^^USD 34.90^0.0
+4754890^Python 3 - Intensivkurs Projekte erfolgreich realisieren^2010-4-16^Springer^500^USD 69.95^0.0
+4802055^Python/C API Manual - PYTHON 2.6 ^2009-4-13^CreateSpace Independent Publishing Platform^334^USD 22.95^0.0
+4804370^Python Scripting for Computational Science 3e ^2009-12-09^Springer Berlin Heidelberg^784^USD 69.95^0.0
+3922883^Using Python 3 And Installing Modules (Python Documentation Manual Part 3)^2009-03-20^CreateSpace^294^USD 22.95^0.0
+3763388^Life Before and After Monty Python The Solo Flights of the Flying Circus^1993-04^St Martins Pr^^USD 15.95^0.0
+3991625^Python Crear-modificar-reutilizar/ Create-modify-reuse (Spanish Edition)^2009-01-05^Anaya Multimedia^^USD 42.95^0.0
+4750173^Monty Python Live! ^2009-10-01^Simon & Schuster Ltd^240^£ 18.07^0.0
+4649401^Design, Logic, and Programming with Python ^2006-9^^228^$ 22.54^0.0
+4497336^Monty Python Speaks! ^^^^22.95^0.0
+26840217^Python Recipes Problem-Solution Approach^2016-1-8^Apress^600^USD 24.99^0.0
+26836849^Mastering Python Data Visualization ^2015-10-30^Packt Publishing^305^USD 54.99^0.0
+26845169^Python Data Analysis Cookbook ^2016-8-4^Packt Publishing - ebooks Account^403^USD 49.99^0.0
+26934551^Python機械学習プログラミング 達人データサイエンティストによる理論と実践 ^2016-6-30^インプレス^456^JPY 4320^0.0
+26913719^Python Recipes Handbook A Problem-Solution Approach^2016-12-18^Apress^160^GBP 19.99^0.0
+26782401^A Primer on Scientific Programming with Python ^2014-8-2^Springer^872^USD 79.99^0.0
+26789113^python程序设计与实现 ^2015-11^高等教育出版社^359^38.9元^0.0
+26582251^Python Essentials ^2015-6^packtpub^298^£26.99^0.0
+26597625^La programmation orientée objet. Cours et exercices UML 2 avec Java, C#, C++, Python, PHP et LINQ. ^2013-3-7^Eyrolles^650^EUR 36.00^0.0
+26607672^a byte of python ^^CreateSpace Independent Publishing Platform^110^^0.0
+26632169^Python Forensics: A workbench for inventing and sharing digital forensic technology ^2014-6-19^Syngress^352^USD 58.00^0.0
+26409961^Introduction to Computational Models with Python ^2015-8-26^Chapman and Hall/CRC^400^USD 89.95^0.0
+26403605^Beginning Python From Novice to Professional, 2nd Edition^2009-11-4^Apress^688^USD 44.99^0.0
+26871751^Learn to Program with Python ^2016-8-22^Apress^263^USD 37.41^0.0
+25915740^Python Projects ^2014-10-27^Wrox^504^USD 45.00^0.0
+26319282^Numerical Methods in Engineering with Python ^2014-8-21^Cambridge University Press^434^USD 55.99^0.0
+26982691^Intermediate Python Programming ^2016-7^O'Reilly Media^^$59.99^0.0
+26982676^Introduction to Python ^2014-4^O'Reilly Media, Inc.^^$79.99^0.0
+26985189^Python Unit Test Automation Practical Techniques for Python Developers and Testers^2017-3-25^Apress^111^USD 29.99^0.0
+27005897^QGIS Python Programming Cookbook - Second Edition ^2017-4-6^Packt Publishing - ebooks Account^393^USD 49.99^0.0
+27005613^Deep Learning in Python Prerequisites ^^^^^0.0
+26729173^Python Projects for Kids ^2016-4-6^Packt Publishing - ebooks Account^173^GBP 22.99^0.0
+26726882^Python and Matplotlib Essentials for Scientists and Engineers (Iop Concise Physics) ^2015-7-15^Morgan & Claypool^150^USD 25.00^0.0
+26974580^My First Perceptron with python: Analyzed and Explained with a Practical Sense ^2017-1^^100^USD 3.2^0.0
+26679670^Learn Python Visually ^2015-2-20^Nai inc.^138^USD 35.00^0.0
+26701969^Learn Web Scraping With Python In A Day The Ultimate Crash Course to Learning the Basics of Web Scraping With Python In No Time^2015-10-22^CreateSpace Independent Publishing Platform^118^USD 7.99^0.0
+26694829^Learn Raspberry Pi Programming with Python ^2014-5-1^Apress^256^USD 29.99^0.0
+26690817^Python Geospatial Analysis Cookbook Over 60 recipes to work with topology, overlays, indoor routing, and web application analysis with Python^2015-11-30^Packt Publishing^310^USD 47.61^0.0
+26649759^Learning Penetration Testing with Python Utilize Python scripting to execute effective and efficient penetration tests^2015-11-2^Packt Publishing^320^USD 49.99^0.0
+26791767^Python for Experimental Psychologists ^2016-10-10^Routledge^152^USD 52.95^0.0
+26791544^Pythonによるデータ分析入門 NumPy、pandasを使ったデータ処理^2013-12-26^オライリージャパン^474^JPY3888^0.0
+26907905^Building RESTful Python Web Services ^2016-12-6^Packt Publishing^335^^0.0
+26922577^Python Data Science Essentials - Second Edition ^2016-10-28^Packt Publishing - ebooks Account^378^USD 44.99^0.0
+25842996^Treading on Python Volume 1 Foundations of Python^2012-5-23^CreateSpace Independent Publishing Platform^198^USD 15.97^0.0
+20555980^More Complete Chondro, the bestselling manual for all Green Tree Python keepers ^^^317^^0.0
+22018056^Coding Club Level 3 Python ^^^132^^0.0
+21995331^Python in 24 Hours, Sams Teach Yourself ^2013-10-11^Sams Publishing^320^USD 34.99^0.0
+22205684^The Green Tree Python and Emerald Tree Boa Care, Breeding and Natural History^2005-12^Kirschner & Seufer Verlag^176^$59.99^0.0
+21346664^パーフェクトPython ^2013-3-5^技術評論社^464^JPY 3360^0.0
+19975898^Pythonプロフェッショナルプログラミング ^2012-3-26^秀和システム^464^JPY 2940^0.0
+19806014^Learning Python ^^^1230^^0.0
+27011700^Python地理空间分析指南 ^2017-4-1^人民邮电出版社^317^CNY 79.00^0.0
+27000111^机器人系统设计与制作：python语言实现 ^2017-6-2^机械工业出版社^190^59.00元^0.0
+19186532^Python Package Manager ^^^96^^0.0
+19186572^Python Service Objects ^^^124^^0.0
+19196648^X Python Newsreader ^^^100^^0.0
+19213262^Saint-Python ^^^108^^0.0
+19142591^X Python Newsreader ^^^92^^0.0
+19080775^Burmese Python ^2010-7^Alphascript Publishing^108^^0.0
+18029413^The Python Spirit and the Cross Becoming Christians in a Highland Community of Papua New Guinea ^^^408^^0.0
+18149514^Monty Python Live at the Hollywood Bowl ^^Book on Demand Ltd.^^^0.0
+18139504^Monty Python's Contractual Obligation Album ^^^146^^0.0
+18083111^Hacking mit Python ^^^^^0.0
+18129400^Python ^^^148^^0.0
+18112438^PYTHON ^^BOOK ON DEMAND POD^0^^0.0
+18205598^Python Server Pages ^^Book on Demand Ltd.^^^0.0
+18206681^STACKLESS PYTHON ^^BOOK ON DEMAND POD^0^^0.0
+18220493^X Python Newsreader ^^Book on Demand Ltd.^^^0.0
+19264160^Python Package Index ^^^120^^0.0
+19301483^Armstrong Siddeley Python ^^^72^^0.0
+19277944^Python-Ogre ^^^96^^0.0
+19278357^Stani's Python Editor ^^^76^^0.0
+19273330^Eric Python Ide ^^^136^^0.0
+19313739^Python Reticulatus ^^^64^^0.0
+19293914^Princess Python ^^^176^^0.0
+17497220^Python Pyinbya ^^^52^^0.0
+17539341^Learning to Program Using Python ^2011-11-5^CreateSpace Independent Publishing Platform^230^USD 9.99^0.0
+17546401^Python Interview Questions You'll Most Likely Be Asked ^^^110^^0.0
+17534279^Python \A Shiver Waiting for a Spine to Run Up\""^^^294^^0.0
+17387285^Python 2.6 Reference Manual ^^^288^^0.0
+17699465^Studyguide for Introduction to Computing and Programming in Python, a Multimedia Approach by Mark J. Guzdial, ISBN 9780136060239 ^^^154^^0.0
+17700918^Studyguide for Fundamentals of Python ^^^304^^0.0
+17690424^Monty Python's Flying Circus & Fawlty Towers ^^^^^0.0
+17747639^Problems with a Python ^^^72^^0.0
+17747845^Problems with a Python ^^^64^^0.0
+17684016^Python Programming with Oracle Database ^2009-8^^176^$ 28.19^0.0
+17178231^Monty Python's the Meaning of Life ^^^^^0.0
+17200826^IR GUIDE T PROGRAMMING W PYTHON ^^^^^0.0
+17245316^Studyguide for Object-Oriented Programming in Python by Michael H Goldwasser, ISBN 9780136150312 ^^^58^^0.0
+17203821^Monty Python's Life of Brian ^^^^^0.0
+17851000^Monty Python&#039;s &quot;Life of Brian&quot; Calendar 1997^^^0^^0.0
+17851115^Monty Python&#039;s Flying Circus 1999 ^^^^^0.0
+17793741^The Python Project A Rex Carver Mystery ^^^256^^0.0
+17914031^Captain Hazzard - Python Men of the Lost City ^^^152^^0.0
+17894010^An Introduction to Python ^^^164^^0.0
+17894011^The Python Language Reference Manual ^^^150^^0.0
+17906263^Monty Python Fluxx ^^^^^0.0
+17532426^Monty Python and Philosophy ^^^508^^0.0
+17139805^FUNDAMENTALS PYTHON PYTHON POWER ^^^^^0.0
+17143936^Monty Python's Flying Circus ^^^^^0.0
+17102425^Boa vs. Python ^^^^^0.0
+17102850^Monty Python and the Holy Grail ^^^^^0.0
+17102908^Monty Python and the Holy Grail ^^^^^0.0
+15750310^Computing Critical Points of Polynomial Systems Using Phcpack and Python. ^^^86^^0.0
+15733329^An Unauthorized Historical Survey of Monty Python ^^^176^^0.0
+15666413^To Amend Title 18, United States Code, to Include Constrictor Snakes of the Species Python Genera as an Injurious Animal ^^^166^^0.0
+14105552^Python-Scripted Video Games ^^^36^^0.0
+14160179^Monty Python ^^^44^^0.0
+14160180^Monty Python Films ^^^42^^0.0
+14153854^Python Programming Language ^^^36^^0.0
+14074663^Free Software Programmed in Python ^^^96^^0.0
+14075693^Monty Python and the Holy Grail ^^^24^^0.0
+14075694^Monty Python Sketches Spam, Dead Parrot Sketch, the Funniest Joke in the World, the Spanish Inquisition, Cheese Shop Sketch^2011-9^Books LLC, Wiki Series^30^$ 15.98^0.0
+14110118^Python Software ^^^172^^0.0
+15430476^Pygfc, a Python Extension to the C++ Geodesy Foundation Classes ^^^28^^0.0
+15400542^To Amend Title 18, United States Code, to Include Constrictor Snakes of the Species Python Genera as an Injurious Animal ^^^164^^0.0
+15440645^Monty Python Characters ^^^26^^0.0
+15242192^Svobodnoe Po, Napisannoe Na Python ^^^30^^0.0
+15200662^Python ^^^26^^0.0
+15281944^Monty Python ^^^26^^0.0
+15204079^Monty Python ^^^62^^0.0
+15185155^Monty Python ^^^24^^0.0
+15349137^Stat I S Primerami Koda Python ^^^88^^0.0
+15297253^Articles with Example Python Code ^^^122^^0.0
+15329385^Python ^^^34^^0.0
+15370830^Python ^^^26^^0.0
+14231016^Monty Python ^^^56^^0.0
+10953417^Python Libraries, Including ^^^114^$ 22.32^0.0
+10935229^Free Software Programmed in Python, Including ^^^418^$ 39.27^0.0
+10303620^Python Und Zope ALS Unterrichtswerkzeuge ^^^104^$ 93.23^0.0
+7045449^La Autobiografia de Monty Python ^^^360^$ 56.44^0.0
+7012482^The Greedy Python ^^^24^$ 15.99^0.0
+7012483^Greedy Python ^2012-5^^24^33.00元^0.0
+6993286^Zekeye Et Le Serpent Python ^^^48^$ 48.53^0.0
+6734074^The Greedy Python ^2009-8^^24^£ 6.77^0.0
+6735299^Starting Out With Python ^2008-3^^504^740.00元^0.0
+6694922^Python ^2010-1^^32^$ 21.41^0.0
+10983004^Monty Python and the Holy Grail, Including ^^^68^$ 20.06^0.0
+10983038^Monty Python Members, Including ^^^72^$ 20.06^0.0
+10983039^Monty Python, Including ^^^140^$ 23.45^0.0
+11525592^Distributed Programming with Python ^2001-1^^^$ 50.79^0.0
+11520941^Think Python ^2008^Green Tea Press^308^^0.0
+6935042^Monty Python's Flying Circus ^^^^^0.0
+11240232^The Greedy Python ^2012-5^^24^$ 15.31^0.0
+10271780^Der Sinn Des Lebens - Analyse Der Komischen Darstellungsformen Bei Monty Python ^^^56^$ 22.49^0.0
+10207276^Python/Piton ^^^24^$ 25.54^0.0
+7123860^Pete the Python ^^^145^$ 10.11^0.0
+11128833^Python Software, Including ^^^648^$ 52.83^0.0
+11184700^Python Web Application Frameworks, Including ^^^46^$ 17.80^0.0
+10169742^Scientific Database and Programming Examples Using PHP,MySQL,XML,MATLAB,PYTHON,PERL ^2011-9^^308^$ 22.59^0.0
+10169746^Scientific Database and Programming Examples Using PHP,MySQL,XML,MATLAB,PYTHON,PERL ^2011-9^^308^$ 33.89^0.0
+10156019^SAA-Ba Mini-Yang Baa the Mighty Python ^^^92^$ 13.67^0.0
+10158704^The Talon of the Python ^^^188^$ 22.59^0.0
+6349687^Monty Python, Shakespeare and English Renaissance Drama ^2003-1^^246^$ 39.55^0.0
+11076489^Python-Scripted Video Games, Including ^^^94^$ 21.19^0.0
+11095001^Python Software, Including ^^^62^$ 20.06^0.0
+12490630^Pocket Python ^^^^^0.0
+12490710^And Now for Something Completely Trivial Monty Python Trivia and Quiz Book ^^^202^^0.0
+12525933^The Python's Back ^2000-5^^208^$ 125.37^0.0
+12532389^Python Programming & GUI's for Electronic Engineers ^^^220^^0.0
+12559714^Python!. by Brian Moses ^^^^^0.0
+12344720^Monty Python From the Flying Circus to Spamalot ^^^208^^0.0
+11715694^Starting Out with Python Plus Myprogramminglab with Pearson Etext ^2012-7^^^$ 126.41^0.0
+12257262^Python for the World Wide Web Visual QuickStart Guide ^^^^^0.0
+12365353^Python ^2013-2^^32^$ 18.07^0.0
+12290924^Monty Python Encyclopedia ^^^288^^0.0
+12374007^Monty Python Live! ^^^225^^0.0
+12374172^Monty Python Eric Idle's Personal Best^^A & E Home Video^0^^0.0
+12374254^Monty Python Michael Palin's Personal Best^^A & E Home Video^0^^0.0
+12374255^The 16-Ton Monty Python Megaset ^^A & E Home Video^0^^0.0
+12278078^The Complete Monty Python&#039;s Flying Circus ^^^^^0.0
+12374647^Monty Python and the Holy Grail ^^^^^0.0
+12381366^Monty Python's the Meaning of Life ^^^^^0.0
+11875325^The Python Killer ^1988-5^^236^$ 50.85^0.0
+11896360^Introduction to Computing and Programming in Python ^^^456^^0.0
+11931728^Beyond Rails with Capistrano Managing Production Systems with Ruby, Python, Perl and More ^^^352^^0.0
+11878024^The Medieval Python ^2012-5^^278^$ 113.00^0.0
+11883290^Yao and the Python ^^^16^^0.0
+11975970^Monty Python&#039;s Flying Circus ^^^^^0.0
+11976147^Monty Python Flying Circus - Just the Words ^^^368^^0.0
+11976148^Monty Python Just the Words ^^^359^^0.0
+11976180^Python 12-Copy Counterpack 2000 ^^Methuen Publishing Ltd^0^^0.0
+11976191^A Pocketful of Python ^^^64^^0.0
+11976296^Monty Python and the Holy Grail ^^^144^^0.0
+11976406^The Brand New &quot;Monty Python&quot;Papperbok ^^^^^0.0
+12699981^Fundamentals of Python ^^^475^^0.0
+12699997^IRCD FUND OF PYTHON CS1 ED ^^^^^0.0
+12549289^Non Inflatable Monty Python TV Companion ^^^300^^0.0
+12584531^A Python Book ^2011-9^^202^$ 22.59^0.0
+11713858^CORE PYTHON LANGUAGE FUNDAMENTALS ^^^^^0.0
+11714068^Starting Out with Python International Version ^^^672^^0.0
+11714504^Student Value Edition for the Practice of Computing Using Python ^2012-6^^792^$ 77.29^0.0
+11715383^The Practice of Computing Using Python, with Access Code ^2012-7^^^$ 126.41^0.0
+11715604^Introduction to Programming Using Python with 12-Month Student Access Code ^2012-7^^^$ 126.41^0.0
+11715655^Starting Out with Python, Student Value Edition ^2012-7^^648^$ 77.29^0.0
+5338888^Python Programming with the Java(TM) Class Libraries A Tutorial for Building Web and Enterprise Applications with Jython (v. 1)^2002-07-08^Addison-Wesley Professional^640^USD 49.99^0.0
+5392855^Python for Rookies ^2008-1^^400^431.00元^0.0
+4940326^The Python Problem ^^^91^$ 5.64^0.0
+6010692^リバースエンジニアリング ―Pythonによるバイナリ解析技法 ^2010-5-22^オライリージャパン^272^JPY 3360^0.0
+5499197^The Message Compact Bible Pink and Pink Python ^^^^271.00 元^0.0
+5499198^The Message Compact Bible Teal and Brown Python ^^^^306.00元^0.0
+5522995^Python Play and Other Recipes for Fun ^1999-10^^48^$ 6.72^0.0
+5451215^Reticulated Python ^^^24^$ 25.55^0.0
+5460368^Python ^^^31^$ 30.59^0.0
+5481116^The Uncoiling Python ^2010-8^^288^$ 53.05^0.0
+5481117^The Uncoiling Python ^2010-8^^288^$ 28.19^0.0
+6089471^Python Interview Questionsnswers, and Explanations ^^^132^425.00 元^0.0
+6316444^Playing With Python ^^^^232.00 元^0.0
+6328585^Python How to Program ^^^1000^878.00 元^0.0
+19360680^Python Paste ^^^88^^0.0
+19360690^Python Syntax and Semantics ^^^100^^0.0
+19360727^Python ^^^176^^0.0
+19360741^Python ^^^88^^0.0
+19421510^Bluff Downs Giant Python ^^^88^^0.0
+3281932^Python Reference Manual February 19, 1999, Release 1.5.2^1999-2^iUniverse.com^136^USD 12.95^0.0
+3162471^Die Autobiografie von Monty Python Graham Chapman - John Cleese - Palin Michael - Terry Idle - Terry Gilliam mit Bob McCabe^2004-06^Hannibal^^^0.0
+3101733^The Worst of Monty Python's Flying Circus (Canned Laughter) ^1994-03-07^BBC Audiobooks Ltd^^^0.0
+1890065^Monty Python's the Meaning of Life ^1983-04^Grove/Atlantic^^USD 10.95^0.0
+1849936^The Album of the Soundtrack of the Trailer of the Film of Monty Python and the Holy Grail (Virgin Chattering Classics) ^1975^Listen for Pleasure^^^0.0
+1897382^Monty Python 2007 Calendar ^2006-06-30^Dateworks^^USD 12.99^0.0
+1903015^Zope Python Cookbook ^2004-10-13^John Wiley & Sons Inc^^USD 56.29^0.0
+2404419^Essential Python for Corpus Linguistics ^^Blackwell Pub^208^232.00 元^0.0
+2752091^Python's Party ^^Oxford Univ Pr^^9.95^0.0
+2815765^A Pocketful of Python ^^Consortium Book Sales & Dist^47^11.95^0.0
+2819896^Monty Python's the Meaning of Life ^^Consortium Book Sales & Dist^124^16.95^0.0
+2551125^Monty Python's Life of Brian (Of Nazareth) ^^Consortium Book Sales & Dist^112^12.95^0.0
+2552714^Quick & Easy Ball Python Care ^2005-8-1^TFH Publications^64^USD 4.95^0.0
+2554304^The Guide to Owning an Australian Python ^1999-7^TFH Publications^64^USD 9.95^0.0
+2666818^Introduction to Computing and Programming in Python ^2004-12^Prentice Hall^400^$ 120.91^0.0
+2854807^Python Scripting for Computational ^^Springer Verlag^736^69.95^0.0
+2828088^The Life of Python ^2007-3-1^Pavilion^224^USD 24.95^0.0
+2457174^The Fairly Incomplete & Rather Badly Illustrated Monty Python Songbook ^^Consortium Book Sales & Dist^192^19.95^0.0
+2608110^Book of Python ^^Oreilly & Associates Inc^1000^49.95^0.0
+2619110^Python Programming for the Absolute Beginner ^^Course Technology Ptr^447^0.00 元^0.0
+2622541^The Greedy Python ^^Simon & Schuster Merchandise &^24^6.99^0.0
+4367826^Monty Python's Flying Circus Greatest Skits ^^^^131.00元^0.0
+4058752^Introduction To Python 3 (Python Documentation Manual Part 1)^2009-03-20^CreateSpace^266^USD 21.95^0.0
+4090012^PYTHON 2.6 Distributing Modules: (Python Documentation MANUAL Part 6)^2009-04-13^CreateSpace^152^USD 14.95^0.0
+4090057^Monty Python's Big Red Book ^1971-09-30^Methuen young books^^^0.0
+3555326^最新Pythonエクスプローラ Django,TurboGears,Twisted,IronPython 完全攻略 ^2007-03-02^技術評論社^^JPY 18.69^0.0
+4759777^A Pocketful of Python Volume 2^2000-9-1^Methuen Publishing Ltd^64^USD 9.99^0.0
+4774504^The First 28 Years of Monty Python, Revised Edition ^1999-6-19^St. Martin's Griffin^320^USD 21.95^0.0
+4800706^Introduction to PYTHON 2.6 ^2009-4-13^CreateSpace^304^USD 21.95^0.0
+3922880^USING PYTHON 2.6 and Installing Modules^2009-4-13^CreateSpace^336^USD 22.95^0.0
+3763383^First 20 Years of Monty Python ^1989-01-01^Diane Pub Co^^USD 15.00^0.0
+3763399^First 200 Years of Monty Python ^1990-01-01^Plexus^^^0.0
+3842891^Complete Ball Python, A Comprehensive Guide to Care, Breeding, and Genetic Mutations ^2005-6-1^ECO / Serpent's Tale NHBD^300^USD 59.95^0.0
+3867221^Python Threads ^2001-01^O'Reilly Media^^^0.0
+3867482^Core Python Programming (Prentice Hall Ptr Core Series) ^2000-12-15^Prentice Hall PTR^^USD 44.99^0.0
+3853985^Python und GUI-Toolkits. ^2002-06-30^mitp-Verlag^^^0.0
+3996131^Python para administracion de sistemas Unix y Linux/ Pythons for Management of Unix and Linux Sistems (Spanish Edition) ^2009-01-16^Anaya Multimedia^^USD 68.95^0.0
+4701973^Good Morning, Little Python! ^^^12^$ 6.78^0.0
+4717267^Conan and Treasure of Python (Tor Fantasy) ^1993-11^Tom Doherty Associates^^USD 7.99^0.0
+4682023^The Woman who Ate Python and Other Stories ^^^112^154.00 元^0.0
+4746282^GREEDY PYTHON & THE FOOLISH TORTOISE, THE (Pixies, No 21) ^1993-04-01^Simon & Schuster Children's Publishing^^USD 4.95^0.0
+4463555^Monty Python's Tunisian Holiday ^^^^271.00 元^0.0
+4463674^Monty Python's Tunisian Holiday ^^^^541.00 元^0.0
+4463675^Monty Python's Tunisian Holiday ^^^^193.00 元^0.0
+4566047^Monty Python and the Holy Grail 2010 Calendar ^2009-6-30^Dateworks^^USD 13.99^0.0
+26740589^A collection of Advanced Data Science and Machine Learning Interview Questions Solved in Python and Spark Hands-on Big Data and Machine ... Programming Interview Questions)^2015-11-18^CreateSpace Independent Publishing Platform^106^USD 20.99^0.0
+27011335^Python for Data Analysis Data Wrangling with Pandas, NumPy, and IPython^2017-9-25^O'Reilly Media^550^USD 49.99^0.0
+27011263^Python Data Analysis - Second Edition ^2017-4-6^Packt Publishing - ebooks Account^409^USD 49.99^0.0
+27011027^Python: Tips and Tricks to Programming Code with Python (Python, Java, JavaScript, Code, Programming Language, Programming, Computer Programming) (Volume 2) ^2017-1-18^CreateSpace Independent Publishing Platform^72^USD 13.38^0.0
+27011025^Python: The No-Nonsense Guide: Learn Python Programming Within 12 Hours! ^2017-1-17^CreateSpace Independent Publishing Platform^126^USD 20.27^0.0
+27011022^Python: Master the Art of Design Patterns ^2016-9-30^Packt Publishing^784^USD 84.99^0.0
+27011013^Introduction to Data Science: A Python Approach to Concepts, Techniques and Applications (Undergraduate Topics in Computer Science) ^2017-3-2^Springer^218^USD 45.97^0.0
+27010950^Python For Kids For Dummies ^2015-9-8^For Dummies^320^USD 29.99^0.0
+26937809^It’s Django：用Python迅速打造Web應用 ^2015-6-9^碁峰^392^^0.0
+26934029^Python编程基础 ^^^^^0.0
+26934017^Python 树莓派编程 ^^^^^0.0
+26918248^Lean Python: Learn Just Enough Python to Build Useful Tools ^2016-12-10^Apress^87^USD 19.99^0.0
+26923625^Programming for Computations - Python: A Gentle Introduction to Numerical Simulations with Python (Texts in Computational Science and Engineering) ^2016-7-8^Springer^232^USD 59.99^0.0
+26604964^Python Programming for Beginners An Introduction to the Python Computer Language and Computer Programming^2014-9-1^CreateSpace Independent Publishing Platform^162^USD 24.99^0.0
+26617199^Programmare con Python. Guida completa ^2014-2-26^LSWR^672^^0.0
+26630413^Invent Your Own Computer Games with Python, 3rd Edition ^2015-3-10^CreateSpace Independent Publishing Platform^368^USD 22.05^0.0
+26630188^Image Processing and Acquisition using Python (Chapman & Hall/CRC Mathematical and Computational Imaging Sciences Series) ^2014-2-19^Chapman and Hall/CRC^390^USD 66.14^0.0
+26630179^Mastering Python Scientific Computing ^2015-10-1^Packt Publishing - ebooks Account^345^USD 39.99^0.0
+26609389^Complete Guide For Python Programming Quick & Easy Guide To Learn Python^2015-1-7^CreateSpace Independent Publishing Platform^252^USD 11.44^0.0
+26632177^Coding Club Level 1 Python: Programming Art ^2014-5-12^Cambridge University Press^108^USD 15.00^0.0
+26379453^Beginning Python Visualization Crafting Visual Transformation Scripts^2014-8-19^Apress Publishers^416^CAD 67.50^0.0
+26385560^The Ultimate Ball Python Morph Maker Guide^2014-1^Ecouniverse Herpetological Publishing^770^USD 133.00^0.0
+26409963^Nonlinear Digital Filtering with Python An Introduction^2015-8-25^CRC Press^328^USD 99.95^0.0
+26870159^Python 3.5 技術手冊 ^2016-7-29^碁峰資訊^496^^0.0
+26883151^Beginning Python From Novice to Professional^2017-3-10^Apress^527^USD 44.99^0.0
+26292047^The Ball Python Care, Breeding and Natural History^2003-12^Kirschner & Seufer Verlag^96^EUR 46.00^0.0
+26290939^Python regius Atlas of Colour Morphs - Keeping and Breeding^2012-12^Natur und Tier-Verlag^356^USD 86.00^0.0
+25915745^Python 101 ^2014-6-3^Michael Driscoll^238^USD 25.00^0.0
+27012947^Python for Graph and Network Analysis (Advanced Information and Knowledge Processing) ^2017-3-21^Springer^203^USD 53.61^0.0
+26997853^Pro Python Best Practices Debugging, Testing and Maintenance^2017-4-17^Apress^264^USD 24.99^0.0
+26987889^跟老齐学Python 轻松入门^2017-4^电子工业出版社^332^59^0.0
+27000109^营销数据科学：用r和python进行预测分析的建模技术 ^^^^^0.0
+26981452^Artificial Intelligence with Python ^2017-5-4^Packt Publishing - ebooks Account^521^USD 49.99^0.0
+27007360^Django: Web Development with Python ^2016-8-31^Packt Publishing^730^USD 84.99^0.0
+26992851^Python即学即用 ^2016-10^机械工业出版社^255^50.00元^0.0
+26729801^Geospatial Development By Example with Python ^2016-1-30^Packt Publishing - ebooks Account^340^USD 49.99^0.0
+26747428^Python 3 MCQ - Multiple Choice Questions n Answers for Tests, Quizzes - Python Students & Teachers: Python3 Programming Jobs QA (Python 3 Beginners Guide) (Volume 2) ^2016-2-6^CreateSpace Independent Publishing Platform^152^USD 19.99^0.0
+26722517^An Introduction to Python and Computer Programming ^^Springer Singapore^295^135,19 €^0.0
+26715910^Program Arcade Games: With Python and Pygame ^2015-12-28^Apress^392^USD 38.24^0.0
+26944297^Beginning Ethical Hacking with Python ^2017-1-24^Apress^201^USD 26.99^0.0
+26962508^Invent Your Own Computer Games with Python ^2016-12-17^No Starch Press^376^USD 29.95^0.0
+26962256^Problem Solving in Data Structures & Algorithms Using Python Programming Interview Guide^2016-12-14^CreateSpace Independent Publishing Platform^410^USD 27.00^0.0
+26946144^Scientific Computing with Python 3 - Second Edition ^2017-1-5^Packt Publishing - ebooks Account^246^USD 49.99^0.0
+26963843^Deep Time Series Forecasting with Python: An Intuitive Introduction to Deep Learning for Applied Time Series Modeling ^2016-12-11^CreateSpace Independent Publishing Platform^212^USD 9.99^0.0
+26963814^Introduction to Computing Using Python: An Application Development Focus ^2015-4-20^Wiley^480^USD 83.87^0.0
+26963785^Programming with Python ^2017-1-13^Springer^344^USD 93.18^0.0
+26942570^Python, PyGame and Raspberry Pi Game Development ^2017-1-21^Apress^198^USD 24.99^0.0
+26999410^Python Programming An Introduction to Computer Science^2016-8-8^Franklin, Beedle & Associates^552^$45.00^0.0
+26682054^Python Regular Expressions Learn Python Regular Expressions FAST! - The Ultimate Crash Course to Learning the Basics of Python Regular Expressions In ... Python Regular Expressions Books)^2015-8-5^CreateSpace Independent Publishing Platform^132^USD 8.99^0.0
+26791728^Python Programming Blueprints ^2017-1-31^Packt Publishing Limited^^^0.0
+26894187^Integrating Python with Leading Computer Forensics Platforms ^2016-10-5^Syngress^216^USD 34.30^0.0
+26907942^Learning Python Application Development ^2016-9-6^Packt Publishing^454^USD 40.41^0.0
+22850810^Green Tree Python ^2013-8^^24^$ 27.04^0.0
+24283572^Python短袖黑色 ^^^^59.00元^0.0
+25812010^Raspberry Pi Cookbook for Python Programmers ^2014-4-16^Packt Publishing - ebooks Account^358^USD 44.99^0.0
+24544953^Python Programming for Raspberry Pi, Sams Teach Yourself in 24 Hours ^2013-11-9^Sams Publishing^600^USD 34.99^0.0
+24820741^Robot Wireless Control Made Simple with Python and C ^^Createspace^168^^0.0
+24806965^The Greedy Python Lap Edition^^Little Simon^24^^0.0
+24814989^Studyguide for Exploring Python by Budd, Timothy A. ^^Academic Internet Publishers^110^^0.0
+24826105^Studyguide for Introduction to Computing and Programming in Python, a Multimedia Approach by Guzdial, Mark J. ^^Academic Internet Publishers^150^^0.0
+24824421^Studyguide for Fundamentals of Python From First Programs Through Data Structures by Lambert, Kenneth A.^^Academic Internet Publishers^144^^0.0
+24551038^Python Pushing the Limits ^^^400^^0.0
+20556459^Complete Carpet Python, A Comprehensive Guide to the Natural History, Care, and Breeding of the 'Morelia spilota' Complex ^2011-9-1^ECO / Serpent's Tale NHBD^339^USD 64.95^0.0
+22163899^Python in Easy Steps ^2013-8^^192^$ 16.94^0.0
+20877287^Python Programming in Context ^^^544^^0.0
+22017951^Coding Club Level 2 Python ^^^105^^0.0
+21992627^Monty Python's Flying Circus 2014 Wall Calendar ^2013-10^^24^$ 16.94^0.0
+21094851^The Spirit of Python ^^^256^^0.0
+21026060^Monty Python's Flying Circus ^^^720^^0.0
+20963035^Participatory Geospatial Development Using Python ^^^148^^0.0
+20437716^Student Value Edition - Introduction to Programming Using Python ^2012-11^^^$ 89.64^0.0
+20521122^Python of Pura Malai and Other Stories ^^^136^^0.0
+20489732^Monty Python's Flying Circus, Episodes 27-45 ^2013-4^^308^$ 25.93^0.0
+20489731^Monty Python's Flying Circus, Episodes 1-26 ^2013-4^^492^$ 28.19^0.0
+20068677^Life Before and After Monty Python The Solo Flights of the Flying Circus ^^^272^^0.0
+20070635^Python Basics ^^^83^^0.0
+20125145^Studyguide for Exploring Python by Timothy A. Budd, ISBN 9780073523378 ^^^142^^0.0
+20210119^Princess Python ^^Book on Demand Ltd.^162^^0.0
+20232341^Monty Python ^^Book on Demand Ltd.^78^^0.0
+20199572^Python-Ogre ^^Book on Demand Ltd.^142^^0.0
+20520659^Student Value Edition - Introduction to Programming Using Python Plus Myprogramminglab with Pearson Etext ^2012-11^^^$ 97.18^0.0
+19947661^Python for Software Design ^2012-6^^^$ 164.98^0.0
+19947605^Numerical Methods in Engineering with Python ^2012-6^^^$ 176.00^0.0
+19947604^Numerical Methods in Engineering with Python ^2012-6^^^$ 168.09^0.0
+27021033^Python语言程序设计基础（第2版） ^2017-2^高等教育出版社^311^39^0.0
+27021791^零起点Python机器学习快速入门 ^2017-5^电子工业出版社^284^59^0.0
+27022925^Python数据可视化/数据分析与决策技术丛书 ^2017-03-01^机械工业^276^69.0^0.0
+27024258^Python可以这样学 ^2017-2^清华大学出版社^^69.00^0.0
+27050478^零起点Python足彩大数据与机器学习实盘分析 ^2017-5^电子工业出版社^460^99^0.0
+27044428^深入浅出深度学习：原理剖析与Python实践 ^2017-6^电子工业出版社^344^79^0.0
+27050630^Python极客项目编程 ^2017-5^^^69^0.0
+27055785^Deep Learning in Python Master Data Science and Machine Learning with Modern Neural Networks written in Python, Theano, and TensorFlow^^^^5$^0.0
+27045458^Data Science and Analytics with Python ^2017-6-10^Chapman and Hall/CRC^404^USD 59.95^0.0
+27054616^Raspberry Pi for Python Programmers Cookbook, Second Edition ^2016-10-7^Packt Publishing^510^USD 44.99^0.0
+27013851^Getting Started with Python Data Analysis ^2015-10^Packt Publishing - ebooks Account^188^USD 34.99^0.0
+20480997^Starting Out with Python, Student Value Edition Plus Myprogramminglab with Pearson Etext ^2012-7^^^$ 84.83^0.0
+20480980^Student Value Edition for the Practice of Computing Using Python Plus Myprogramminglab with Pearson Etext ^2012-7^^^$ 84.83^0.0
+27057666^NLTK基础教程(用NLTK和Python库构建机器学习应用) ^2017-06-01^人民邮电^153^49.0^0.0
+27057820^Python机器学习(影印版)(英文版) ^2017-04-01^东南大学^425^87.0^0.0
+27064848^Python高性能编程 ^2017-7-1^人民邮电出版社^352^79^0.0
+27064851^Mastering Machine Learning with Python in Six Steps A Practical Implementation Guide to Predictive Data Analytics Using Python^2017-7-8^Apress^358^USD 44.99^0.0
+27068315^Python Machine Learning By Example ^2017-6-6^Packt Publishing - ebooks Account^344^USD 49.99^0.0
+27058288^Monty Python's Flying Circus Hidden Treasures^2017-3-28^Harry N. Abrams^96^USD 40.00^0.0
+27061630^Python爬虫开发与项目实战 ^2017-6^机械工业出版社^^79^0.0
+27058309^PythonによるWebスクレイピング ^2016-3-18^オライリージャパン^272^ 3,240^0.0
+27068347^Python Web Scraping - Second Edition ^2017-6-6^Packt Publishing - ebooks Account^204^USD 34.99^0.0
+19920433^The Guide to Owning a Python ^2001-4^^64^$ 11.24^0.0
+19813892^Taller de matem&agrave;tiques. Pr&agrave;ctiques en Matlab/Octave, amb un ap&egrave;ndix en Python ^^^^^0.0
+19810606^Boas, pitones y anacondas/ Boa, Python and Anacondas ^2007-9-6^Hispano Europea Editorial^64^GBP 9.87^0.0
+19810562^La piton tigrina / The Burmese Python ^2005-6-30^Hispano Europea Editorial^64^EUR 12.90^0.0
+19810443^La Piton Real / Python regius ^2004-6-30^Hispano Europea Editorial^64^GBP 13.83^0.0
+19971401^Learning Python, 3rd Edition, Ebook ^2008-12^O'Reilly Media^752^^0.0
+27073447^Python机器学习实践指南 ^2017-5-1^人民邮电出版社^251^69^0.0
+27076218^Python地理数据处理 ^^^^^0.0
+27076214^Python金融实战 ^^^^^0.0
+27076215^Python程序设计与算法基础教程 ^^^^^0.0
+27076220^从问题到程序-用Python学编程和计算 ^^^^^0.0
+27071139^Python程序设计 ^2016-5^中国公信出版社集团^210^39.00元^0.0
+19685920^13681 Monty Python ^^^112^^0.0
+19693211^Webware for Python ^^^52^^0.0
+27016312^Python in a Nutshell A Desktop Quick Reference^2017-5-4^O'Reilly Media^774^USD 69.99^0.0
+27016321^Python新手使用Django架站的16堂课 ^2017-5^清华大学出版社^^89.00^0.0
+19617098^Water Python ^^^104^^0.0
+27030034^Mastering Predictive Analytics with Python ^2016-8-31^Packt Publishing^334^USD 49.99^0.0
+27038071^Software Architecture with Python ^2017-5-4^Packt Publishing - ebooks Account^645^USD 49.99^0.0
+27038206^Python Deep Learning ^2017-5-4^Packt Publishing - ebooks Account^368^USD 54.99^0.0
+27038207^Deep Learning with Python ^2017-10-31^Manning Publications^350^USD 49.99^0.0
+27038203^Learning Data Mining with Python - Second Edition ^2017-5-4^Packt Publishing - ebooks Account^413^USD 44.99^0.0
+27032940^Maya Programming with Python Cookbook ^2016-7-29^Packt Publishing^266^USD 44.99^0.0
+27034859^Python Geospatial Development - Third Edition ^2016-5-23^Packt Publishing - ebooks Account^446^USD 49.99^0.0
+27030104^Python入门（影印版 英文版） ^2015-9-1^东南大学出版社^454^89^0.0
+27030323^Effective Python Penetration Testing ^2016-7-6^Packt Publishing - ebooks Account^164^USD 39.99^0.0
+27030685^Deep Learning with Python: A Hands-on Introduction ^2017-5-17^Apress^160^USD 40.07^0.0
+27031017^Learning Python for Forensics Learn the art of designing, developing, and deploying innovative forensic solutions through Python^2016-5-30^Packt Publishing^488^USD 59.95^0.0
+27038833^Python Programming with Raspberry Pi Zero ^2017-5-4^Packt Publishing - ebooks Account^282^USD 39.99^0.0
+27085199^Python for Finance - Second Edition ^2017-6-30^Packt Publishing^586^USD 49.99^0.0
+27085200^Daniel Arbuckle's Mastering Python ^2017-7-6^Packt Publishing - ebooks Account^128^USD 39.99^0.0
+27077713^《Python数据科学实践指南》 ^2017-5-19^机械工业出版社^241^59.00元^0.0
+27084953^Python GUI Programming Cookbook - Second Edition ^2017-5-29^Packt Publishing^422^USD 49.99^0.0
+27089727^Powerful Python The Most Impactful Patterns, Features, and Development Strategies Modern Python Provides^2017-5-7^Powerful Python Press^220^USD 24.99^0.0
+27084646^Python Data Structures and Algorithms ^2017-5-30^Packt Publishing^310^USD 44.99^0.0
+27087413^Taming Big Data with Apache Spark and Python - Hands On! ^2017-7-6^Packt Publishing - ebooks Account^81^USD 39.99^0.0
+27090172^Python: Real World Machine Learning ^2017-6-16^Packt Publishing^956^USD 89.99^0.0
+27090174^Programming with MicroPython: Embedded Programming with Microcontrollers and Python ^2017-8-25^O'Reilly Media^206^USD 46.05^0.0
+27084134^Python金融衍生品大数据分析：建模、模拟、校准与对冲 ^2017-8^电子工业出版社^340^99.00^0.0
+27076219^Python机器学习算法 ^2017-7^电子工业出版社^364^69.00^0.0
+27091288^Python设计模式 ^^^^^0.0
+27085158^Python for Scientists ^2017-9-30^Cambridge University Press^273^USD 212.68^0.0
+27084137^Python与机器学习实战 决策树、集成学习、支持向量机与神经网络算法详解及编程实现^2017-7^电子工业出版社^328^69^0.0
+27085941^Python数据处理 ^2017-2-1^东南大学出版社^488^CNY 96.00^0.0
+12237786^QI Boxset ^^^^^0.0
+2808437^The Pythons ^^St Martins Pr^359^341.11元^0.0
+1755900^A Million Little Pieces of Feces ^2006-2-10^Lulu Press^260^USD 18.99^0.0
+4722931^Divining Earth Spirit An Exploration of Global and Australasian Geomancy^2004-10-31^Python Press,Australia^242^^0.0
+24548716^The Sheltermaker's Manual - Volume 1 ^^Python Press^310^^0.0
+3740086^Django Web开发指南 Python Web Development with Django^2009-5^机械工业出版社^280^49.00元^6.6
+25899625^机器学习系统设计 ^2014-7-1^人民邮电出版社^210^CNY 49.00^7.6
+25880388^图灵程序设计丛书 Python基础教程^2014-6-1^人民邮电出版社^470^CNY 79.00^7.3
+26368668^编程导论 ^2015-4^人民邮电出版社^284^59.00元^8.6
+26732945^程序设计导论 Python语言实践^2016-1-1^机械工业出版社^736^CNY 139.00^0.0
+26461700^蟒蛇 ^2015-6-30^科学出版社^424^280.00元^0.0
+26340992^贝叶斯思维 统计建模的Python学习法^2015-3^人民邮电出版社^200^49.00^7.4
+26005639^图灵程序设计丛书·父与子的编程之旅 与小卡特一起学Python^2014-10-1^人民邮电出版社^427^CNY 69.00^8.5
+25814739^Flask Web Development Developing Web Applications with Python^2014-5-25^O'Reilly Media^225^USD 24.99^8.3
+26364377^Data Science from Scratch First Principles with Python^2015-4-28^O'Reilly Media^330^USD 39.99^7.6
+26838547^深入理解 Flask 掌握用Python创建强大动态Web应用的技术^2016-7-1^电子工业出版社^256^79.00^8.3
+4149253^Head First Programming A learner's guide to programming using the Python language^2009-12-4^O'Reilly Media^442^USD 49.99^7.7
+25716519^NumPy攻略 Python科学计算与数据分析^2013-10^人民邮电出版社^188^49.00^5.8
+26713240^Selenium 2自动化测试实战 基于Python语言^2016-1-1^电子工业出版社^324^CNY 59.00^7.5
+2208815^Data Crunching Solve Everyday Problems Using Java, Python, and more.^2005^Pragmatic Bookshelf^176^$29.95^0.0
+2363803^Regular Expression Pocket Reference Regular Expressions for Perl, Ruby, PHP, Python, C, Java and .NET^2007-7-25^O'Reilly Media^128^USD 14.99^7.6
+3921592^Practical Programming An Introduction to Computer Science Using Python^2009-6-4^Pragmatic Bookshelf^350^USD 32.95^7.3
+4049526^SQLAlchemy Database Access Using Python (Developer's Library)^2010-11-08^Addison-Wesley Professional^504^USD 44.99^0.0
+26859012^数据科学实战手册 数据科学实战手册（R+Python）^2016-8-1^人民邮电出版社^326^59.00元^0.0
+1921572^Rapid Web Applications with TurboGears Using Python to Create Ajax-Powered Sites (Prentice Hall Open Source Software Development Series)^2006-11-07^Prentice Hall PTR^504^USD 44.99^0.0
+27008701^Web接口开发与自动化测试 基于Python语言^2017-4^电子工业出版社^288^59^5.8
+19946212^Programming the Raspberry Pi Getting Started with Python^2012-10-30^McGraw-Hill/TAB Electronics^192^USD 15.00^0.0
+26927659^程序设计导论 Python语言实践^2016-11-1^机械工业出版社^519^CNY 79.00^0.0
+2242748^CherryPy Essentials Rapid Python Web Application Development^2007-03-31^Packt Publishing^272^USD 39.99^0.0
+26371163^计算机科学导论 以Python为舟^2014-10-1^清华大学出版社^319^39.00^0.0
+26608963^Introducing Data Science Big Data, Machine Learning, and more, using Python tools^2016-1-31^Manning Publications^325^USD 44.99^0.0
+26901472^数据科学导论 Python语言实现^2016-8-10^机械工业出版社^180^CNY 49.00^0.0
+1950165^Diaries 1969-1979 The Python Years^2006-10^^696^£ 22.60^0.0
+4273956^The Definitive Guide to Jython Python for the Java Platform^2010-3-5^Apress^544^USD 54.99^0.0
+24676417^Practical Programming An Introduction to Computer Science Using Python 3^2013-10^Pragmatic Bookshelf^350^$ 42.94^0.0
+26336218^ArcPy and ArcGIS Geospatial Analysis with Python^2015-2-25^Packt Publishing - ebooks Account^210^USD 44.99^0.0
+26894269^预测分析建模 Python与R语言实现^2016-10-1^机械工业出版社^284^CNY 79.00^0.0
+6534956^Designer-Morphs, Volume One Ball Python and Boa Constrictor, A Guide to Mutations and Variations^2010-6-1^Edition Chimaira^348^USD 99.50^0.0
+3723903^Data Structures and Algorithms Using Python and C++^2009-3^Franklin Beedle & Assoc^568^USD 88.00^0.0
+4743282^Beginning GeoDjango Rich GIS Web Applications with Python^2009-12-04^Apress^300^USD 49.99^0.0
+20536824^Statistics, Data Mining, and Machine Learning in Astronomy A Practical Python Guide for the Analysis of Survey Data^2014-1-12^Princeton University Press^552^USD 95.00^0.0
+17380826^Making Music with Computers Creative Programming in Python^2014-5-19^Chapman and Hall/CRC^502^USD 59.95^0.0
+1452126^Web Standards Programmer's Reference HTML, CSS, JavaScript, Perl, Python, and PHP^2005-08-05^Wrox^812^USD 39.99^0.0
+26773395^Data Science and Complex Networks Real Case Studies with Python^2016-11-15^Oxford University Press^136^USD 64.95^0.0
+26762594^Foundations of Data Science A Practical Introduction to Data Science with Python^2016-8-9^Addison-Wesley Professional^600^USD 44.99^0.0
+24658274^Program Arcade Games With Python and Pygame^2013-4-26^CreateSpace Independent Publishing Platform^342^USD 29.99^0.0
+26617209^Teach Your Kids to Code A Parent-Friendly Guide to Python Programming^2015-5-1^No Starch Press^336^USD 29.95^0.0
+25915741^Introduction to Numerical Programming A Practical Guide for Scientists and Engineers Using Python and C/C++^2014-8-18^CRC Press^680^USD 89.95^0.0
+26759033^Think DSP Digital Signal Processing in Python^2016-7-25^O'Reilly Media^140^USD 29.99^0.0
+27005612^Learning PySpark Build data-intensive applications locally and deploy at scale using the combined powers of Python and Spark 2.0^2017-5-4^Packt Publishing^312^USD 42.84^0.0
+26728434^Modeling Creativity CASE STUDIES IN PYTHON^2013^Uitgeverij UPA University Press Antwerp^168^^0.0
+26707966^Learn to Program with Minecraft Transform Your World with the Power of Python^2015-12-10^No Starch Press^320^USD 29.95^0.0
+26819602^Learning IPython for Interactive Computing and Data Visualization - Second Edition Get started with Python for data analysis and numerical computing in the Jupyter notebook^2015-10-1^Packt Publishing^200^USD 29.99^0.0
+6397625^Computational Modeling and Complexity Science Python - 2008 Edition^2009-3^CreateSpace^100^$13.95^0.0
+26762353^Marketing Data Science Modeling Techniques in Predictive Analytics with R and Python^2015-5-22^Pearson FT Press^480^USD 79.99^0.0
+26614860^Jesus and Brian Exploring the Historical Jesus and his Times via Monty Python's Life of Brian^2015-9-10^Bloomsbury T&T Clark^304^USD 29.95^0.0
+26631408^NumPy Cookbook - Second Edition Over 90 fascinating recipes to learn and perform mathematical, scientific, and engineering Python computations with NumPy^2015-5-29^Packt Publishing^263^USD 44.99^0.0
+26340753^Explorations in Computing An Introduction to Computer Science and Python Programming^2014-9-24^Chapman and Hall/CRC^439^USD 79.95^0.0
+26342324^Scientific Computation Python Hacking for Math Junkies^2015-1-11^Sherwood Forest Books^458^USD 24.99^0.0
+26809652^Computational Physics(3rd.ed) Problem Solving with Python^2015-9-8^Wiley-VCH^644^^0.0
+3304610^Introduction to Media Computation A Multimedia Cookbook in Python^2004-01^Pearson PTR Interactive^352^$ 160.69^0.0
+2148228^Diaries 1969-1979 The Python Years^2007-09-04^Thomas Dunne Books^672^USD 29.95^0.0
+2696880^Scripting With Objects A Comparative Presentation of Object-Oriented Scripting with Perl and Python^March 28, 2008^Wiley^1280^$82.50^0.0
+26576394^Discovering Computer Science Interdisciplinary Problems, Principles, and Python Programming^2015-7-30^Chapman and Hall/CRC^754^USD 89.95^0.0
+26599261^Jesus and Brian Exploring the Historical Jesus and his Times via Monty Python's Life of Brian^2015-9-10^Bloomsbury T&T Clark^304^USD 104.00^0.0
+26409791^Hello Raspberry Pi! Python programming for kids and other beginners^2015-8-31^Manning Publications^225^USD 24.99^0.0
+25915747^Programming and Mathematical Thinking A Gentle Introduction to Discrete Math Featuring Python^2014-4-29^New Mexico Tech Press, The^260^USD 29.95^0.0
+26995614^ゼロから作るDeep Learning Pythonで学ぶディープラーニングの理論と実装^2016-9^O'Reilly Japan, Inc.^320^3,672円^0.0
+25820267^Guide To Learning Python Decorators^2013-9-1^CreateSpace Independent Publishing Platform^68^USD 8.97^0.0
+20034570^FreeCAD Solid Modeling with the Power of Python^2012-9-18^Packt Publishing^70^GBP 12.99^0.0
+14161497^Dynamically-Typed Programming Languages LISP, Perl, Python, Mumps, SmallTalk, Ruby, LOGO, TCL, Self, Common LISP, Objective-C, Rebol, Squeak^2010-9^Books LLC^380^$ 50.96^0.0
+14138062^Object-Oriented Programming Languages COBOL, Java, C++, Perl, FORTRAN, Python, PHP, Eiffel, SmallTalk, Ruby, Blitz Basic, Turbo Pascal^2011-6^Books LLC, Wiki Series^194^$ 31.45^0.0
+14175456^Pythonidae by Common Name Burmese Python, Children's Python, Rock Python, Green Tree Snake, Carpet Snake, White-Lipped Python, Borneo Python^2010-9^Books LLC^290^$ 41.63^0.0
+14213024^Boidae Titanoboa, Corallus Blombergi, Morelia Kinghorni, Morelia Bredli, Corallus Caninus, Python Curtus, Morelia Amethistina^2010-7^Books LLC^296^$ 41.31^0.0
+14156098^Class-Based Programming Languages Java, C++, Python, Eiffel, SmallTalk, Ruby, Simula, Common LISP, Oberon, Clu, Objective-C, Squeak, Sather^2011-8^Books LLC, Wiki Series^92^$ 22.59^0.0
+14110114^Pythonidae Morelia, Python Reticulatus, Morelia Spilota, Python Molurus, Python Regius, Python Sebae, Leiopython, Morelia Viridis^2011-6^Books LLC, Wiki Series^30^$ 15.98^0.0
+14170816^Arthurian Film and Television Monty Python and the Holy Grail, Army of Darkness, the Fisher King, Kaamelott, Merlin, Excalibur^^^106^^0.0
+14140390^Revolvers Revolver, Smith and Wesson Model 3, Pepper-Box, Colt Python, Lemat Revolver, Charter Arms Bulldog, Smith & Wesson Mode^^^54^^0.0
+14192814^Biota of Brunei Fauna of Brunei, Python Reticulatus, Mammals of Borneo, Saltwater Crocodile, Banteng, Burmese Python, Bengal Monitor^2010-9^Books LLC^110^$ 22.63^0.0
+14116508^Fauna of Ghana Birds of Ghana, Insects of Ghana, Mammals of Ghana, Common Chimpanzee, List of Birds of Ghana, African Buffalo, Python^2011-6^Books LLC, Wiki Series^44^$ 15.98^0.0
+2607400^Computer Science The Python Programming Language^2006-08-25^Jones & Bartlett Publishers^59^USD 17.95^0.0
+4291929^Scripting with Objects A Comparative Presentation of Object-Oriented Scripting with Perl and Python^2008-06-03^Wiley^1280^USD 94.95^0.0
+4394373^Sandman Mystery Theatre The Hourman and the Python^2008-3-5^Vertigo^200^USD 19.99^0.0
+4429169^Diaries 1969-1979 The Python Years^2008-11-11^St. Martin's Griffin^650^USD 19.95^0.0
+3587489^Captain Hazzard Python Men of the Lost City^2006-4-19^Wild Cat Books^152^USD 19.99^0.0
+26841479^Data science fondamentaux et études de cas : Machine learning avec Python et R^2015-10-1^Eyrolles^294^EUR 35.00^0.0
+26617206^Make a Raspberry Pi-Controlled Robot Building a Rover with Python, Linux, Motors, and Sensors^2014-12-4^Maker Media, Inc^168^USD 19.99^0.0
+26694307^Nobody Expects the Spanish Inquisition Cultural Contexts in Monty Python^2014-7-16^Rowman & Littlefield Publishers^168^USD 50.00^0.0
+27021154^OpenCV Computer Vision Projects with Python^2016-10-24^Packt Publishing^570^USD 79.99^0.0
+27076211^机器学习系统设计 Python语言实现^^^^^0.0
+27014831^Pandas for Everyone Python Data Analysis^2017-11^Addison-Wesley Professional^^^0.0
+27036744^Flask Building Python Web Services^2017-3-31^Packt Publishing^770^USD 99.99^0.0
+27079655^Markov Models Master the Unsupervised Machine Learning in Python and Data Science with Hidden Markov Models and Real World Applications^2017-6-10^CreateSpace Independent Publishing Platform^150^USD 16.38^0.0
+27079656^Markov Models Understanding Markov Models and Unsupervised Machine Learning in Python with Real-World Applications^2017-3-12^CreateSpace Independent Publishing Platform^66^USD 16.38^0.0
+27086030^Advanced Apple Debugging & Reverse Engineering Exploring Apple code through LLDB, Python and DTrace^2017-3-14^Razeware LLC^478^USD 54.99^0.0
+2804277^The Pythons Autobiography by the pythons^2005-11-15^St Martins Pr^359^$19.95^0.0
+2514676^Boas and Pythons of the World ^2007-01-29^Princeton University Press^160^USD 29.95^0.0
+3842892^Ball Pythons in Captivity ^2006-3-15^ECO/Serpent's Tale NHBD^101^USD 9.95^0.0
+4137014^The Pythons' Autobiography By The Pythons ^2005-09-15^Orion (an Imprint of The Orion Publishing Group Ltd )^544^USD 16.37^0.0
+2555161^Ball Pythons ^2000-2-1^Barron's Educational Series^48^USD 7.99^0.0
+2555263^Pythons ^1997-11-1^Barron's Educational Series^96^USD 11.99^0.0
+1774133^The Pythons ^2003-10-07^Thomas Dunne Books^368^USD 60.00^0.0
+4536271^Pythons ^2007-8-1^PowerKids Press^24^USD 23.60^0.0
+18055862^On Green Pythons ^^^116^^0.0
+17854827^Pythons of the World Australia ^^^^^0.0
+17616324^Boas/Pythons Calendar 2000^1999-8^Star Calendars^0^^0.0
+17299647^With Pythons & Head-Hunters in Borneo ^^^248^^0.0
+17299648^With Pythons & Head-Hunters in Borneo ^^^248^^0.0
+15044275^The Pythonism of the Present Day ^^^60^^0.0
+14019485^The Pythonism of the Present Day; The Response of the Ministers of the Massachusetts Association of the New Jerusalem to a Resolution of That ^2010-7^^38^$ 15.98^0.0
+7667588^The Pythonism of the Present Day ^^^54^$ 15.32^0.0
+6673425^Pythons ^^^^$ 36.08^0.0
+6673426^Pythons ^^^^$ 16.55^0.0
+6912690^Pythons ^^^32^$ 8.98^0.0
+11238609^Pythons ^2012-9^Children's Press (Dublin)^48^$ 7.85^0.0
+11238648^Pythons ^2012-9^Children's Press (Dublin)^48^$ 31.64^0.0
+6594005^The Pythonism of the Present Day ^2010-1^^54^$ 19.15^0.0
+10128478^Green Tree Pythons ^^^24^$ 24.01^0.0
+10128537^Green Tree Pythons ^^^24^$ 9.32^0.0
+10062836^Pythons ^^^24^$ 24.01^0.0
+6355601^Reticulated Pythons ^2003-5^^24^$ 25.99^0.0
+7762988^The Pythonism of the Present Day ^^^54^$ 28.88^0.0
+12349433^Poisonous Pythons of Pennsylvania ^^Perfection Learning^0^^0.0
+12343915^The &quot;Pythons&quot; Autobiography by the &quot;Pythons&quot; ^^^^^0.0
+12436661^Pythons ^^^^^0.0
+5248314^Pythons ^^^24^$ 27.36^0.0
+5864572^The Pythonism of the Present Day ^2010-5^^54^$ 36.10^0.0
+5270600^Pythons ^2010-5^^24^$ 7.85^0.0
+5497861^Pythons ^^^24^$ 24.80^0.0
+6442169^Boas and Pythons of the World ^2011-4-24^Princeton University Press^160^USD 19.95^0.0
+17787774^Boas and Pythons of the World ^2011-4-1^New Holland Australia(AU)^160^USD 33.75^0.0
+7016777^Invasive Pythons in the United States Ecology of an Introduced Predator^2011-10-1^A Wormsloe Foundation Nature Book^176^USD 25.95^0.0
+11389626^Burmese Pythons ^2012-8-10^Powerkids Pr^24^USD 23.60^0.0
+11389673^Burmese Pythons ^2012-8-15^Powerkids Pr^24^USD 8.25^0.0
+6142920^Ball Pythons ^2011-3-1^Barron's Educational Series^48^USD 7.99^0.0
+17550812^Boas and Pythons Cool Pets!^2012-7-1^Enslow Elementary^48^USD 8.95^0.0
+10048079^Boas and Pythons Cool Pets!^2012-4-1^Enslow Elementary^48^USD 25.27^0.0
+7042308^Pythons ^2011-7-1^Capstone Press^32^USD 27.32^0.0
+11969470^Pythons and Boas ^1999-4^Dillon Pr^^^0.0
+2266853^The Pythons ^2003-10-28^Audio Renaissance^^USD 16.95^0.0
+2385062^Boas & Pythons Breeding and Care^1993-10^Tfh Pubns Inc^192^USD 29.95^0.0
+2387630^The General Care and Maintenance of Burmese Pythons Including Notes on Other Large Pythons^1991-3^Advanced Vivarium Systems^44^USD 9.95^0.0
+2763622^Pythons ^^Rourke Pub Group^^20.64^0.0
+2517594^Burmese Pythons Plus Reticulated Pythons And Related Species^2001-2-1^Advanced Vivarium Systems^79^USD 8.95^0.0
+2510670^The Living Pythons (A Complete Guide) ^^TFH Publications^256^$49.95^0.0
+2510680^The Guide to Owning Burmese Pythons ^1994-6^TFH Publications^64^USD 9.95^0.0
+2554291^The Guide to Owning Tree Boas and Tree Pythons ^1999-7^Tfh Pubns Inc^64^USD 9.95^0.0
+2554439^Pythons and Boas ^1993-1^TFH Publications^192^USD 26.95^0.0
+2554529^Boas & Pythons and Other Friendly Snakes ^1992-9^Tfh Pubns Inc^192^USD 29.95^0.0
+2684997^Pythons ^2005-1^Capstone Pr Inc^24^$ 26.35^0.0
+2700007^Asian Rock Pythons ^2003-5^Gareth Stevens Pub^24^$ 25.99^0.0
+2700008^Scrub Pythons ^2003-5^Gareth Stevens Pub^24^$ 25.99^0.0
+2651731^Pythons ^^Abdo Pub Co^24^$ 28.98^0.0
+2588021^Pythons ^^Rourke Pub Group^24^22.79^0.0
+2602392^Poisonous Pythons Paralyze Pennsylvania ^^Audio Craft Pr Inc^^5.99^0.0
+2580379^African Rock Pythons ^2003-5^Gareth Stevens Pub^24^$ 25.99^0.0
+2623519^Pythons ^^The Childs World Inc^32^$ 32.21^0.0
+4388336^Pythons ^^^24^$ 27.85^0.0
+4337853^The Pythons of Australia ^^^112^257.00 元^0.0
+3696477^The Pythons ^2003-10-28^Macmillan Audio^^USD 14.95^0.0
+4769477^Pythons (Amazing Snakes Discovery Library) ^2005-06-30^Rourke Publishing^^USD 5.45^0.0
+4798405^A Plague of Pythons ^1978-08-12^Del Rey^^USD 1.75^0.0
+4463293^Ball Pythons ^2006-9-1^TFH Publications, Inc.^128^USD 10.95^0.0
+4564200^Pythons 2nd Edition^2009-10-1^Barron's Educational Series^96^USD 8.99^0.0
+4505291^Pythons ^^^24^$ 22.51^0.0
+2735641^Pythons ^1995-9-1^Capstone Press^48^USD 27.32^0.0
+26378957^Boas und Pythons der Welt ^2008-1-29^Verlag Eugen Ulmer^160^EUR 17.90^0.0
+26363162^Keeping and Breeding Australian Pythons ^2007-3^Mike Swan^350^USD 59.50^0.0
+26281135^Biology of the Boas and Pythons ^2007^Eagle Mountain Publishing, LC^438^USD 100.00^0.0
+26297496^A Guide to Australian Pythons in Captivity ^2014-7^ABK Publications^216^AUD 62.00^0.0
+26716771^Carpet Pythons Morelia bredli, Morelia carinata and the Morelia spilota Complex^2015-12-13^Natur und Tier-Verlag^216^GBP 44.99^0.0
+24828946^Pythons ^^Amicus High Interest^32^^0.0
+21082567^Bashful Ball Pythons ^2013-1-1^SandCastle^24^USD 22.78^0.0
+21090166^Bashful Ball Pythons ^2013-1-1^SandCastle^24^USD 22.78^0.0
+16369856^Bucolicos... ^^^116^^0.0
+15801102^Biblioth Que Romane de La Suisse ^^^202^^0.0
+15835725^The Relative Territorial Status of the North and the South ^^^34^^0.0
+11976281^Just the Words -Promotional ^^^^^0.0
+24703171^机器学习实战 ^2013-6^人民邮电出版社^332^69.00元^8.1
+5338024^与孩子一起学编程 ^2010-11^人民邮电出版社^388^65.00元^8.5
+2209702^Programming Collective Intelligence Building Smart Web 2.0 Applications^2007-8-26^O'Reilly Media^362^USD 39.99^9.0
+6962285^Machine Learning in Action ^2012-4-19^Manning Publications^384^GBP 29.99^8.3
+24381562^统计思维 程序员数学之概率统计^2013-5^图灵教育^160^29.00元^6.5
+24530461^复杂性思考 ^2013-5^机械工业出版社^117^49.00元^7.6
+1940567^大型多人在线游戏开发 ^2006-12^人民邮电出版社^386^59.00元^7.8
+3056375^集体智慧编程 ^2008-3-1^东南大学出版社^334^58.00元^8.8
+1798896^The Definitive Guide to Django Web Development Done Right^2007-12-06^Apress^447^CAD 45.14^8.6
+7159030^Think Complexity Complexity Science and Computational Modeling^2012-3-12^O'Reilly Media^160^USD 39.99^8.0
+10561724^SciPy and NumPy An Overview for Developers^2012-11-22^O'Reilly Media^82^USD 12.99^7.0
+4884975^Data Analysis with Open Source Tools A hands-on guide for programmers and data scientists^2010-11-25^O'Reilly Media^540^USD 39.99^7.9
+1482279^Wxpython in Action ^2006-3-1^Manning Publications^552^USD 49.95^8.0
+5380976^GAE编程指南 ^2010-12-1^机械工业出版社华章公司^368^65.00元^8.1
+3617254^The Definitive Guide to Django, 2nd Edition Web Development Done Right^2009-7-7^Apress^536^USD 44.99^8.9
+3887824^Machine Learning An Algorithmic Perspective^2009^Chapman & Hall/CRC^406^USD 72.95^8.1
+26593179^Spark机器学习 ^2015-9-1^人民邮电出版社^224^CNY 59.00^7.5
+11549309^Bad Data Handbook Cleaning Up The Data So You Can Get Back To Work^2012-11-21^O'Reilly Media^264^USD 39.99^0.0
+7906788^Introduction to Tornado ^2012-3-28^O'Reilly Media^136^USD 23.99^7.5
+3086812^Pro Django ^2008-11-24^Apress^299^USD 49.99^8.4
+3598510^Using Google App Engine Google App Engine^2009-5-23^O'Reilly Media^262^USD 29.99^7.8
+6872849^Social Network Analysis for Startups Finding connections on the social web^2011-10-7^O'Reilly Media^190^USD 24.99^7.4
+1452125^Twisted Network Programming Essentials ^2005-10-20^O'Reilly Media, Inc.^240^USD 29.95^6.5
+6725483^Think Stats ^2011-7-22^O'Reilly Media^140^USD 29.99^7.3
+26348921^集体智慧编程 ^2015-3^电子工业出版社^356^79.00元^8.7
+26979890^算法图解 ^2017-3^人民邮电出版社^196^49.00元^7.6
+25723956^Think Bayes ^2013-10-4^O'Reilly Media^210^USD 29.99^8.1
+26652166^写给程序员的数据挖掘实践指南 ^2015-10-24^人民邮电出版社^400^59.00^8.0
+26374647^Open Stack设计与实现 ^2015-5^电子工业出版社^380^79.00元^8.0
+3086810^Learning Website Development with Django A beginner's tutorial to building web applications, quickly and cleanly, with the Django application framework^2008-4-11^Packt Publishing^264^USD 39.99^7.9
+3120623^Hello World! Computer Programming for Kids and Other Beginners ^2009-5-5^Manning Publications^440^USD 34.99^8.7
+26741078^数据科学入门 ^2016-3^人民邮电出版社^304^69.00元^7.2
+26090543^Data Science at the Command Line Facing the Future with Time-Tested Tools^2014-10-20^O'Reilly Media^212^USD 39.99^7.5
+10518092^深入浅出程序设计（中文版） 深入浅出程序设计^2012-1^东南大学出版社^395^98.00元^8.5
+2349542^Practical Django Projects ^2008-6-26^Apress^256^USD 44.99^7.9
+26318405^社交网站的数据挖掘与分析(第2版) ^2015-1-28^机械工业出版社^370^79元^6.5
+26840215^Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques for Building Intelligent Systems^2017-1-25^O'Reilly Media^450^USD 49.99^9.2
+26304113^Advanced Analytics with Spark Patterns for Learning from Data at Scale^2015-4-20^O'Reilly Media^276^USD 49.99^7.6
+25879705^机器学习实践指南 案例应用解析^2014-4-1^机械工业出版社^323^69.00^6.6
+3807431^Programming Google App Engine Build and Run Scalable Web Apps on Google's Infrastructure^2009-11-30^O'Reilly Media^400^USD 44.99^8.1
+26387975^命令行中的数据科学 ^2015-5^人民邮电出版社^188^49.00元^7.9
+26929874^贝叶斯方法 概率编程与贝叶斯推断^2017-1-1^人民邮电出版社^214^59元^0.0
+24246865^Two Scoops of Django Best Practices For Django 1.5^2013-4-16^CreateSpace Independent Publishing Platform^306^USD 29.95^8.4
+24525190^Learning IPython for Interactive Computing and Data Visualization ^2013-4-25^Packt Publishing^138^USD 29.99^7.5
+3571979^Programming the Semantic Web ^2009-7-24^O'Reilly Media, Inc.^302^USD 39.99^7.2
+25929433^敏捷数据科学 用Hadoop创建数据分析应用^2014-7^电子工业出版社^184^49.00元^6.9
+26613247^零基础学Minecraft编程 零基础学Minecraft编程（图文版）^2015-9-7^人民邮电出版社^230^79^0.0
+26699570^奔跑吧Ansible ^2016-1^电子工业出版社^318^79.00^7.4
+26295827^Ansible Up and Running^2015-5-24^O'Reilly Media^200^CAD 41.99^7.5
+5988563^21 Recipes for Mining Twitter Distilling Rich Information From Messy data^2011-3-17^O'Reilly Media^72^£17.24^7.6
+26578004^Two Scoops of Django Best Practices for Django 1.8^2015-5-15^Two Scoops Press^532^USD 44.95^8.4
+26250831^Cython ^2015-1-31^O'Reilly Media^254^USD 29.99^7.9
+4722716^软件开发成功路线图 ^2010-3^机械工业出版社^241^45.00元^7.6
+26281221^Mastering Machine Learning With scikit-learn ^2014-10-29^Packt Publishing^238^USD 40.49^8.0
+26593825^统计思维 程序员数学之概率统计（第2版）^2015-9^人民邮电出版社^204^49.00元^0.0
+26667987^机器学习算法原理与编程实践 算法原理与编程实践^2015-11^电子工业出版社^432^88.00^5.4
+3642654^Google！Android 手機應用程式設計入門 ^2009^文魁^440^520NT^0.0
+26312249^大数据技术丛书 Storm分布式实时计算模式^2015-1-1^机械工业出版社^252^CNY 59.00^7.5
+26708820^Learning Scrapy ^2016-1-30^Packt Publishing - ebooks Account^270^USD 34.99^7.4
+5336888^深入浅出程序设计 ^2010-6^东南大学出版社^406^92.00元^0.0
+26270372^寻路大数据 海量数据与大规模分析^2014-11^电子工业出版社^244^59.00^7.2
+26836475^500 Lines or Less Experienced programmers solve interesting problems^2016-6-28^^478^USD 35.00^0.0
+3142778^The Definitive Guide to Pylons ^2008^Apress^536^USD 46.99^8.1
+3817202^Practical Django Projects, Second Edition ^2009^Apress^272^44.99^7.8
+26394556^Storm技术内幕与大数据实践 ^2015-5^人民邮电出版社^192^49^6.7
+26284941^Bayesian Methods for Hackers Probabilistic Programming and Bayesian Methods^2015-5-10^Addison-Wesley Professional^300^USD 39.99^0.0
+19976932^Twisted Network Programming Essentials ^2013-1-22^O'Reilly Media^250^USD 34.99^0.0
+3033852^Essential SQLAlchemy ^2008-06-05^O'Reilly Media, Inc.^216^USD 34.99^7.2
+26698289^Foundations of Programming Languages ^2015-1-20^Springer^354^USD 59.99^0.0
+19986436^虚拟化技术原理与实现 虚拟化技术原理与实现^2012-10^^285^59.00元^6.6
+21353332^Raspberry Pi Home Automation with Arduino ^2013-2-5^Packt Publishing^176^USD 29.99^0.0
+26998034^全栈数据之门 ^2017-4^电子工业出版社^368^79^7.5
+3263568^Developing with Google App Engine (Firstpress) ^2009-02-02^Apress^164^USD 19.99^0.0
+26194872^Practical Data Science Cookbook - Real-World Data Science Projects to Help You Get Your Hands On Your Data ^2014-9-29^Packt Publishing - ebooks Account^448^USD 29.99^0.0
+26833435^Machine Learning with TensorFlow ^2017-1-31^Manning Publications^325^GBP 34.72^0.0
+26601155^Real-World Machine Learning ^2015-12-31^Manning Publications^400^USD 49.99^0.0
+20438801^云端代码 Google App Engine编程指南^2013-1^人民邮电出版社^215^45.00元^0.0
+26269829^MongoDB大数据处理权威指南（第2版） ^2015-1-1^清华大学出版社^284^49.80元^6.7
+1096066^Zope指南 ^2002-1^人民邮电出版社^308^35.00^0.0
+25839989^Hadoop实战手册 ^2014-3^人民邮电出版社^242^59.00元^0.0
+26279422^Scikit-Learn Cookbook ^2014-11-4^Packt Publishing^214^USD 40.49^0.0
+24669831^NumPy Beginner's Guide - Second Edition ^2013-4-25^Packt Publishing^310^USD 44.99^0.0
+3013069^Getting Started with Pyparsing ^2007^o'reilly^^^0.0
+26275027^Raspberry Pi创意项目制作 ^2015-1^科学出版社^272^48.00元^0.0
+5986082^Django JavaScript Integration AJAX and jQuery^2011-1-6^Packt Publishing^324^USD 44.99^0.0
+3636087^IronPython in Action ^2009-03-30^Manning Publications^450^USD 44.99^0.0
+20142450^NumPy Cookbook ^2012-10-25^Packt Publishing^226^USD 44.99^0.0
+3334666^Django 1.0 Template Development ^2008^Packt^252^24.99^0.0
+4000093^Beginning Django E-Commerce ^2009-10-29^Apress^300^USD 44.99^0.0
+26863748^TensorFlow Machine Learning Cookbook ^2017-2-6^Packt Publishing - ebooks Account^401^GBP 40.99^0.0
+26267241^Lightweight Django ^2014-11-13^O'Reilly Media^246^USD 39.99^0.0
+26021932^IPython Interactive Computing and Visualization Cookbook ^2014-9-24^Packt Publishing - ebooks Account^423^USD 49.99^0.0
+6438186^Practical Computing for Biologists ^2010-11-5^Sinauer Associates, Inc.^538^USD 59.95^0.0
+5904105^wxPython 2.8 Application Development Cookbook Over 80 practical recipes for developing feature-rich applications using wxPython^^^308^^7.2
+26284935^Effective Computation in Physics ^2015-5-25^O'Reilly Media^300^USD 39.99^0.0
+26284930^Machine Learning An Algorithmic Perspective, Second Edition^2014-10-8^Chapman and Hall/CRC^457^USD 79.95^0.0
+25898736^Two Scoops of Django Best Practices For Django 1.6^2014-2-1^Two Scoops Press^446^USD 44.95^0.0
+26359018^High Performance Django ^2015-3-31^CreateSpace Independent Publishing Platform^184^USD 42.00^0.0
+26590945^编程景观 面向设计师的编程设计知识系统(PADKS)^2015-6^江苏凤凰科学技术出版社^288^128^0.0
+26679450^django by examples ^2015-11-1^Packt Publishing - ebooks Account^361^USD 45^8.4
+3644995^Django 1.0 Website Development ^2009-03-10^Packt Publishing^272^USD 39.99^7.7
+26296819^Flask Framework Cookbook ^2014-12-24^Packt Publishing - ebooks Account^258^USD 43.99^0.0
+22163585^Learning SciPy for Numerical and Scientific Computing ^2013-2-22^Packt Publishing^150^USD 29.99^0.0
+2173521^Beginning Ubuntu Linux ^March 30, 2007^Apress^684^$39.99^0.0
+26327376^Quantitative Technical Analysis An integrated approach to trading system development and trading management^2015-1-24^Blue Owl Press, Incorporated^448^USD 89.95^0.0
+25842749^Practical Data Analysis ^2013-10-22^Packt Publishing^360^USD 49.99^0.0
+3010431^Sams Teach Yourself Django in 24 Hours ^2008-02-22^Sams^528^CAD 37.99^0.0
+11536644^A Practitioner’s Guide to Resampling for Data Analysis, Data Mining, and Modeling ^^^224^^0.0
+26281141^Web Development with Django Cookbook ^2014-11-17^Packt Publishing - ebooks Account^294^USD 49.99^0.0
+24806569^Pro Django ^2013-7-10^Apress^300^USD 49.99^0.0
+6971217^NumPy 1.5 Beginner's Guide ^2011-12-2^Packt Publishing^234^USD 44.99^0.0
+20490082^Hello World! Computer Programming for Kids and Other Beginners^2013-12-21^Manning Publications^435^USD 39.99^0.0
+4842435^Django 1.1 Testing and Debugging ^2010-4-20^Packt Publishing^436^USD 49.99^0.0
+2367330^Web应用程序快速开发使用TurboGears ^2008-1^^330^45.00元^0.0
+26932863^轻量级Django ^2016-11-1^中国电力出版社; 第1版^224^35.6^0.0
+26410236^Django Design Patterns and Best Practices ^2015-3-26^Packt Publishing - ebooks Account^180^USD 44.99^0.0
+26728051^Test-Driven Machine Learning ^2016-2-1^Packt Publishing - ebooks Account^180^USD 39.99^0.0
+10732560^Building an OpenStack Cloud From zero to the cloud with open source technologies^2013-8-22^O'Reilly Media^200^GBP 26.99^0.0
+26738287^Introduction to the Modeling and Analysis of Complex Systems ^2015^Open SUNY Textbooks; Print edition (black and white) edition (August 13, 2015)^496^^0.0
+25777479^Instant Flask Web Development ^2013-8-26^Packt Publishing^78^^0.0
+26583074^Essential SQLAlchemy ^2015-12-25^O'Reilly Media^208^GBP 26.50^0.0
+26364478^Learning Saltstack ^2015-2-27^Packt Publishing - ebooks Account^160^USD 29.99^0.0
+25934026^Getting Started with Beautiful Soup Build your own web scraper and learn all about web scraping with Beautiful Soup^2014-1-24^Packt Publishing^130^USD 31.49^0.0
+25795761^Learning Cython Programming ^2013-9-25^Packt Publishing^110^USD 32.99^0.0
+3688292^Pro IronPython ^2009-06-15^Apress^314^USD 44.99^0.0
+26680328^Mastering Flask Gain expertise in Flask to create dynamic and powerful web applications^2015-9-30^Packt Publishing^282^USD 49.99^0.0
+10594196^web2py Application Development Cookbook ^2012-3-14^Packt Publishing^364^USD 49.99^0.0
+26927961^Building Machine Learning Projects with TensorFlow ^2016-12-6^Packt Publishing^291^USD 54.99^0.0
+26306104^Adventures in Minecraft ^2014-11-17^Wiley^320^USD 24.99^0.0
+5419326^Maya总动员 ^2011-1^清华大学^602^79.80元^0.0
+1471896^The Definitive Guide to Plone ^2004-06-28^Apress^568^USD 44.99^0.0
+26430959^Mastering Pandas ^2015-6-22^Packt Publishing - ebooks Account^352^USD 49.99^0.0
+26364648^Salt Essentials ^2015-6-25^O'Reilly Media^250^USD 39.99^0.0
+3243830^Spatial statistics and computational methods空间统计学与计算方法 ^2003-3^^202^869.00元^0.0
+26654778^Mastering PyCharm ^2015-10-23^Packt Publishing - ebooks Account^180^USD 35.99^0.0
+11229727^Programming Google App Engine ^2012-10^^516^$ 56.49^0.0
+6151256^Code in the Cloud Programming Google AppEngine^2011-4-29^Pragmatic Bookshelf^320^USD 32.95^0.0
+4916398^Django 1.2 e-commerce ^2010-5-18^Packt Publishing^244^USD 39.99^0.0
+26773894^Flask By Example ^2016-3-31^Packt Publishing - ebooks Account^276^USD 34.99^0.0
+25873430^Creating Apps in Kivy ^2014-5-3^O'Reilly Media^140^USD 24.99^0.0
+21992414^Hacking with Kali Practical Penetration Testing Techniques^2013-12-18^Syngress^238^USD 39.95^0.0
+10957092^A Liar's Autobiography ^2011-9^^^$ 24.58^0.0
+1759746^Jython Essentials ^2002-3-28^O'Reilly Media^304^USD 34.99^0.0
+1241032^JYTHON程序设计 ^1900-01-01^机械工业出版社^326^38.00元^0.0
+26342320^Learning Django Web Development ^2015-6-30^Packt Publishing - ebooks Account^405^USD 44.99^0.0
+26690786^Flask Blueprints Dive into the world of the Flask microframework to develop an array of web applications^2015-11-27^Packt Publishing^198^USD 44.99^0.0
+26584640^Mastering matplotlib ^2015-6-4^Packt Publishing - ebooks Account^314^USD 39.99^0.0
+26584639^Mastering Pandas for Finance ^2015-5-29^Packt Publishing - ebooks Account^259^USD 44.99^0.0
+26460281^Building Web Applications with Flask ^2015-6-26^Packt Publishing - ebooks Account^156^USD 34.99^0.0
+26631394^Numpy Beginner's Guide - Third Edition Build efficient, high-speed programs using the high-performance NumPy mathematical library^2015-6-30^Packt Publishing^322^USD 44.99^0.0
+25897738^Matplotlib Plotting Cookbook ^2014-5-1^Packt Publishing - ebooks Account^222^USD 44.99^0.0
+2337913^Professional Plone Development ^September 2007^^300^$39.99^0.0
+2608818^Game Programming The L Line, The Express Line to Learning^2007-2-9^Wiley^570^USD 39.99^0.0
+26673271^Elegant SciPy ^2016-5-25^O'Reilly Media^250^USD 34.99^0.0
+26775427^The Django Book 2.0--中文版 ^^^^^0.0
+26377003^Learning Pandas ^2015-3-24^Packt Publishing - ebooks Account^372^USD 49.99^0.0
+25916705^Robot Framework Test Automation ^^^^^0.0
+26334804^Learning SciPy for Numerical and Scientific Computing Second Edition ^2015-2-26^Packt Publishing - ebooks Account^136^USD 29.99^0.0
+22163129^Very Naughty Boys ^2013-9^^320^$ 16.89^0.0
+3137983^開発のプロが教える 標準Django完全解説 ^^^^^0.0
+1471895^Zope 3 Developer's Handbook, First Edition ^2005-02-02^Sams^456^USD 49.99^0.0
+4836287^Google 應用服務引擎開發實戰 ^2009^悅之文化^384^NT$490^0.0
+26608104^Test-Driven Development with Django ^2015-7^Packt Publishing - ebooks Account^150^USD 29.99^0.0
+26342321^Hands-On Django Going Beyond the Polls^2016-3-25^O'Reilly Media^300^USD 29.99^0.0
+25931513^Data Scientist: The Definitive Guide to Becoming a Data Scientist ^^^^^0.0
+26995962^The Self-Taught Programmer The Definitive Guide to Programming Professionally^2017-1-24^Independently published^299^USD 24.26^0.0
+26719460^Beginning Django CMS ^2015-12-22^Apress^175^USD 39.99^0.0
+26724992^Web Development with Django Cookbook - Second Edition ^2016-1-28^Packt Publishing - ebooks Account^384^USD 49.99^0.0
+26946161^Mastering Django Core^2016-12-23^Packt Publishing Limited^694^^0.0
+20020815^Minecraft Adventures ^2012-5^^40^$ 11.29^0.0
+10539982^Getting Started with Fluidinfo ^2012-3-2^O'Reilly Media^138^USD 24.99^0.0
+6010616^Statistics is Easy! Second Edition ^2010-9-29^Morgan & Claypool Publishers^174^USD 30.00^0.0
+6141770^Halfway to Hollywood ^2010-7^^728^135.00元^0.0
+4749432^Django Reinhardt ^2010-03-07^Alphascript Publishing^94^^0.0
+26940205^Principles of Data Science ^2017-1-5^Packt Publishing - ebooks Account^490^USD 44.99^0.0
+26429475^21世纪高等学校计算机基础实用规划教材 数据库技术与应用实践教程·SQL Server 2008^2014-12-1^清华大学出版社^199^CNY 25.00^0.0
+26435759^Getting Started with Django ^^^^^0.0
+26729174^Learning Cython Programming - Second Edition ^2016-3-4^Packt Publishing - ebooks Account^128^GBP 22.99^0.0
+26701134^Learning Flask Framework ^2015-11-26^Packt Publishing - ebooks Account^250^USD 44.99^0.0
+26690993^Tkinter GUI Application Development Blueprints Master GUI programming in Tkinter as you design, implement, and deliver ten real-world applications from start to finish^2015-11-30^Packt Publishing^340^USD 44.99^0.0
+24672071^Bazaar Version Control ^^^300^^0.0
+21365213^Python3 程式庫參考手冊 ^2012-1^^^160.00元^0.0
+19277930^Pygame ^^^92^^0.0
+10834581^Plone 4 Book 〜プロが伝授するプロのためのオープンソース・コンテンツ・マネジメント・システム〜 ^2011-10-21^Talpa-Tech^388^JPY 3780^0.0
+10492667^Tornado ^1996-1^^^^0.0
+3738787^Graham Crackers Fuzzy Memories, Silly Bits, and Outright Lies^1997-11^Career Pr Inc^167^USD 14.99^0.0
+26094397^教育部大学计算机课程改革项目规划教材 程序设计基础^2014-7-1^高等教育出版社^220^CNY 25.00^0.0
+26630173^Beyond FizzBuzz A Primer to Starting Your First Real Project^2016-5-25^O'Reilly Media^200^USD 34.99^0.0
+26641133^Odoo Development Essentials ^2015-3-31^Packt Publishing - ebooks Account^172^USD 24.99^0.0
+26992093^Django Project Blueprints ^2016-5-27^Packt Publishing - ebooks Account^264^USD 39.99^0.0
+26727265^Pyside GUI Application Development - Second Edition Develop more dynamic and robust GUI applications using PySide, an open source cross-platform UI framework^2016-1-28^Packt Publishing^144^USD 29.99^0.0
+26704715^WxPython Application Development Cookbook ^2016-1-6^Packt Publishing^304^USD 44.99^0.0
+4506574^Tales of Giant Snakes A Historical Natural History of Anacondas and Pythons^1997-9^Krieger Pub Co^234^USD 40.25^0.0
+26295288^Giant Constrictors Biological and Management Profiles and an Establishment Risk Assessment for Nine Large Species of Pythons, Anacondas, and the Boa Constrictor^2014-3^CreateSpace Independent Publishing Platform^320^USD$17.99^0.0
