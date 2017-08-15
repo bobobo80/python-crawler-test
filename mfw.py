@@ -49,7 +49,7 @@ def get_place_log_list(session):
         'page': page_number
     }
     # 循环叠加page_number, 获取所有页的游记链接
-    for p_number in range(1, 5):
+    for p_number in range(1, config.MAX_PAGE_NUMBER):
         payload['page'] = p_number
 
         # post请求 TODO: try
@@ -82,7 +82,7 @@ def save_link_to_file(log_list):
     """
     with open('link_list.txt', 'w') as f:
         for log in log_list:
-            f.write("{0}^{1}\n".format(log.title, log.url))
+            f.write(log.to_string_for_save())
 
 
 if __name__ == '__main__':
@@ -90,6 +90,7 @@ if __name__ == '__main__':
     log_list = get_place_log_list(session)
 
     for log in log_list:
-        print(log.title, log.url)
+        # print(log.title, log.url)
+        log.download_content()
 
     save_link_to_file(log_list)
