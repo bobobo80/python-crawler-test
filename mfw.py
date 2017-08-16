@@ -1,9 +1,11 @@
 import requests
 from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
+import time
 
 from tlog import Tlog
 import config
+import mdb
 
 
 def init_session():
@@ -53,7 +55,12 @@ def get_place_log_list(session):
         payload['page'] = p_number
 
         # post请求 TODO: try
-        r = session.post(url, data=payload)
+        try:
+            time.sleep(1)
+            r = session.post(url, data=payload)
+        except:
+            # 暂时不处理
+            return []
 
         # 解析结果，获取游记列表
         result = r.json()
@@ -89,8 +96,13 @@ if __name__ == '__main__':
     session = init_session()
     log_list = get_place_log_list(session)
 
+    # 连接mondb
+    db = mdb.MfwDB(config.PLACE_ID)
+
     for log in log_list:
         # print(log.title, log.url)
+        time.sleep(5)
         log.download_content()
+        db.insert_new_post(log.to_dict())
 
-    save_link_to_file(log_list)
+    # save_link_to_file(log_list)
