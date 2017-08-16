@@ -2,10 +2,12 @@ import requests
 from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
 import time
+import random
 
 from tlog import Tlog
 import config
 import mdb
+import proxy
 
 
 def init_session():
@@ -20,11 +22,11 @@ def init_session():
         'user-agent': ua.chrome
     }
     url = 'http://www.mafengwo.cn/travel-scenic-spot/mafengwo/' + str(config.PLACE_ID) + '.html'
-    session.get(url, headers=headers)
+    session.get(url, headers=headers, proxies=proxy.proxies, timeout=10)
     return session
 
 
-def get_place_log_list(session):
+def get_place_log_list(session, db):
     """
     通过游记ajax api，获取所有游记的链接
     return 游记链接地址list
@@ -56,8 +58,9 @@ def get_place_log_list(session):
 
         # post请求 TODO: try
         try:
-            time.sleep(1)
-            r = session.post(url, data=payload)
+            time.sleep(random.randint(3, 10))
+            r = session.post(url, data=payload, proxies=proxy.proxies)
+            print('完成{}页链接抓取'.format(p_number))
         except:
             # 暂时不处理
             return []
@@ -77,7 +80,11 @@ def get_place_log_list(session):
                     # 筛掉宝藏app链接等，游记链接不含class属性
                     for link in link_list:
                         if not link.has_attr('class'):
-                            log_list.append(Tlog(link.text, prefix_url + link['href']))
+                            newlog = Tlog(prefix_url + link['href'])
+                            if not newlog.error:
+                                log_list.append(newlog)
+                                db.insert_link({'id': newlog.log_id,
+                                                'url': newlog.url})
     return log_list
 
 
@@ -93,16 +100,16 @@ def save_link_to_file(log_list):
 
 
 if __name__ == '__main__':
-    session = init_session()
-    log_list = get_place_log_list(session)
-
     # 连接mondb
     db = mdb.MfwDB(config.PLACE_ID)
 
-    for log in log_list:
-        # print(log.title, log.url)
-        time.sleep(5)
-        log.download_content()
-        db.insert_new_post(log.to_dict())
+    session = init_session()
+    log_list = get_place_log_list(session, db)
+
+    # for log in log_list:
+    #     # print(log.title, log.url)
+    #     time.sleep(5)
+    #     log.download_content()
+    #     db.insert_new_log(log.to_dict())
 
     # save_link_to_file(log_list)

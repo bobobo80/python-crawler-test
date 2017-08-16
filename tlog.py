@@ -3,17 +3,21 @@ from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
 import datetime
 
+import proxy
+
+
 class Tlog(object):
     """
     自定义游记类，暂时就是参数信息
     """
-    def __init__(self, title, url):
-        self.title = title
+    def __init__(self, url):
         self.url = url
         self.error = None
         # 由url解析id
         try:
             log_id = url.split('/i/')[1]
+            # 去掉.html
+            log_id = log_id.split('.')[0]
             self.log_id = int(log_id)
         except IndexError:
             self.error = 'Url format is wrong.'
@@ -28,7 +32,7 @@ class Tlog(object):
         # 检查url是否为标准的地址格式, 换正则mafengwo.cn/i/\d+$
         if r'mafengwo.cn/i/' not in self.url:
             return
-        r = requests.get(self.url, ua.chrome)
+        r = requests.get(self.url, ua.chrome, proxies=proxy.proxies)
         if r.status_code == 200:
             self.html = r.content.decode('utf-8')
             self.parse_content()
