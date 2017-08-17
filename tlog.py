@@ -3,8 +3,6 @@ from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
 import datetime
 
-import proxy
-
 
 class Tlog(object):
     """
@@ -24,18 +22,24 @@ class Tlog(object):
         except ValueError:
             self.error = 'Log id format is wrong.'
 
-    def download_content(self):
+    def download_content(self, proxies):
         """
         下载对应页面的内容
         """
         ua = UserAgent()
+        print('download:', self.url)
         # 检查url是否为标准的地址格式, 换正则mafengwo.cn/i/\d+$
         if r'mafengwo.cn/i/' not in self.url:
             return
-        r = requests.get(self.url, ua.chrome, proxies=proxy.proxies)
+        try:
+            r = requests.get(self.url, ua.chrome, proxies=proxies, timeout=60)
+        except Exception as e:
+            self.error = 'requests is timeout'
         if r.status_code == 200:
             self.html = r.content.decode('utf-8')
             self.parse_content()
+        else:
+            self.error = 'response is not right.'
 
 
     def parse_content(self):
@@ -94,7 +98,7 @@ class Tlog(object):
         :return: 返回字典类型的对象
         """
         if not self.error:
-            dict_obj = {'log_id': self.log_id,
+            dict_obj = {'id': self.log_id,
                         'title': self.title,
                         'start_time': self.start_time,
                         'days': self.days,

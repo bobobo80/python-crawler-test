@@ -1,3 +1,7 @@
+"""
+马蜂窝地点页面爬取游记链接工具
+"""
+
 import requests
 from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
@@ -61,7 +65,7 @@ def get_place_log_list(session, db, proxies):
             time.sleep(random.randint(3, 10))
             r = session.post(url, data=payload, proxies=proxies)
             print('完成{}页链接抓取'.format(p_number))
-        except:
+        except Exception as e:
             # 暂时不处理
             return []
 
