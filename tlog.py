@@ -1,3 +1,7 @@
+"""
+游记的操作类，用于单个游记的页面下载和解析
+"""
+
 import requests
 from fake_useragent import UserAgent
 from bs4 import BeautifulSoup

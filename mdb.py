@@ -1,3 +1,7 @@
+"""
+mongodb连接，查询，写入的操作类
+"""
+
 import pymongo
 
 
@@ -10,7 +14,7 @@ class MfwDB(object):
         self.db = self.client.mfw_crawler
         self.place_id = place_id
         self.logs_col = self.db['logs-'+str(place_id)]
-        print('初始化mongodb连接')
+        # print('初始化mongodb连接')
 
     def insert_link(self, insert_dict):
         """

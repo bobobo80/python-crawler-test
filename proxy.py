@@ -1,3 +1,6 @@
+"""
+离线版代理获取工具，爬取66ip网站的代理地址，并验证速度，将结果写入proxies.json文件
+"""
 import requests
 import re
 from bs4 import BeautifulSoup
