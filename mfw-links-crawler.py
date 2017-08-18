@@ -1,16 +1,20 @@
+"""
+马蜂窝地点页面爬取游记链接工具
+"""
+
 import requests
 from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
 import time
 import random
+import json
 
 from tlog import Tlog
 import config
 import mdb
-import proxy
 
 
-def init_session():
+def init_session(proxies):
     '''
     访问首页，初始化session
     return 初始化后的session
@@ -22,11 +26,11 @@ def init_session():
         'user-agent': ua.chrome
     }
     url = 'http://www.mafengwo.cn/travel-scenic-spot/mafengwo/' + str(config.PLACE_ID) + '.html'
-    session.get(url, headers=headers, proxies=proxy.proxies, timeout=10)
+    session.get(url, headers=headers, proxies=proxies, timeout=10)
     return session
 
 
-def get_place_log_list(session, db):
+def get_place_log_list(session, db, proxies):
     """
     通过游记ajax api，获取所有游记的链接
     return 游记链接地址list
@@ -59,9 +63,9 @@ def get_place_log_list(session, db):
         # post请求 TODO: try
         try:
             time.sleep(random.randint(3, 10))
-            r = session.post(url, data=payload, proxies=proxy.proxies)
+            r = session.post(url, data=payload, proxies=proxies)
             print('完成{}页链接抓取'.format(p_number))
-        except:
+        except Exception as e:
             # 暂时不处理
             return []
 
@@ -103,8 +107,13 @@ if __name__ == '__main__':
     # 连接mondb
     db = mdb.MfwDB(config.PLACE_ID)
 
-    session = init_session()
-    log_list = get_place_log_list(session, db)
+    # 设置代理
+    with open('proxies.json', 'r') as f:
+        proxies_list = json.load(f)
+        proxies = proxies_list[random.randrange(len(proxies_list))]
+
+    session = init_session(proxies)
+    log_list = get_place_log_list(session, db, proxies)
 
     # for log in log_list:
     #     # print(log.title, log.url)
