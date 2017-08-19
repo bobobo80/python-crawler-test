@@ -45,7 +45,6 @@ class Tlog(object):
         else:
             self.error = 'response is not right.'
 
-
     def parse_content(self):
         """
         解析html页面内容
@@ -58,13 +57,19 @@ class Tlog(object):
             # 大标题
             self.title = html_bs_obj.select('h1')[0].text.strip()
             # 文字内容
-            self.text_content = html_bs_obj.find(class_='va_con').text
+            # 两种content class va_con or a_con_text
+            if html_bs_obj.find(class_='va_con'):
+                self.text_content = html_bs_obj.find(class_='va_con').text
+            elif html_bs_obj.find(class_='a_con_text'):
+                self.text_content = html_bs_obj.find(class_='a_con_text').text
+            else:
+                raise AttributeError
             self.text_content = ''.join(self.text_content.split())
+            print('已抓取:', self.title)
         except IndexError:
             self.error = 'Parse content error. Index out of range.'
         except AttributeError:
             self.error = 'Parse content error. No attribute.'
-        print('已抓取:', self.title)
         # 如果时间，天数等非必要参数问题，可以忽略,使用标记值
         try:
             # 出发时间
@@ -81,7 +86,6 @@ class Tlog(object):
         except:
             self.days = -1
 
-
     def to_string_for_save(self):
         """
         为了存储为文件，将所有属性转换为字符串
@@ -95,7 +99,6 @@ class Tlog(object):
                                               self.html)
         else:
             return ''
-
 
     def to_dict(self):
         """

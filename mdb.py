@@ -35,7 +35,7 @@ class MfwDB(object):
         if isinstance(insert_dict, dict):
             # result = self.logs_col.insert_one(insert_dict)
             result = self.logs_col.update_one({'id': insert_dict['id']}, {'$set': insert_dict})
-            print('插入新游记log记录')
+            print('更新游记log记录')
 
     def get_uncrawl_logs(self, number):
         """
