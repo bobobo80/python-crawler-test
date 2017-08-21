@@ -28,6 +28,8 @@ def exe_log_crawl(tlog, proxies_list):
     tlog.download_content(proxies_list[random.randrange(len(proxies_list))])
     if not tlog.error:
         db.insert_new_log(tlog.to_dict())
+    else:
+        print(tlog.error)
 
 
 def get_log_to_crawl():

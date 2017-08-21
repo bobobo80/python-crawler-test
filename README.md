@@ -19,6 +19,9 @@ test中是些测试的小例子，requests/selenium等测试
 
 (proxy)完成一个简单的离线proxy获取工具，后期可使用别的动态代理池维护工具
 
+(mfw-logs-praser)游记内容解析，应用jieba,snownlp提取游记内容的关键词，
+情感指数，可是没有相关模型，简单先填一下
+
 TODO：
 游记的语义分析
 游记深层次属性提取，图片数量，评论数等
