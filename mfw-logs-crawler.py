@@ -12,7 +12,7 @@ import config
 import mdb
 
 
-crawl_number = 2000
+crawl_number = 3000
 
 
 def exe_log_crawl(tlog, proxies_list):
@@ -48,7 +48,7 @@ if __name__ == '__main__':
         proxies_list = json.load(f)
 
     # 创建进程池
-    pool = multiprocessing.Pool(processes=8)
+    pool = multiprocessing.Pool(processes=1)
 
     # just test
     for log in get_log_to_crawl():
