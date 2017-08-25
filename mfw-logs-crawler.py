@@ -15,21 +15,22 @@ import mdb
 crawl_number = 3000
 
 
-def exe_log_crawl(tlog, proxies_list):
+def exe_log_crawl(tlog,):
     """
     执行游记的抓取
     :param tlog:
     :return:
     """
     # 连接mongodb，读取链接信息
-    db = mdb.MfwDB(config.PLACE_ID)
+    # db = mdb.MfwDB(config.PLACE_ID)
 
     print('start', tlog.log_id)
-    tlog.download_content(proxies_list[random.randrange(len(proxies_list))])
-    if not tlog.error:
-        db.insert_new_log(tlog.to_dict())
-    else:
-        print(tlog.error)
+    # tlog.download_content(proxies_list[random.randrange(len(proxies_list))])
+    tlog.download_content()
+    # if not tlog.error:
+    #     db.insert_new_log(tlog.to_dict())
+    # else:
+    #     print(tlog.error)
 
 
 def get_log_to_crawl():
@@ -44,16 +45,17 @@ def get_log_to_crawl():
 
 if __name__ == '__main__':
     # 读取代理池
-    with open('proxies.json', 'r') as f:
-        proxies_list = json.load(f)
+    # with open('proxies.json', 'r') as f:
+    #     proxies_list = json.load(f)
 
     # 创建进程池
-    pool = multiprocessing.Pool(processes=1)
+    pool = multiprocessing.Pool(processes=8)
 
     # just test
     for log in get_log_to_crawl():
-        tlog = Tlog(log['url'])
-        pool.apply_async(exe_log_crawl, (tlog, proxies_list))
+        tlog = Tlog(log['url'], config.PLACE_ID)
+        pool.apply_async(exe_log_crawl, (tlog, ))
+        # exe_log_crawl(tlog, proxies_list)
 
     print('start multiprocess')
     pool.close()
