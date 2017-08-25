@@ -26,8 +26,13 @@ def init_session(proxies):
         'user-agent': ua.chrome
     }
     url = 'http://www.mafengwo.cn/travel-scenic-spot/mafengwo/' + str(config.PLACE_ID) + '.html'
-    session.get(url, headers=headers, proxies=proxies, timeout=10)
-    return session
+    try:
+        session.get(url, headers=headers, proxies=proxies, timeout=10)
+        return  session
+    except Exception as e:
+        print(e)
+        # 请求删除此代理
+        delete_proxy(proxies['http'])
 
 
 def get_place_log_list(session, db, proxies):
@@ -84,7 +89,7 @@ def get_place_log_list(session, db, proxies):
                     # 筛掉宝藏app链接等，游记链接不含class属性
                     for link in link_list:
                         if not link.has_attr('class'):
-                            newlog = Tlog(prefix_url + link['href'])
+                            newlog = Tlog(prefix_url + link['href'], config.PLACE_ID)
                             if not newlog.error:
                                 log_list.append(newlog)
                                 db.insert_link({'id': newlog.log_id,
@@ -102,18 +107,38 @@ def save_link_to_file(log_list):
         for log in log_list:
             f.write(log.to_string_for_save())
 
+def get_proxy():
+    """
+    使用proxy_pool获取代理ip
+    :return:
+    """
+    return requests.get(config.PROXY_URL+'get/').text
+
+
+def delete_proxy(proxy):
+    """
+    删除无法使用proxy
+    :param proxy:
+    :return:
+    """
+    proxy = proxy.split('http://')[1]
+    requests.get(config.PROXY_URL+'delete/?proxy={}'.format(proxy))
+    print('delete proxy:', proxy)
 
 if __name__ == '__main__':
     # 连接mondb
     db = mdb.MfwDB(config.PLACE_ID)
 
     # 设置代理
-    with open('proxies.json', 'r') as f:
-        proxies_list = json.load(f)
-        proxies = proxies_list[random.randrange(len(proxies_list))]
+    # with open('proxies.json', 'r') as f:
+    #     proxies_list = json.load(f)
+    #     proxies = proxies_list[random.randrange(len(proxies_list))]
+    # 改为使用proxy_pool服务
+    proxies = {'http': 'http://{}'.format(get_proxy())}
 
     session = init_session(proxies)
-    log_list = get_place_log_list(session, db, proxies)
+    if session:
+        log_list = get_place_log_list(session, db, proxies)
 
     # for log in log_list:
     #     # print(log.title, log.url)
