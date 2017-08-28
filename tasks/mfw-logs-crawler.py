@@ -3,14 +3,11 @@
 根据地点页面爬取的游记链接，爬取具体游记页面内容
 """
 
-import random
-import json
 import multiprocessing
 
-from tlog import Tlog
 import config
-import mdb
-
+from db import mongoclient
+from mfw_parser.travellog import Tlog
 
 crawl_number = 3000
 
@@ -39,7 +36,7 @@ def get_log_to_crawl():
     :return:
     """
     # 连接mongodb，读取链接信息
-    db = mdb.MfwDB(config.PLACE_ID)
+    db = mongoclient.MfwDB(config.PLACE_ID)
     return db.get_uncrawl_logs(crawl_number)
 
 
@@ -51,7 +48,7 @@ if __name__ == '__main__':
     # 创建进程池
     pool = multiprocessing.Pool(processes=8)
 
-    # just test
+    # just test_juptyer
     for log in get_log_to_crawl():
         tlog = Tlog(log['url'], config.PLACE_ID)
         pool.apply_async(exe_log_crawl, (tlog, ))

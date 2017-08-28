@@ -13,11 +13,15 @@ test中是些测试的小例子，requests/selenium等测试
 目前以三亚为例，通过城市页面，使用游记的ajax接口，获取所有游记的链接
 通过各个链接访问单独的游记页面，下载游记内容
 
+改为使用celery开发分布式爬虫
+
+
 (mfw-links-crawler)通过地点单页，获取地点的所有游记的链接
 
 (mfw-logs-crawler)简单使用多进程处理+随机代理处理了一下，爬取速度快了一点。
 
 (proxy)完成一个简单的离线proxy获取工具，后期可使用别的动态代理池维护工具
+
 proxy获取方式改为使用proxy_pool项目的提供的服务
 
 (mfw-logs-parser)游记内容解析，应用jieba,snownlp提取游记内容的关键词，

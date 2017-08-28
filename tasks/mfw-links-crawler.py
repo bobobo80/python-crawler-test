@@ -2,17 +2,17 @@
 马蜂窝地点页面爬取游记链接工具
 """
 
-import requests
-from fake_useragent import UserAgent
-from bs4 import BeautifulSoup
-import time
 import random
-import json
+import time
 
-from tlog import Tlog
+import requests
+from bs4 import BeautifulSoup
+from fake_useragent import UserAgent
+
 import config
-import mdb
 import proxy
+from db import mongoclient
+from mfw_parser.travellog import Tlog
 
 
 def init_session():
@@ -113,7 +113,7 @@ def save_link_to_file(log_list):
 
 if __name__ == '__main__':
     # 连接mondb
-    db = mdb.MfwDB(config.PLACE_ID)
+    db = mongoclient.MfwDB(config.PLACE_ID)
 
     # 设置代理
     # with open('proxies.json', 'r') as f:
