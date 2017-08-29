@@ -1,6 +1,7 @@
 """
 游记的操作类
 """
+import os
 from db.mongoclient import MongoClient
 
 
@@ -28,6 +29,9 @@ class Tlog(object):
     def save(self):
         """
         将当前状态的log信息存入数据库
+        status 1 url存入
+               2 html存入本地
+               3 解析完成
         """
         if not self.error:
             mdb = MongoClient()
@@ -38,6 +42,27 @@ class Tlog(object):
                                      {'_id': self.log_id,
                                       'url': self.url}
                                      )
+            elif self.status == 2:
+                mdb.update('log-{}'.format(self.place_id),
+                           {'_id': self.log_id},
+                           {'is_downloaded': True})
+
+    def save_html_file(self, html):
+        """
+        存储html文件到本地
+        place_id目录下，直接存
+        """
+        if (html is not None or html != '') and not self.error:
+            # 判断目录是否存在
+            if not os.path.isdir('./html_downloads'):
+                os.mkdir('./html_downloads')
+            if not os.path.isdir('./html_downloads/{}'.format(self.place_id)):
+                os.mkdir('./html_downloads/{}'.format(self.place_id))
+            with open('./html_downloads/{}/{}.html'.format(self.place_id, self.log_id), 'w') as f:
+                f.write(html)
+                print('存储成功：', self.url)
+            self.status = 2 # 页面HTML下载完成状态
+            self.save()
 
 
 
