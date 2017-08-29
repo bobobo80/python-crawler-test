@@ -12,7 +12,7 @@ from fake_useragent import UserAgent
 import config
 import proxy
 from db import mongoclient
-from mfw_parser.travellog import Tlog
+from db.travellog import Tlog
 
 
 def init_session():
