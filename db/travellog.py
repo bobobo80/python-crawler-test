@@ -45,7 +45,15 @@ class Tlog(object):
             elif self.status == 2:
                 mdb.update('log-{}'.format(self.place_id),
                            {'_id': self.log_id},
-                           {'is_downloaded': True})
+                           {'html': self.html})
+
+    def set_html(self, html):
+        """
+        设置html，设置状态
+        """
+        self.html = html
+        self.status = 2 # 页面HTML下载完成状态
+        self.save()
 
     def save_html_file(self, html):
         """

@@ -21,4 +21,4 @@ def crawl_log(self, place_id, log_id):
         raise self.retry(countdown=10, exc=exc, max_retries=3)
 
     tlog = Tlog(url, place_id)
-    tlog.save_html_file(html)
+    tlog.set_html(html)
