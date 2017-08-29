@@ -4,8 +4,7 @@
 
 from bs4 import BeautifulSoup
 
-from .travellog import Tlog
-from db.mongoclient import MongoClient
+from db.travellog import Tlog
 
 
 def parser_link(result, place_id):
@@ -31,7 +30,7 @@ def parser_link(result, place_id):
                         tlog = Tlog(prefix_url + link['href'], place_id)
                         if not tlog.error:
                             tlog.save()
-        return True
+            return True
     return False
 
 

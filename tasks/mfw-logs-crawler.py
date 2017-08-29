@@ -7,7 +7,7 @@ import multiprocessing
 
 import config
 from db import mongoclient
-from mfw_parser.travellog import Tlog
+from db.travellog import Tlog
 
 crawl_number = 3000
 

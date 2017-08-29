@@ -68,7 +68,7 @@ def check_ip(ip_addr):
     :return: 正确则返回ip:port格式，不正确则返回None
     """
     if ip_check.findall(ip_addr):
-        # test speed
+        # test_juptyer speed
         try:
             resp = requests.get(test_url, timeout=10,
                                 proxies={'http': 'http://'+ip_addr})

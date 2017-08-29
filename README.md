@@ -15,14 +15,20 @@ test中是些测试的小例子，requests/selenium等测试
 
 改为使用celery开发分布式爬虫
 
+config.py用于定义数据库接口等内容
 
-(mfw-links-crawler)通过地点单页，获取地点的所有游记的链接
+db模块，包装redis和mongodb的连接和操作，redis用于proxy和useragent
+等数据，以及celery的broker和backend。mongodb储存爬取页面之后的解析结果。
 
-(mfw-logs-crawler)简单使用多进程处理+随机代理处理了一下，爬取速度快了一点。
+proxy模块，调用proxy_pool的接口，从中提取代理ip和端口
 
-(proxy)完成一个简单的离线proxy获取工具，后期可使用别的动态代理池维护工具
+web_get模块，包装request的网络请求
 
-proxy获取方式改为使用proxy_pool项目的提供的服务
+tasks模块，celery的worker接口文件，由此启动celery worker
+
+mfw_parser模块，游记链接，内容等的解析
+
+
 
 (mfw-logs-parser)游记内容解析，应用jieba,snownlp提取游记内容的关键词，
 情感指数，可是没有相关模型，简单先填一下
