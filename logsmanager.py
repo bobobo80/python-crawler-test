@@ -10,7 +10,7 @@ if __name__ == '__main__':
     pass
     # 获取未下载的logs
     mdb = MongoClient()
-    logs = mdb.get('log-{}'.format(place_id),
+    logs = mdb.get('logs-{}'.format(place_id),
                    {'html': {'$exists': False}})
     for log in logs:
         crawl_log.delay(place_id, log['_id'])

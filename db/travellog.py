@@ -37,13 +37,13 @@ class Tlog(object):
             mdb = MongoClient()
             if self.status == 1:
                 # url信息存入
-                mdb.insert_or_update('log-{}'.format(self.place_id),
+                mdb.insert_or_update('logs-{}'.format(self.place_id),
                                      {'_id': self.log_id},
                                      {'_id': self.log_id,
                                       'url': self.url}
                                      )
             elif self.status == 2:
-                mdb.update('log-{}'.format(self.place_id),
+                mdb.update('logs-{}'.format(self.place_id),
                            {'_id': self.log_id},
                            {'html': self.html})
 
