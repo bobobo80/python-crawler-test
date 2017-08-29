@@ -1,12 +1,11 @@
 """
 根据爬取的游记内容信息，分析其中的情感信息
 """
-from snownlp import SnowNLP
-import jieba
 import jieba.analyse
+from snownlp import SnowNLP
 
-import mdb
 import config
+from db import mongoclient
 
 
 def cal_content_avg_sentiments(sentences):
@@ -23,7 +22,7 @@ def cal_content_avg_sentiments(sentences):
 
 
 if __name__ == '__main__':
-    db = mdb.MfwDB(config.PLACE_ID)
+    db = mongoclient.MfwDB(config.PLACE_ID)
 
     # 查找有内容，但没有关键词的
     logs = db.logs_col.find({'text_content': { '$exists': True },

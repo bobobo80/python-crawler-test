@@ -2,19 +2,20 @@
 马蜂窝地点页面爬取游记链接工具
 """
 
-import requests
-from fake_useragent import UserAgent
-from bs4 import BeautifulSoup
-import time
 import random
-import json
+import time
 
-from tlog import Tlog
+import requests
+from bs4 import BeautifulSoup
+from fake_useragent import UserAgent
+
 import config
-import mdb
+import proxy
+from db import mongoclient
+from mfw_parser.travellog import Tlog
 
 
-def init_session(proxies):
+def init_session():
     '''
     访问首页，初始化session
     return 初始化后的session
@@ -26,16 +27,17 @@ def init_session(proxies):
         'user-agent': ua.chrome
     }
     url = 'http://www.mafengwo.cn/travel-scenic-spot/mafengwo/' + str(config.PLACE_ID) + '.html'
+    new_proxy = proxy.get_proxy()
     try:
-        session.get(url, headers=headers, proxies=proxies, timeout=10)
-        return  session
+        session.get(url, headers=headers, proxies={'http': 'http://{}'.format(new_proxy)}, timeout=10)
+        return session, new_proxy
     except Exception as e:
         print(e)
         # 请求删除此代理
-        delete_proxy(proxies['http'])
+        proxy.delete_proxy(new_proxy)
 
 
-def get_place_log_list(session, db, proxies):
+def get_place_log_list(session, db, new_proxy):
     """
     通过游记ajax api，获取所有游记的链接
     return 游记链接地址list
@@ -68,10 +70,11 @@ def get_place_log_list(session, db, proxies):
         # post请求 TODO: try
         try:
             time.sleep(random.randint(3, 10))
-            r = session.post(url, data=payload, proxies=proxies)
+            r = session.post(url, data=payload, proxies={'http': 'http://{}'.format(new_proxy)})
             print('完成{}页链接抓取'.format(p_number))
         except Exception as e:
             # 暂时不处理
+            proxy.delete_proxy(new_proxy)
             return []
 
         # 解析结果，获取游记列表
@@ -107,38 +110,22 @@ def save_link_to_file(log_list):
         for log in log_list:
             f.write(log.to_string_for_save())
 
-def get_proxy():
-    """
-    使用proxy_pool获取代理ip
-    :return:
-    """
-    return requests.get(config.PROXY_URL+'get/').text
-
-
-def delete_proxy(proxy):
-    """
-    删除无法使用proxy
-    :param proxy:
-    :return:
-    """
-    proxy = proxy.split('http://')[1]
-    requests.get(config.PROXY_URL+'delete/?proxy={}'.format(proxy))
-    print('delete proxy:', proxy)
 
 if __name__ == '__main__':
     # 连接mondb
-    db = mdb.MfwDB(config.PLACE_ID)
+    db = mongoclient.MfwDB(config.PLACE_ID)
 
     # 设置代理
     # with open('proxies.json', 'r') as f:
     #     proxies_list = json.load(f)
     #     proxies = proxies_list[random.randrange(len(proxies_list))]
     # 改为使用proxy_pool服务
-    proxies = {'http': 'http://{}'.format(get_proxy())}
 
-    session = init_session(proxies)
-    if session:
-        log_list = get_place_log_list(session, db, proxies)
+    session = None
+    while not session:
+        session, new_proxy = init_session()
+
+    log_list = get_place_log_list(session, db, new_proxy)
 
     # for log in log_list:
     #     # print(log.title, log.url)

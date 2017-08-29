@@ -1,8 +1,15 @@
 """
-mfw-links-crawler的配置项，爬取的地点编号，爬取链接的页数
+mfw-crawler的配置项
 """
-PLACE_ID = 10065
 
-MAX_PAGE_NUMBER = 300
+CELERY_BROKER = 'redis://192.168.11.10:6379/1'
+CELERY_BACKEND = 'redis://192.168.11.10:6379/1'
 
-PROXY_URL = 'http://127.0.0.1:5000/'
+MONGO_HOST = '192.168.11.10'
+MONGO_PORT = 27017
+MONGO_DBNAME = 'mfw_crawler'
+
+REDIS_HOST = '192.168.11.10'
+REDIS_PORT = 6379
+REDIS_DB = 0
+
