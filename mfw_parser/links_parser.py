@@ -30,7 +30,5 @@ def parser_link(result, place_id):
                         tlog = Tlog(prefix_url + link['href'], place_id)
                         if not tlog.error:
                             tlog.save()
-            return True
-    return False
 
 

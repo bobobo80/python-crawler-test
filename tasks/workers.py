@@ -7,7 +7,7 @@ from kombu import Exchange, Queue
 import config
 
 
-tasks = ['tasks.links']
+tasks = ['tasks.links', 'tasks.logs']
 
 app = Celery('mfw_task', include=tasks, broker=config.CELERY_BROKER, backend=config.CELERY_BACKEND)
 
@@ -20,5 +20,6 @@ app.conf.update(
     celerybeat_schedule={},
     celery_queues=(
         Queue('crawl_place_links', exchange=Exchange('crawl_place_links', type='direct'), routing_key='for_links'),
+        Queue('crawl_logs', exchange=Exchange('crawl_logs', type='direct'), routing_key='for_logs'),
     ),
 )

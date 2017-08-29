@@ -1,10 +1,10 @@
 from .workers import app
-from web_get.webget import WebRequest
+from web_get.webget import WebRequest, TimeoutException, ResponseException
 
 from mfw_parser.links_parser import parser_link
 
-@app.task()
-def crawl_place_links(place_id, page_number):
+@app.task(bind=True)
+def crawl_place_links(self, place_id, page_number):
     """
     爬取某地点的游记链接
     :param place_id:
@@ -29,9 +29,10 @@ def crawl_place_links(place_id, page_number):
         'page': page_number
     }
 
-    result = WebRequest().post(url, payload)
-    if result:
-        return parser_link(result.json(), place_id)
-    else:
-        return False
+    try:
+        result = WebRequest().post(url, payload)
+        if result:
+            parser_link(result.json(), place_id)
+    except (TimeoutException, ResponseException) as exc:
+        raise self.retry(countdown=10, exc=exc, max_retries=5)
 
