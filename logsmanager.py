@@ -11,7 +11,7 @@ if __name__ == '__main__':
     # 获取未下载的logs
     mdb = MongoClient()
     logs = mdb.get('log-{}'.format(place_id),
-                   {'is_downloaded': {'$exists': False}})
+                   {'html': {'$exists': False}})
     for log in logs:
         crawl_log.delay(place_id, log['_id'])
 
