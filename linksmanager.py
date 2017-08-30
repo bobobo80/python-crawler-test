@@ -3,7 +3,7 @@ links 生产者,负责发布links任务
 """
 from tasks.links import crawl_place_links
 
-place_id = 10065
+place_id = 10010
 page_numbers = 300
 
 if __name__ == '__main__':

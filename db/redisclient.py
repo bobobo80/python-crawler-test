@@ -30,7 +30,7 @@ class RedisClient(object):
         hget
         """
         try:
-            return self.db.hget(key_name, field).decode('utf-8')
+            return self.db.hget(key_name, field)
         except Exception as e:
             print(e)
 
@@ -42,3 +42,4 @@ class RedisClient(object):
             return self.db.hgetall(key_name)
         except Exception as e:
             print(e)
+
