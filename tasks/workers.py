@@ -3,6 +3,7 @@ celery workers 启动文件
 """
 from celery import Celery
 from kombu import Exchange, Queue
+from datetime import timedelta
 
 import config
 
@@ -17,9 +18,14 @@ app.conf.update(
     result_serializer='json',
     timezone='Asia/Shanghai',
     enable_utc=True,
-    celerybeat_schedule={},
+    beat_schedule={
+        'log_parser': {
+            'task': 'tasks.logs.schedule_parser_logs',
+            'schedule': 60,
+        },
+    },
     celery_queues=(
-        Queue('crawl_place_links', exchange=Exchange('crawl_place_links', type='direct'), routing_key='for_links'),
-        Queue('crawl_logs', exchange=Exchange('crawl_logs', type='direct'), routing_key='for_logs'),
+        Queue('links_queue', exchange=Exchange('links_queue', type='direct'), routing_key='for_links'),
+        Queue('logs_queue', exchange=Exchange('logs_queue', type='direct'), routing_key='for_logs'),
     ),
 )

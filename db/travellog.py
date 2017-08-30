@@ -5,6 +5,8 @@ import os
 from db.mongoclient import MongoClient
 
 
+c_prefix = 'logs-' # collection前缀
+
 class Tlog(object):
     """
     自定义游记类，暂时就是参数信息
@@ -37,15 +39,23 @@ class Tlog(object):
             mdb = MongoClient()
             if self.status == 1:
                 # url信息存入
-                mdb.insert_or_update('logs-{}'.format(self.place_id),
+                mdb.insert_or_update('{}{}'.format(c_prefix, self.place_id),
                                      {'_id': self.log_id},
                                      {'_id': self.log_id,
                                       'url': self.url}
                                      )
             elif self.status == 2:
-                mdb.update('logs-{}'.format(self.place_id),
+                mdb.update('{}{}'.format(c_prefix, self.place_id),
                            {'_id': self.log_id},
                            {'html': self.html})
+            elif self.status == 3:
+                mdb.update('{}{}'.format(c_prefix, self.place_id),
+                           {'_id': self.log_id},
+                           {'title': self.title,
+                            'start_time': self.start_time,
+                            'days': self.days,
+                            'text_content': self.text_content,
+                            })
 
     def set_html(self, html):
         """
@@ -71,6 +81,21 @@ class Tlog(object):
                 print('存储成功：', self.url)
             self.status = 2 # 页面HTML下载完成状态
             self.save()
+
+    @staticmethod
+    def get_parser_logs(place_id):
+        """
+        获取place下未解析的logs
+        """
+        mdb = MongoClient()
+        m_results = mdb.get('{}{}'.format(c_prefix, place_id),
+                           {'html': {'$exists': True},
+                            'title': {'$exists': False}
+                           })
+        if m_results.count() > 30:
+            m_results = m_results[:30]
+        for item in m_results:
+            yield place_id, item['url'], item['html']
 
 
 

@@ -4,6 +4,8 @@
 from .workers import app
 from web_get.webget import WebRequest, TimeoutException, ResponseException
 from db.travellog import Tlog
+from db.taskmodel import TaskData
+from mfw_parser import log_parser
 
 
 @app.task(bind=True)
@@ -22,3 +24,21 @@ def crawl_log(self, place_id, log_id):
 
     tlog = Tlog(url, place_id)
     tlog.set_html(html)
+
+@app.task()
+def schedule_parser_logs():
+    """
+    随机获取待解析的place_id, 解析其中的logs
+    """
+    pid = TaskData().get_parser_place_id()
+    # 获取place下未解析的logs链接
+    for pid, url, html in Tlog.get_parser_logs(int(pid)):
+        app.send_task('tasks.logs.parser_log', args=(pid, url, html))
+
+@app.task(ignore_result=True)
+def parser_log(place_id, url, html):
+    """
+    解析指定的log
+    """
+    log_parser.parser_log(place_id, url, html)
+
