@@ -1,6 +1,6 @@
 from .workers import app
 from web_get.webget import WebRequest, TimeoutException, ResponseException
-
+from db.taskmodel import TaskData
 from mfw_parser.links_parser import parser_link
 
 @app.task(bind=True)
@@ -35,4 +35,14 @@ def crawl_place_links(self, place_id, page_number):
             parser_link(result.json(), place_id)
     except (TimeoutException, ResponseException) as exc:
         raise self.retry(countdown=10, exc=exc, max_retries=5)
+
+
+@app.task()
+def schedule_download_links():
+    """
+    随机获取获取链接的place
+    """
+    place_id = int(TaskData().get_link_place_id())
+    for p in range(1, 10):
+        app.send_task('tasks.links.crawl_place_links', args=(place_id, p))
 

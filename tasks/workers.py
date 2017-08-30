@@ -19,9 +19,17 @@ app.conf.update(
     timezone='Asia/Shanghai',
     enable_utc=True,
     beat_schedule={
+        'links_download': {
+            'task': 'tasks.links.schedule_download_links',
+            'schedule': 60 * 2,
+        },
+        'logs_download': {
+            'task': 'tasks.logs.schedule_download_logs',
+            'schedule': 60 * 1,
+        },
         'log_parser': {
             'task': 'tasks.logs.schedule_parser_logs',
-            'schedule': 60,
+            'schedule': 60 * 1,
         },
     },
     celery_queues=(

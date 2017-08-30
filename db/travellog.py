@@ -6,6 +6,7 @@ from db.mongoclient import MongoClient
 
 
 c_prefix = 'logs-' # collection前缀
+max_tasks_number = 50
 
 class Tlog(object):
     """
@@ -92,10 +93,24 @@ class Tlog(object):
                            {'html': {'$exists': True},
                             'title': {'$exists': False}
                            })
-        if m_results.count() > 30:
-            m_results = m_results[:30]
+        if m_results.count() > max_tasks_number:
+            m_results = m_results[:max_tasks_number]
         for item in m_results:
             yield place_id, item['url'], item['html']
+
+    @staticmethod
+    def get_download_logs(place_id):
+        """
+        获取place下未下载的logs
+        """
+        mdb = MongoClient()
+        m_results = mdb.get('{}{}'.format(c_prefix, place_id),
+                            {'html': {'$exists': False}})
+        if m_results.count() > max_tasks_number:
+            m_results = m_results[:max_tasks_number]
+        for item in m_results:
+            yield place_id, item['_id']
+
 
 
 
