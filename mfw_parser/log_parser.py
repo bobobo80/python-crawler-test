@@ -49,4 +49,15 @@ def parser_log(place_id, url, html):
         tlog.days = int(days.split('天')[0])
     except:
         tlog.days = -1
+    # 字数,图片
+    try:
+        total_obj = html_bs_obj.find_all(class_='vc_total')
+        tlog.total_words, tlog.total_pictures = total_obj.find_all('span')
+        tlog.help_persons = total_obj.find(class_='_j_total_person').text
+        tlog.total_words = int(tlog.total_words)
+        tlog.total_pictures = int(tlog.total_pictures)
+        tlog.help_persons = int(tlog.help_persons)
+    except Exception as e:
+        pass
+    tlog.status = 3
     tlog.save()
