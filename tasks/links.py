@@ -38,11 +38,18 @@ def crawl_place_links(self, place_id, page_number):
 
 
 @app.task()
-def schedule_download_links():
+def schedule_download_links(pid=None, pnumber=None):
     """
     随机获取获取链接的place
     """
-    place_id = int(TaskData().get_link_place_id())
-    for p in range(1, 10):
+    if pid:
+        place_id = pid
+    else:
+        place_id = int(TaskData().get_link_place_id())
+    if pnumber:
+        pages = pnumber
+    else:
+        pages = 10
+    for p in range(1, pages):
         app.send_task('tasks.links.crawl_place_links', args=(place_id, p))
 
