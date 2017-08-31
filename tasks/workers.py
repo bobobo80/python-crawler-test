@@ -3,7 +3,6 @@ celery workers 启动文件
 """
 from celery import Celery
 from kombu import Exchange, Queue
-from datetime import timedelta
 
 import config
 
@@ -21,15 +20,15 @@ app.conf.update(
     beat_schedule={
         'links_download': {
             'task': 'tasks.links.schedule_download_links',
-            'schedule': 60 * 1,
+            'schedule': 60 * 10,
         },
         'logs_download': {
             'task': 'tasks.logs.schedule_download_logs',
-            'schedule': 60 * 2,
+            'schedule': 60 * 5,
         },
         'log_parser': {
             'task': 'tasks.logs.schedule_parser_logs',
-            'schedule': 60 * 2,
+            'schedule': 60 * 5,
         },
     },
     celery_queues=(

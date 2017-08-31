@@ -6,7 +6,7 @@ from db.mongoclient import MongoClient
 
 
 c_prefix = 'logs-' # collection前缀
-max_tasks_number = 100
+max_tasks_number = 200
 
 class Tlog(object):
     """
@@ -58,7 +58,9 @@ class Tlog(object):
                             'text_content': self.text_content,
                             'total_words': self.total_words,
                             'total_pictures': self.total_pictures,
-                            'help_persons': self.help_persons
+                            'help_persons': self.help_persons,
+                            'keywords': self.keywords,
+                            'sentiments': self.sentiments
                             })
 
     def set_html(self, html):

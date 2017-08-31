@@ -3,6 +3,8 @@ log解析
 """
 from bs4 import BeautifulSoup
 import datetime
+import jieba.analyse
+from snownlp import SnowNLP
 
 from db.travellog import Tlog
 
@@ -51,13 +53,52 @@ def parser_log(place_id, url, html):
         tlog.days = -1
     # 字数,图片
     try:
-        total_obj = html_bs_obj.find_all(class_='vc_total')
+        total_obj = html_bs_obj.find(class_='vc_total')
         tlog.total_words, tlog.total_pictures = total_obj.find_all('span')
         tlog.help_persons = total_obj.find(class_='_j_total_person').text
-        tlog.total_words = int(tlog.total_words)
-        tlog.total_pictures = int(tlog.total_pictures)
-        tlog.help_persons = int(tlog.help_persons)
+        if tlog.total_words.text == '':
+            tlog.total_words = len(tlog.text_content)
+        else:
+            tlog.total_words = int(tlog.total_words.text)
+        if tlog.total_pictures.text == '':
+            # 使用bs统计图片
+            tlog.total_pictures = len(html_bs_obj.find_all('div', class_='add_pic'))
+        else:
+            tlog.total_pictures = int(tlog.total_pictures.text)
+        if tlog.help_persons == '':
+            tlog.help_persons = -1
+        else:
+            tlog.help_persons = int(tlog.help_persons)
     except Exception as e:
-        pass
+        print(e)
+    keywords_parser(tlog)
     tlog.status = 3
     tlog.save()
+
+
+def keywords_parser(tlog):
+    """
+    关键词提取
+    """
+    try:
+        s = SnowNLP(tlog.text_content)
+        # print('Keywords:', s.keywords(10))
+        tlog.sentiments = cal_content_avg_sentiments(s.sentences)
+        # jieba
+        tlog.keywords = jieba.analyse.extract_tags(tlog.text_content)
+    except Exception as e:
+        # 暂不处理
+        pass
+
+
+def cal_content_avg_sentiments(sentences):
+    """
+    根据给定的句子list，计算每句的sentiments，计算平均数返回
+    :param sentences:
+    :return: 平均数结果
+    """
+    list_sentiments = [SnowNLP(sentence).sentiments for sentence in sentences]
+    if len(list_sentiments) == 0:
+        return -1
+    else:
+        return sum(list_sentiments) / len(list_sentiments)
