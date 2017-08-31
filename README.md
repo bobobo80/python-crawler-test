@@ -12,6 +12,7 @@
 通过各个链接访问单独的游记页面，下载游记内容。
 
 经过一轮体验，现改为使用celery开发分布式爬虫,
+![结构](/readme.jpg)
 
 tasks模块，celery任务定义。
 通过schedule定时任务，定时抓取地点的链接和游记。
@@ -24,7 +25,7 @@ redis用于proxy和useragent等数据，
 mongodb储存爬取页面之后的解析结果。
 并包含游记的数据层相关操作。
 
-proxy模块，调用proxy_pool的接口，从中提取代理ip和端口
+proxy模块，调用[proxy_pool](https://github.com/jhao104/proxy_pool)的接口，从中提取代理ip和端口
 
 mfw_parser模块，包装对html页面解析等操作。
 
