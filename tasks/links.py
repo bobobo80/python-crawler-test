@@ -1,7 +1,10 @@
 from .workers import app
 from web_get.webget import WebRequest, TimeoutException, ResponseException
 from db.taskmodel import TaskData
+from db.linksmodel import LinksModel
 from mfw_parser.links_parser import parser_link
+# from .taskdecorator import check_queue_busy
+from db.celerymodel import CeleryModel
 
 @app.task(bind=True)
 def crawl_place_links(self, place_id, page_number):
@@ -35,6 +38,9 @@ def crawl_place_links(self, place_id, page_number):
             parser_link(result.json(), place_id)
     except (TimeoutException, ResponseException) as exc:
         raise self.retry(countdown=10, exc=exc, max_retries=5)
+    except Exception as e:
+        # 游记页数不够情况，忽略
+        pass
 
 
 @app.task()
@@ -42,6 +48,8 @@ def schedule_download_links(pid=None, pnumber=None):
     """
     随机获取获取链接的place
     """
+    if CeleryModel().is_queue_busy():
+        return
     if pid:
         place_id = pid
     else:
@@ -50,6 +58,18 @@ def schedule_download_links(pid=None, pnumber=None):
         pages = pnumber
     else:
         pages = 10
-    for p in range(1, pages):
-        app.send_task('tasks.links.crawl_place_links', args=(place_id, p))
+    # 根据已有链接数量，再下载新的，获取该地已有links，计算页数开始范围
+    links_count = LinksModel.get_place_count(place_id)
+    # 首页
+    app.send_task('tasks.links.crawl_place_links', args=(place_id, 1))
+    # 后续页
+    exists_page = links_count // 10
+    if exists_page == 0:
+        # 抓所有links
+        for p in range(2, pages+1):
+            app.send_task('tasks.links.crawl_place_links', args=(place_id, p))
+    elif exists_page > 0 and exists_page < 299:
+        # 抓后续
+        for p in range(exists_page, exists_page+pages):
+            app.send_task('tasks.links.crawl_place_links', args=(place_id, p))
 

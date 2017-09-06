@@ -20,15 +20,15 @@ app.conf.update(
     beat_schedule={
         'links_download': {
             'task': 'tasks.links.schedule_download_links',
-            'schedule': 60 * 10,
+            'schedule': 60 * 2,
         },
         'logs_download': {
             'task': 'tasks.logs.schedule_download_logs',
-            'schedule': 60 * 5,
+            'schedule': 60 * 2,
         },
         'log_parser': {
             'task': 'tasks.logs.schedule_parser_logs',
-            'schedule': 60 * 5,
+            'schedule': 60 * 2,
         },
     },
     celery_queues=(

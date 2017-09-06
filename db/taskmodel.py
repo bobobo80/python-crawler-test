@@ -24,3 +24,4 @@ class TaskData(object):
     def get_parser_place_id(self):
         return self._conn.db.srandmember(self.parser_places)
 
+

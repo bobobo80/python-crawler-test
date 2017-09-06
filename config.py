@@ -2,7 +2,12 @@
 mfw-crawler的配置项
 """
 
-CELERY_BROKER = 'redis://192.168.11.10:6379/1'
+REDIS_HOST = '192.168.11.10'
+REDIS_PORT = 6379
+REDIS_DB = 0
+
+CELERY_REDIS_DB = 1
+CELERY_BROKER = 'redis://{host}:{port}/{db}'.format(host=REDIS_HOST, port=REDIS_PORT, db=CELERY_REDIS_DB)
 # CELERY_BACKEND = 'redis://192.168.11.10:6379/1'
 CELERY_BACKEND = None
 
@@ -10,7 +15,4 @@ MONGO_HOST = '192.168.11.10'
 MONGO_PORT = 27017
 MONGO_DBNAME = 'mfw_crawler'
 
-REDIS_HOST = '192.168.11.10'
-REDIS_PORT = 6379
-REDIS_DB = 0
 
