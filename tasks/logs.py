@@ -6,6 +6,8 @@ from web_get.webget import WebRequest, TimeoutException, ResponseException
 from db.travellog import Tlog
 from db.taskmodel import TaskData
 from mfw_parser import log_parser
+# from .taskdecorator import check_queue_busy
+from db.celerymodel import CeleryModel
 
 
 @app.task(bind=True)
@@ -31,6 +33,8 @@ def schedule_download_logs(input_pid=None):
     """
     随机获取待下载的place_id, 下载其中未下载的游记
     """
+    if CeleryModel().is_queue_busy():
+        return
     if input_pid:
         place_id = input_pid
     else:
@@ -44,6 +48,8 @@ def schedule_parser_logs(input_pid=None):
     """
     随机获取待解析的place_id, 解析其中的logs
     """
+    if CeleryModel().is_queue_busy():
+        return
     if input_pid:
         pid = input_pid
     else:
