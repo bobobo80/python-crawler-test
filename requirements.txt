@@ -7,7 +7,7 @@ celery==5.2.2
 certifi==2017.7.27.1
 chardet==3.0.4
 fake-useragent==0.1.7
-flower==1.0.1
+flower==1.2.0
 idna==2.6
 kombu==4.1.0
 lxml==4.9.1
