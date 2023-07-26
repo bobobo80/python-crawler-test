@@ -4,7 +4,7 @@ beautifulsoup4==4.6.0
 billiard==3.5.0.3
 bs4==0.0.1
 celery==5.2.2
-certifi==2022.12.7
+certifi==2023.7.22
 chardet==3.0.4
 fake-useragent==0.1.7
 flower==1.2.0
